@@ -1,0 +1,34 @@
+* GAMES
++ https://pokemon.com
+- traffic-count_6.6_M
+- traffic-value_$919K
+- domain-rating_82
+* HOBBIES AND LEISURE
++ https://cricut.com
+- traffic-count_1.7_M
+- traffic-value_$307K
+- domain-rating_78
++ https://gunduzniyetine.com
+- traffic-count_606_K
+- traffic-value_$218
+- domain-rating_1.9
+* HOME AND GARDEN
++ https://reshak.ru
+- traffic-count_2.7_M
+- traffic-value_$8
+- domain-rating_34
+* PETS AND ANIMALS
++ https://losanimalitos.net
+- traffic-count_575_K
+- traffic-value_$559
+- domain-rating_6
+* SCIENCE
++ https://gismeteo.by
+- traffic-count_8.8_M
+- traffic-value_$282
+- domain-rating_65
+* SHOPPING
++ https://mercadolibre.com.mx
+- traffic-count_52_M
+- traffic-value_$3.4M
+- domain-rating_85
