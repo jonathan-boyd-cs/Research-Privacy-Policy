@@ -1,0 +1,16 @@
+
+X-train
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(X-train)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Train2/FeatureScaled/X_train.csv'
+
+x-test
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(x-test)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Test2/FeatureScaled/X_test.csv'
+
+y-test
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(y-test)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Test2/y_test.csv'
+
+y-train
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(y-train)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Train2/y_train.csv'

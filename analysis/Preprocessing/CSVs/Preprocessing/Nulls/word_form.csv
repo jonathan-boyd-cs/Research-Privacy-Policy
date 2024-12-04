@@ -1,0 +1,91 @@
+,URL,Industry,Country,State,WORDS,CAPABILITY,LEGAL,BUSINESS_FOCUS,UTILIZATION,INNOVATION,SECURITY,EDUCATION,TECHNOLOGY
+0,https://sephora.com,BEAUTY AND FITNESS,US,FL,222.0,73.0,64.0,30.0,17.0,15.0,34.0,37.0,10.0
+1,https://glamour.com,BEAUTY AND FITNESS,US,NY,426.0,92.0,110.0,100.0,39.0,11.0,30.0,37.0,6.0
+2,https://yelp.com,BEAUTY AND FITNESS,US,CA,293.0,106.0,73.0,65.0,58.0,7.0,31.0,45.0,14.0
+3,https://eudora.com.br,BEAUTY AND FITNESS,BR,NON-US,10.0,8.0,10.0,12.0,15.0,2.0,14.0,28.0,0.0
+4,https://disneyplus.com,ENTERTAINMENT,US,CA,20.0,8.0,15.0,8.0,5.0,1.0,5.0,8.0,4.0
+5,https://youtube.com,ENTERTAINMENT,US,CA,552.0,114.0,47.0,39.0,67.0,23.0,89.0,109.0,14.0
+6,https://dogster.com,PETS AND ANIMALS,US,AZ,113.0,40.0,27.0,20.0,19.0,7.0,12.0,26.0,5.0
+7,https://dogtime.com,PETS AND ANIMALS,US,AZ,194.0,42.0,42.0,26.0,26.0,10.0,10.0,33.0,20.0
+8,https://expertoanimal.com,PETS AND ANIMALS,US,AZ,15.0,3.0,0.0,0.0,1.0,0.0,0.0,22.0,0.0
+9,https://wildlifetrusts.org,PETS AND ANIMALS,US,AZ,213.0,42.0,28.0,24.0,54.0,8.0,19.0,32.0,23.0
+10,https://cats.com,PETS AND ANIMALS,US,AZ,39.0,3.0,10.0,4.0,5.0,3.0,5.0,4.0,3.0
+11,https://litter-robot.com,PETS AND ANIMALS,US,AZ,18.0,3.0,6.0,1.0,0.0,3.0,3.0,7.0,2.0
+12,https://lancasterpuppies.com,PETS AND ANIMALS,US,AZ,79.0,13.0,13.0,11.0,8.0,3.0,6.0,14.0,3.0
+13,https://aquariumcoop.com,PETS AND ANIMALS,US,AZ,22.0,8.0,11.0,6.0,3.0,3.0,3.0,10.0,2.0
+14,https://trustedhousesitters.com,PETS AND ANIMALS,US,AZ,205.0,37.0,39.0,15.0,81.0,2.0,5.0,17.0,3.0
+15,https://petmd.com,PETS AND ANIMALS,US,FL,347.0,85.0,70.0,62.0,39.0,19.0,18.0,32.0,16.0
+16,https://petinsurance.com,PETS AND ANIMALS,US,FL,21.0,6.0,11.0,3.0,0.0,1.0,2.0,13.0,1.0
+17,https://spotpet.com,PETS AND ANIMALS,US,FL,126.0,34.0,43.0,15.0,8.0,2.0,12.0,8.0,2.0
+18,https://aspca.org,PETS AND ANIMALS,US,NY,141.0,34.0,19.0,21.0,8.0,5.0,13.0,19.0,9.0
+19,https://adoptapet.com,PETS AND ANIMALS,US,NY,63.0,12.0,6.0,3.0,1.0,7.0,4.0,20.0,11.0
+20,https://aspcapetinsurance.com,PETS AND ANIMALS,US,NY,190.0,60.0,33.0,20.0,13.0,2.0,20.0,19.0,18.0
+21,https://petco.com,PETS AND ANIMALS,US,CA,56.0,11.0,8.0,5.0,1.0,5.0,1.0,8.0,3.0
+22,https://wagwalking.com,PETS AND ANIMALS,US,CA,496.0,120.0,134.0,86.0,46.0,28.0,60.0,40.0,18.0
+23,https://sandiegozoo.org,PETS AND ANIMALS,US,CA,65.0,14.0,21.0,8.0,4.0,2.0,7.0,2.0,3.0
+24,https://animalia.bio,PETS AND ANIMALS,US,CA,63.0,25.0,18.0,13.0,16.0,3.0,3.0,6.0,9.0
+25,https://livemint.com,FINANCE,US,AZ,267.0,67.0,69.0,36.0,52.0,13.0,18.0,22.0,11.0
+26,https://businessinsider.com,FINANCE,US,AZ,436.0,102.0,112.0,54.0,93.0,30.0,41.0,57.0,7.0
+27,https://bankbazaar.com,FINANCE,US,AZ,211.0,21.0,42.0,31.0,19.0,9.0,33.0,10.0,4.0
+28,https://hangikredi.com,FINANCE,US,AZ,76.0,1.0,13.0,5.0,16.0,3.0,4.0,8.0,6.0
+29,https://wise.com,FINANCE,US,CA,425.0,99.0,145.0,40.0,147.0,13.0,36.0,34.0,3.0
+30,https://tradingview.com,FINANCE,US,CA,284.0,60.0,63.0,36.0,92.0,18.0,37.0,28.0,4.0
+31,https://paypal.com,FINANCE,US,CA,483.0,99.0,72.0,54.0,69.0,4.0,58.0,58.0,13.0
+32,https://coinmarketcap.com,FINANCE,US,CA,50.0,11.0,5.0,8.0,12.0,4.0,3.0,23.0,7.0
+33,https://intuit.com,FINANCE,US,CA,19.0,6.0,2.0,7.0,6.0,1.0,6.0,9.0,6.0
+34,https://coinbase.com,FINANCE,US,CA,31.0,2.0,19.0,2.0,1.0,1.0,6.0,11.0,1.0
+35,https://schwab.com,FINANCE,US,CA,122.0,18.0,21.0,18.0,5.0,4.0,16.0,35.0,14.0
+36,https://wellsfargo.com,FINANCE,US,CA,100.0,24.0,70.0,18.0,26.0,0.0,20.0,32.0,18.0
+37,https://experian.com,FINANCE,US,CA,204.0,79.0,63.0,22.0,108.0,8.0,32.0,111.0,1.0
+38,https://creditkarma.com,FINANCE,US,CA,514.0,168.0,83.0,51.0,69.0,19.0,64.0,45.0,15.0
+39,https://forbes.com,FINANCE,US,NY,558.0,162.0,101.0,89.0,111.0,20.0,48.0,79.0,17.0
+40,https://investopedia.com,FINANCE,US,NY,13.0,1.0,6.0,4.0,0.0,4.0,1.0,6.0,2.0
+41,https://americanexpress.com,FINANCE,US,NY,58.0,16.0,6.0,3.0,19.0,1.0,11.0,25.0,0.0
+42,https://finance.yahoo.com,FINANCE,US,VA,157.0,20.0,30.0,18.0,18.0,3.0,18.0,22.0,5.0
+43,https://capitalone.com,FINANCE,US,VA,19.0,9.0,6.0,1.0,4.0,0.0,6.0,15.0,0.0
+44,https://cnbc.com,FINANCE,US,NJ,37.0,8.0,6.0,6.0,6.0,4.0,4.0,10.0,4.0
+45,https://bankrate.com,FINANCE,US,ID,449.0,105.0,101.0,34.0,175.0,7.0,29.0,132.0,4.0
+46,https://bankofamerica.com,FINANCE,US,NC,257.0,50.0,40.0,57.0,28.0,4.0,46.0,61.0,7.0
+47,https://chase.com,FINANCE,US,DE,70.0,16.0,10.0,2.0,1.0,0.0,21.0,41.0,1.0
+48,https://westernunion.com,FINANCE,US,CO,44.0,8.0,2.0,11.0,2.0,0.0,7.0,8.0,11.0
+49,https://nasdaq.com,FINANCE,US,CT,362.0,100.0,145.0,59.0,124.0,10.0,22.0,34.0,13.0
+50,https://discover.com,FINANCE,US,IL,23.0,7.0,8.0,3.0,1.0,1.0,6.0,6.0,0.0
+51,https://fidelity.com,FINANCE,US,MA,62.0,10.0,11.0,7.0,2.0,0.0,15.0,12.0,11.0
+52,https://pnc.com,FINANCE,US,PA,330.0,56.0,72.0,72.0,54.0,8.0,34.0,62.0,30.0
+53,https://usbank.com,FINANCE,US,MN,41.0,3.0,16.0,8.0,0.0,0.0,7.0,15.0,2.0
+54,https://microsoft.com,COMPUTERS AND ELECTRONICS,US,WA,1630.0,407.0,165.0,276.0,632.0,77.0,309.0,330.0,70.0
+55,https://apple.com,COMPUTERS AND ELECTRONICS,US,CA,76.0,13.0,18.0,2.0,22.0,1.0,13.0,41.0,9.0
+56,https://github.com,COMPUTERS AND ELECTRONICS,US,CA,279.0,60.0,47.0,45.0,94.0,15.0,45.0,37.0,32.0
+57,https://hp.com,COMPUTERS AND ELECTRONICS,US,CA,115.0,56.0,22.0,53.0,139.0,17.0,57.0,70.0,29.0
+58,https://icloud.com,COMPUTERS AND ELECTRONICS,US,CA,4.0,30.0,64.0,22.0,73.0,1.0,28.0,24.0,9.0
+59,https://oracle.com,COMPUTERS AND ELECTRONICS,US,CA,204.0,46.0,49.0,27.0,45.0,5.0,17.0,27.0,9.0
+60,https://cloud.google.com,COMPUTERS AND ELECTRONICS,US,CA,446.0,114.0,47.0,39.0,67.0,23.0,89.0,109.0,14.0
+61,https://autodesk.com,COMPUTERS AND ELECTRONICS,US,CA,294.0,85.0,69.0,42.0,94.0,13.0,24.0,48.0,6.0
+62,https://webpkgcache.com,COMPUTERS AND ELECTRONICS,US,CA,552.0,114.0,47.0,39.0,67.0,23.0,89.0,109.0,14.0
+63,https://ilovepdf.com,COMPUTERS AND ELECTRONICS,US,AZ,5.0,2.0,6.0,1.0,4.0,1.0,6.0,20.0,8.0
+64,https://iloveimg.com,COMPUTERS AND ELECTRONICS,US,AZ,3.0,2.0,72.0,27.0,106.0,10.0,12.0,20.0,10.0
+65,https://freepdfconvert.com,COMPUTERS AND ELECTRONICS,US,AZ,23.0,5.0,14.0,2.0,3.0,1.0,5.0,1.0,0.0
+66,https://fotor.com,COMPUTERS AND ELECTRONICS,US,AZ,111.0,26.0,26.0,13.0,19.0,25.0,3.0,14.0,12.0
+67,https://bluestacks.com,COMPUTERS AND ELECTRONICS,US,AZ,998.0,270.0,274.0,170.0,200.0,48.0,106.0,170.0,54.0
+68,https://techtarget.com,COMPUTERS AND ELECTRONICS,US,MA,353.0,74.0,85.0,69.0,169.0,29.0,111.0,69.0,17.0
+69,https://cnet.com,COMPUTERS AND ELECTRONICS,US,NY,109.0,50.0,44.0,17.0,60.0,17.0,23.0,33.0,8.0
+70,https://stackoverflow.com,COMPUTERS AND ELECTRONICS,US,NY,459.0,89.0,78.0,90.0,96.0,19.0,54.0,59.0,11.0
+71,https://pcmag.com,COMPUTERS AND ELECTRONICS,US,NY,24.0,9.0,2.0,3.0,0.0,4.0,7.0,13.0,0.0
+72,https://ibm.com,COMPUTERS AND ELECTRONICS,US,NY,21.0,5.0,2.0,9.0,8.0,43.0,20.0,19.0,4.0
+73,https://loveandlemons.com,FOOD AND DRINK,US,AZ,18.0,3.0,4.0,10.0,4.0,3.0,0.0,4.0,1.0
+74,https://sallysbakingaddiction.com,FOOD AND DRINK,US,AZ,143.0,38.0,34.0,35.0,27.0,11.0,13.0,9.0,18.0
+75,https://thekitchn.com,FOOD AND DRINK,US,AZ,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+76,https://tastesbetterfromscratch.com,FOOD AND DRINK,US,AZ,109.0,16.0,15.0,16.0,8.0,7.0,9.0,7.0,15.0
+77,https://swiggy.com,FOOD AND DRINK,US,AZ,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+78,https://natashaskitchen.com,FOOD AND DRINK,US,AZ,74.0,15.0,21.0,17.0,12.0,2.0,6.0,16.0,3.0
+79,https://downshiftology.com,FOOD AND DRINK,US,AZ,94.0,25.0,18.0,11.0,18.0,5.0,2.0,11.0,15.0
+80,https://rentcafe.com,REAL ESTATE,US,ID,23.0,8.0,2.0,4.0,1.0,2.0,3.0,8.0,11.0
+81,https://apartments.com,REAL ESTATE,US,DC,264.0,59.0,48.0,45.0,27.0,22.0,23.0,18.0,4.0
+82,https://homes.com,REAL ESTATE,US,DC,370.0,84.0,81.0,55.0,34.0,24.0,27.0,25.0,4.0
+83,https://realtor.com,REAL ESTATE,US,FL,46.0,8.0,7.0,7.0,6.0,0.0,2.0,16.0,1.0
+84,https://redfin.com,REAL ESTATE,US,AZ,32.0,9.0,9.0,9.0,1.0,3.0,2.0,7.0,5.0
+85,https://aplaceformom.com,REAL ESTATE,US,AZ,178.0,42.0,41.0,25.0,13.0,9.0,13.0,10.0,5.0
+86,https://valuecom.com,REAL ESTATE,US,AZ,14.0,3.0,5.0,3.0,2.0,0.0,4.0,4.0,3.0
+87,https://housing.com,REAL ESTATE,US,CO,21.0,2.0,6.0,0.0,0.0,10.0,1.0,7.0,0.0
+88,https://remax.com,REAL ESTATE,US,CO,173.0,41.0,46.0,27.0,16.0,8.0,20.0,22.0,11.0
+89,https://rent.com,REAL ESTATE,US,GA,227.0,71.0,57.0,42.0,24.0,6.0,17.0,15.0,7.0

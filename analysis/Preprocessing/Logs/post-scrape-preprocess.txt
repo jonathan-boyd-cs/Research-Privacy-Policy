@@ -1,0 +1,40 @@
+
+clean_main_traffic_value_and_rating
+(CSVToDataFrameStore) unexpected error in panda creation...(clean_main_traffic_value_and_rating)
+error --> list index out of range
+
+clean_main_avg_complexity
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(clean_main_avg_complexity)
+error --> [Errno 2] No such file or directory: './Preprocessing/CSVs/clean_main_avg_complexity.csv'
+
+X-train
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(X-train)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Train2/FeatureScaled/X_train.csv'
+
+x-test
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(x-test)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Test2/FeatureScaled/X_test.csv'
+
+y-test
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(y-test)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Test2/y_test.csv'
+
+y-train
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(y-train)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Train2/y_train.csv'
+
+X-train
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(X-train)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Train2/FeatureScaled/X_train.csv'
+
+x-test
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(x-test)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Test2/FeatureScaled/X_test.csv'
+
+y-test
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(y-test)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Test2/y_test.csv'
+
+y-train
+(CSVToDataFrameStore) unexpected error in loading and storing csv file...(y-train)
+error --> [Errno 2] No such file or directory: '../../analysis/Preprocessing/CSVs/Preprocessing/Train2/y_train.csv'

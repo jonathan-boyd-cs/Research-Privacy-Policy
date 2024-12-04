@@ -1,0 +1,19 @@
+,URL,Industry,Country,State,flesch_kincaid,automated_readability,coleman_liau,flesch_reading_ease,gunning_fog,smog,standard,dale_chall
+43,https://capitalone.com,FINANCE,US,VA,12.4,14.9,13.69,42.41,10.52,14.7,15.0,7.03
+22,https://wagwalking.com,PETS AND ANIMALS,US,CA,8.8,11.3,12.17,57.16,7.8,12.1,12.0,6.96
+0,https://sephora.com,BEAUTY AND FITNESS,US,FL,13.1,16.1,14.1,40.69,10.71,15.3,11.0,6.55
+44,https://cnbc.com,FINANCE,US,NJ,8.7,10.5,12.86,51.95,7.9,11.9,8.0,7.88
+50,https://discover.com,FINANCE,US,IL,12.5,14.6,13.4,42.0,10.13,14.8,15.0,6.27
+19,https://adoptapet.com,PETS AND ANIMALS,US,NY,12.1,13.8,13.0,43.22,10.72,14.0,14.0,7.1
+39,https://forbes.com,FINANCE,US,NY,12.0,14.4,13.87,43.53,9.44,14.7,15.0,6.16
+10,https://cats.com,PETS AND ANIMALS,US,AZ,10.0,11.9,11.71,54.12,9.52,12.5,10.0,7.27
+12,https://lancasterpuppies.com,PETS AND ANIMALS,US,AZ,8.9,10.7,11.59,56.76,8.57,11.2,9.0,7.89
+51,https://fidelity.com,FINANCE,US,MA,11.3,13.6,13.74,45.15,10.66,14.1,14.0,7.96
+42,https://finance.yahoo.com,FINANCE,US,VA,8.1,9.2,9.57,64.3,8.18,10.6,8.0,6.97
+29,https://wise.com,FINANCE,US,CA,10.3,11.8,12.69,47.89,9.82,12.9,13.0,7.9
+64,https://iloveimg.com,COMPUTERS AND ELECTRONICS,US,AZ,11.2,12.6,12.64,45.56,10.36,13.7,13.0,8.06
+41,https://americanexpress.com,FINANCE,US,NY,8.8,10.2,11.3,57.06,10.64,12.0,12.0,9.89
+9,https://wildlifetrusts.org,PETS AND ANIMALS,US,AZ,8.3,9.1,10.08,58.48,9.34,11.3,9.0,8.47
+13,https://aquariumcoop.com,PETS AND ANIMALS,US,AZ,11.7,13.2,13.0,44.14,10.0,13.0,13.0,7.63
+72,https://ibm.com,COMPUTERS AND ELECTRONICS,US,NY,6.9,8.2,9.5,67.45,9.19,10.4,9.0,8.8
+49,https://nasdaq.com,FINANCE,US,CT,9.4,11.3,11.95,55.54,9.75,11.2,10.0,8.33
