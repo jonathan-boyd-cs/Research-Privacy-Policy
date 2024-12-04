@@ -5,7 +5,6 @@
 
 ## Contributor
 - **Jonathan Boyd**
-- 
 #### Please see the requirements.txt file for information on necessary packages if you wish to explore the codebase.
 
 The question arose... How does a computer scientist develop a methodology to research privacy policy practices as they stand today? This question was resolved to an effort to develop a comprehensive and generalized web scraper, in order to analyze various website's privacy policy pages. The motive; to find key words and phrases and develop a meaningful scoring system or understanding with this newfound information. The details of this pursuit are found in the <code>'Research-Policy.pdf'</code> document.
