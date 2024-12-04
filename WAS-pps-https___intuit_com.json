@@ -1,0 +1,798 @@
+{
+    "https://intuit.com": {
+        "data": {
+            "0": {
+                "link-0": {
+                    "WORDS": {
+                        "we": {
+                            "text": {
+                                "we": [
+                                    {
+                                        "0": "WHAT WE DO"
+                                    },
+                                    {
+                                        "1": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "promise": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "only": {
+                            "text": {
+                                "only": [
+                                    {
+                                        "0": "We safeguard the information you share with us with some of the industry’s best practices. The innovative technology we use helps stop fraudsters in their tracks and ensures only you can access your Intuit Account."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "information": {
+                            "text": {
+                                "information": [
+                                    {
+                                        "0": "When you use one of our offerings such as TurboTax, Credit Karma, QuickBooks, and Mailchimp - you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices."
+                                    },
+                                    {
+                                        "1": "We safeguard the information you share with us with some of the industry’s best practices. The innovative technology we use helps stop fraudsters in their tracks and ensures only you can access your Intuit Account."
+                                    },
+                                    {
+                                        "2": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    },
+                                    {
+                                        "3": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    }
+                                ]
+                            },
+                            "count": 4
+                        },
+                        "use": {
+                            "text": {
+                                "use": [
+                                    {
+                                        "0": "When you use one of our offerings such as TurboTax, Credit Karma, QuickBooks, and Mailchimp - you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices."
+                                    },
+                                    {
+                                        "1": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    },
+                                    {
+                                        "2": "We safeguard the information you share with us with some of the industry’s best practices. The innovative technology we use helps stop fraudsters in their tracks and ensures only you can access your Intuit Account."
+                                    },
+                                    {
+                                        "3": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    },
+                                    {
+                                        "4": "Learn more about how we use your data"
+                                    },
+                                    {
+                                        "5": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    },
+                                    {
+                                        "6": "These cookies are strictly necessary to provide you with the services and features  available through our site. Because these cookies are strictly necessary to deliver the site, you cannot refuse them without impacting how the site functions."
+                                    }
+                                ]
+                            },
+                            "count": 7
+                        },
+                        "why": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "priv": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "other": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "if": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "when": {
+                            "text": {
+                                "when": [
+                                    {
+                                        "0": "When you use one of our offerings such as TurboTax, Credit Karma, QuickBooks, and Mailchimp - you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices."
+                                    },
+                                    {
+                                        "1": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "help": {
+                            "text": {
+                                "help": [
+                                    {
+                                        "0": "When you use one of our offerings such as TurboTax, Credit Karma, QuickBooks, and Mailchimp - you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices."
+                                    },
+                                    {
+                                        "1": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "access": {
+                            "text": {
+                                "access": [
+                                    {
+                                        "0": "We safeguard the information you share with us with some of the industry’s best practices. The innovative technology we use helps stop fraudsters in their tracks and ensures only you can access your Intuit Account."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "can't access": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "CAPABILITY": {
+                        "we will not": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we only": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we collect": {
+                            "text": {
+                                "we collect": [
+                                    {
+                                        "0": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "we may collect": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we gather data": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you may": {
+                            "text": {
+                                "you may": [
+                                    {
+                                        "0": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "you can": {
+                            "text": {
+                                "you can": [
+                                    {
+                                        "0": "We safeguard the information you share with us with some of the industry’s best practices. The innovative technology we use helps stop fraudsters in their tracks and ensures only you can access your Intuit Account."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "right": {
+                            "text": {
+                                "right": [
+                                    {
+                                        "0": "We believe in everyone’s right to privacy﻿"
+                                    },
+                                    {
+                                        "1": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "choice": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "request": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "delete": {
+                            "text": {
+                                "delete": [
+                                    {
+                                        "0": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "deletion": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "remove": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "removal": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "erase": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "LEGAL": {
+                        "contract": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "agreement": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "obligation": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you control": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we control": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "legal": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "authority": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "comply": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "compliant": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "law": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "enforce": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "govern": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "regulators": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "regulatory": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "policy": {
+                            "text": {
+                                "policy": [
+                                    {
+                                        "0": "Cookies Policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "international": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "in accordane with": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "california": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "children": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "kid": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "child": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "youth": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "young": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "minor": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you consented": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you consent": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you agree": {
+                            "text": {
+                                "you agree": [
+                                    {
+                                        "0": "Photographs © 2018 Jeremy Bittermann Photography. By accessing and using this page you agree to the terms and conditions."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "your agreement": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you acknowledge": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you acknowledged": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you signed": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you approve": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you approved": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "your permission": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you accepted": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you read": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "BUSINESS_FOCUS": {
+                        "third parties": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "third-party": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "third party": {
+                            "text": {
+                                "third party": [
+                                    {
+                                        "0": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "advertising": {
+                            "text": {
+                                "advertising": [
+                                    {
+                                        "0": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    },
+                                    {
+                                        "1": "Advertising (Targeting) Cookies"
+                                    },
+                                    {
+                                        "2": "Advertising (Targeting) Cookies"
+                                    },
+                                    {
+                                        "3": "These cookies are used to make advertising messages more relevant to you and your interests. They also perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed, and in some cases selecting advertisements that are based on your interests."
+                                    }
+                                ]
+                            },
+                            "count": 4
+                        },
+                        "sends to": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "sell to": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "share with": {
+                            "text": {
+                                "share with": [
+                                    {
+                                        "0": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    },
+                                    {
+                                        "1": "We safeguard the information you share with us with some of the industry’s best practices. The innovative technology we use helps stop fraudsters in their tracks and ensures only you can access your Intuit Account."
+                                    },
+                                    {
+                                        "2": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    }
+                                ]
+                            },
+                            "count": 3
+                        },
+                        "exchange": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "improve": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "optimize": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "increase": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "benefit": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "enhance": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "innovate": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "technologial innovation": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "UTILIZATION": {
+                        "data": {
+                            "text": {
+                                "data": [
+                                    {
+                                        "0": "Keeping your data safe"
+                                    },
+                                    {
+                                        "1": "When you use one of our offerings such as TurboTax, Credit Karma, QuickBooks, and Mailchimp - you trust us with your personal and professional financial information. We help safeguard that data and protect your privacy by using industry-leading technology and practices."
+                                    },
+                                    {
+                                        "2": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    },
+                                    {
+                                        "3": "Read our data stewardship principles"
+                                    },
+                                    {
+                                        "4": "Putting your data to good use"
+                                    },
+                                    {
+                                        "5": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    }
+                                ]
+                            },
+                            "count": 6
+                        },
+                        "we process": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "collected": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "stored": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "retention": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "INNOVATION": {
+                        "analyze": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "analysis": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "analytics": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "automate": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "automatic": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "AI": {
+                            "text": {
+                                "AI": [
+                                    {
+                                        "0": "Responsible AI "
+                                    },
+                                    {
+                                        "1": "Responsible AI "
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "automatically": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "artificial intelligence": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "algorithm": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "language processing": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "SECURITY": {
+                        "control": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "settings": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "controls": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "fraud": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "to detect": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "malicious": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "illegal activity": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "to protect": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "encryption": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "security": {
+                            "text": {
+                                "security": [
+                                    {
+                                        "0": "Privacy & Security "
+                                    },
+                                    {
+                                        "1": "Security Center"
+                                    },
+                                    {
+                                        "2": "Security Center"
+                                    },
+                                    {
+                                        "3": "Our Security Practices"
+                                    },
+                                    {
+                                        "4": "Account Security Checklist "
+                                    },
+                                    {
+                                        "5": "Security Notices "
+                                    },
+                                    {
+                                        "6": "Privacy & Security "
+                                    },
+                                    {
+                                        "7": "Security Center"
+                                    },
+                                    {
+                                        "8": "Our Security Practices"
+                                    },
+                                    {
+                                        "9": "Account Security Checklist "
+                                    },
+                                    {
+                                        "10": "Security Notices "
+                                    },
+                                    {
+                                        "11": "Report a security issue"
+                                    }
+                                ]
+                            },
+                            "count": 12
+                        },
+                        "unauthorized": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "auditing": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "EDUCATION": {
+                        "how": {
+                            "text": {
+                                "how": [
+                                    {
+                                        "0": "We use the data you share with us to help you reach your financial goals while giving you choices on how we collect and share it. You also have the power to download, update, and delete your data right from your Intuit Account without having to call or email us."
+                                    },
+                                    {
+                                        "1": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    },
+                                    {
+                                        "2": "Learn more about how we use your data"
+                                    },
+                                    {
+                                        "3": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    },
+                                    {
+                                        "4": "These cookies are strictly necessary to provide you with the services and features  available through our site. Because these cookies are strictly necessary to deliver the site, you cannot refuse them without impacting how the site functions."
+                                    }
+                                ]
+                            },
+                            "count": 5
+                        },
+                        "what": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "how you": {
+                            "text": {
+                                "how you": [
+                                    {
+                                        "0": "We work to create innovative ways to put your data to use while protecting your privacy. The information you share with us through any of our offerings, minus your TurboTax tax preparation data, gets saved to your single Intuit Account. Having your data in one place helps us do things like show you insights about your financial situation, or know when you might like to connect with a live expert."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "how we ": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "explain": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "understand": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "learn": {
+                            "text": {
+                                "learn": [
+                                    {
+                                        "0": "Learn about our responsible AI"
+                                    },
+                                    {
+                                        "1": "Learn more about how we use your data"
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "more information": {
+                            "text": {
+                                "more information": [
+                                    {
+                                        "0": "Intuit digital properties use cookies, pixels, tags and similar technologies to provide you the best possible experience on and off our sites. You may opt-out of the use of cookies and trackers that may share some limited personal information with our third party advertising partners using the option below.  For more information on how we use Cookies and Tracking Technologies, please review ourCookies Policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "educational resource": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "educate": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "TECHNOLOGY": {
+                        "cookies": {
+                            "text": {
+                                "cookies": [
+                                    {
+                                        "0": "About cookiesManage cookies  "
+                                    },
+                                    {
+                                        "1": "Cookies and Tracking Technologies"
+                                    },
+                                    {
+                                        "2": "Cookies Policy."
+                                    },
+                                    {
+                                        "3": "These cookies are strictly necessary to provide you with the services and features  available through our site. Because these cookies are strictly necessary to deliver the site, you cannot refuse them without impacting how the site functions."
+                                    },
+                                    {
+                                        "4": "  Advertising (Targeting) Cookies "
+                                    },
+                                    {
+                                        "5": "These cookies are used to make advertising messages more relevant to you and your interests. They also perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed, and in some cases selecting advertisements that are based on your interests."
+                                    }
+                                ]
+                            },
+                            "count": 6
+                        },
+                        "mobile identifiers": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "pixel tags": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "web beacons": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "session monitoring": {
+                            "text": {},
+                            "count": 0
+                        }
+                    }
+                }
+            }
+        },
+        "entry": 1
+    }
+}
