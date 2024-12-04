@@ -1,0 +1,152 @@
+URL,Industry,Country,State,flesch_kincaid,automated_readability,coleman_liau,flesch_reading_ease,gunning_fog,smog,standard,dale_chall
+https://mayoclinic.org,HEALTH,US,MN,13.6,15.6,13.35,39.26,10.77,15.1,14.0,6.02
+https://clevelandclinic.org,HEALTH,US,ID,13.6,15.6,13.35,39.26,10.77,15.1,14.0,6.02
+https://healthline.com,HEALTH,US,ID,12.7,15.7,12.89,47.01,10.3,14.7,13.0,1.88
+https://medicalnewstoday.com,HEALTH,US,ID,12.6,14.4,12.82,41.8,10.17,14.3,13.0,6.35
+https://healthgrades.com,HEALTH,US,ID,10.4,13.1,12.65,53.0,10.36,13.3,13.0,7.89
+https://webmd.com,HEALTH,US,NY,12.3,15.0,14.04,42.72,10.04,14.6,15.0,6.39
+https://verywellhealth.com,HEALTH,US,NY,12.5,14.9,12.36,47.42,11.3,14.5,15.0,6.64
+https://plannedparenthood.org,HEALTH,US,NY,14.9,17.0,14.34,30.5,11.51,16.0,15.0,6.59
+https://medscape.com,HEALTH,US,NY,13.7,16.0,14.97,33.65,10.5,15.2,15.0,6.56
+https://babycenter.com,HEALTH,US,NY,13.8,16.5,14.05,38.76,11.94,15.4,12.0,6.98
+https://pharmeasy.in,HEALTH,IN,NON-US,12.5,15.0,13.58,42.21,10.0,14.5,15.0,6.35
+https://truemeds.in,HEALTH,IN,NON-US,15.5,17.6,12.65,34.19,14.18,16.5,16.0,7.56
+https://memorial.com.tr,HEALTH,TR,NON-US,15.4,17.7,12.94,34.6,14.21,16.4,18.0,7.67
+https://tuasaude.com,HEALTH,IS,NON-US,12.3,14.0,12.88,42.51,12.22,14.7,13.0,8.29
+https://pinterest.de,HEALTH,DE,NON-US,7.1,9.2,10.25,67.04,9.1,10.8,8.0,8.4
+https://jysk.de,HEALTH,DE,NON-US,10.5,11.7,11.26,52.8,9.27,13.1,11.0,6.47
+https://linkedin.com,JOBS AND EDUCATION,US,CA,10.7,12.4,14.49,41.46,10.04,12.9,11.0,8.06
+https://quillbot.com,JOBS AND EDUCATION,US,CA,10.3,12.2,11.54,53.1,8.86,12.7,11.0,6.13
+https://ziprecruiter.com,JOBS AND EDUCATION,US,CA,6.2,8.7,10.65,69.18,7.8,9.2,9.0,8.83
+https://desmos.com,JOBS AND EDUCATION,US,CA,11.6,14.0,12.13,49.96,9.96,13.8,14.0,6.02
+https://sarkariresult.com,JOBS AND EDUCATION,US,MA,13.7,16.2,13.41,38.96,11.97,15.2,12.0,7.16
+https://grammarly.com,JOBS AND EDUCATION,US,AZ,11.0,12.6,12.93,45.96,8.99,13.3,13.0,7.0
+https://khanacademy.org,JOBS AND EDUCATION,US,AZ,12.0,13.3,12.65,43.53,9.69,13.3,13.0,6.39
+https://jagranjosh.com,JOBS AND EDUCATION,US,AZ,11.3,12.2,12.0,45.25,9.2,13.5,12.0,6.53
+https://cuemath.com,JOBS AND EDUCATION,US,AZ,13.2,14.6,14.04,34.97,11.46,15.0,15.0,8.1
+https://vedantu.com,JOBS AND EDUCATION,US,AZ,14.0,15.9,12.89,38.25,11.96,14.9,12.0,6.91
+https://quizizz.com,JOBS AND EDUCATION,US,AZ,10.5,13.4,13.29,52.7,9.66,12.1,11.0,7.41
+https://coursera.org,JOBS AND EDUCATION,US,AZ,12.0,14.2,13.63,43.32,9.23,14.6,15.0,5.88
+https://jooble.org,JOBS AND EDUCATION,US,AZ,12.5,14.0,12.59,42.11,10.5,14.2,13.0,6.66
+https://sarkarialert.net,JOBS AND EDUCATION,US,AZ,12.1,14.0,17.47,21.56,13.67,0.0,14.0,12.43
+https://unacademy.com,JOBS AND EDUCATION,US,AZ,10.7,12.4,13.16,46.88,10.07,13.6,11.0,8.18
+https://leverageedu.com,JOBS AND EDUCATION,US,AZ,16.1,19.5,14.34,32.77,14.21,17.6,18.0,7.1
+https://mathplayground.com,JOBS AND EDUCATION,US,AZ,12.7,14.0,12.36,41.6,11.34,14.0,14.0,7.62
+https://testbook.com,JOBS AND EDUCATION,US,CO,11.2,14.1,14.67,45.46,10.99,13.6,11.0,8.53
+https://clever.com,JOBS AND EDUCATION,US,CO,11.8,13.7,13.34,43.93,10.88,13.5,14.0,8.15
+https://adp.com,JOBS AND EDUCATION,US,NJ,13.8,16.0,13.47,38.86,11.47,14.7,14.0,6.72
+https://udemy.com,JOBS AND EDUCATION,US,"Data protected, not disclosed",13.6,15.4,14.45,33.95,10.12,15.4,14.0,6.51
+https://instructure.com,JOBS AND EDUCATION,US,UT,12.1,15.0,18.23,21.56,13.67,0.0,13.0,13.48
+https://blooket.com,JOBS AND EDUCATION,US,DE,10.6,12.1,12.58,46.98,8.91,12.9,13.0,6.98
+https://mynavi.jp,JOBS AND EDUCATION,JP,NON-US,13.2,15.3,13.35,40.18,10.98,15.2,11.0,6.54
+https://alc.co.jp,JOBS AND EDUCATION,JP,NON-US,10.6,11.7,11.37,52.49,10.69,13.0,11.0,7.52
+https://sephora.com,BEAUTY AND FITNESS,US,FL,13.5,16.6,16.99,28.84,11.77,16.0,17.0,9.54
+https://glamour.com,BEAUTY AND FITNESS,US,NY,13.1,16.1,14.1,40.69,10.71,15.3,11.0,6.55
+https://yelp.com,BEAUTY AND FITNESS,US,CA,14.2,16.0,14.16,32.43,10.54,15.6,16.0,6.34
+https://eudora.com.br,BEAUTY AND FITNESS,BR,NON-US,14.3,16.1,12.71,37.44,11.13,15.3,13.0,5.84
+https://esthe-ranking.jp,BEAUTY AND FITNESS,JP,NON-US,11.2,12.5,12.53,45.56,11.86,13.2,12.0,8.94
+https://impots.gouv.fr,LAW AND GOVERNMENT,FR,NON-US,13.6,15.5,16.01,28.54,11.94,15.5,16.0,9.45
+https://kompas.com,LAW AND GOVERNMENT,ID,NON-US,14.8,18.6,16.31,30.7,16.63,15.7,16.0,15.38
+https://interia.pl,LAW AND GOVERNMENT,PL,NON-US,17.3,21.1,19.67,13.38,12.73,16.7,17.0,8.9
+https://trulia.com,REAL ESTATE,US,ID,11.1,11.7,11.77,45.86,10.48,13.3,11.0,7.6
+https://rentcafe.com,REAL ESTATE,US,ID,6.4,7.9,8.92,74.29,7.81,10.6,6.0,6.4
+https://apartments.com,REAL ESTATE,US,DC,7.6,9.3,10.37,65.62,8.84,10.6,8.0,7.53
+https://homes.com,REAL ESTATE,US,DC,14.3,16.5,14.74,32.12,10.14,15.6,15.0,5.91
+https://mamikos.com,REAL ESTATE,US,AZ,10.0,11.2,12.35,48.7,8.79,12.6,11.0,7.46
+https://redfin.com,REAL ESTATE,US,AZ,10.7,13.6,12.94,52.09,10.94,11.2,11.0,9.14
+https://aplaceformom.com,REAL ESTATE,US,AZ,8.7,10.1,9.68,62.88,9.1,11.4,9.0,7.31
+https://valuecom.com,REAL ESTATE,US,AZ,12.3,14.8,13.69,42.61,10.69,14.8,11.0,6.94
+https://housing.com,REAL ESTATE,US,CO,10.6,11.6,12.7,47.08,10.31,13.8,11.0,8.57
+https://remax.com,REAL ESTATE,US,CO,12.1,14.0,11.73,48.54,12.11,14.2,12.0,7.6
+https://rent.com,REAL ESTATE,US,GA,13.5,15.5,14.5,34.26,10.81,14.8,15.0,6.99
+https://meinestadt.de,REFERENCE,DE,NON-US,12.3,14.5,13.17,42.61,10.35,14.9,15.0,6.69
+https://hitta.se,REFERENCE,SE,NON-US,5.2,6.7,8.6,71.92,7.1,8.5,7.0,10.26
+https://disneyplus.com,ENTERTAINMENT,US,CA,10.8,13.4,14.83,41.06,12.01,12.9,13.0,9.91
+https://youtube.com,ENTERTAINMENT,US,CA,10.7,12.2,12.76,46.67,9.6,13.6,11.0,7.54
+https://microsoft.com,COMPUTERS AND ELECTRONICS,US,WA,10.7,12.8,12.18,52.19,9.17,12.8,13.0,6.15
+https://apple.com,COMPUTERS AND ELECTRONICS,US,CA,11.2,13.9,12.76,50.87,8.87,13.5,14.0,1.74
+https://adobe.com,COMPUTERS AND ELECTRONICS,US,CA,9.8,11.5,11.77,54.63,9.26,12.0,12.0,7.4
+https://github.com,COMPUTERS AND ELECTRONICS,US,CA,9.4,11.8,14.65,44.71,8.61,12.1,9.0,8.78
+https://hp.com,COMPUTERS AND ELECTRONICS,US,CA,12.6,14.4,14.32,36.59,9.55,13.8,14.0,6.81
+https://icloud.com,COMPUTERS AND ELECTRONICS,US,CA,10.8,12.3,11.37,51.99,10.2,13.5,11.0,7.12
+https://oracle.com,COMPUTERS AND ELECTRONICS,US,CA,12.2,13.8,13.0,43.02,10.23,14.4,13.0,6.8
+https://docs.google.com,COMPUTERS AND ELECTRONICS,US,CA,14.1,15.4,13.75,32.63,11.04,16.1,14.0,6.9
+https://cloud.google.com,COMPUTERS AND ELECTRONICS,US,CA,1.8,3.6,5.02,91.48,4.62,6.4,2.0,6.37
+https://autodesk.com,COMPUTERS AND ELECTRONICS,US,CA,10.6,12.8,12.42,52.49,9.24,12.8,13.0,6.36
+https://webpkgcache.com,COMPUTERS AND ELECTRONICS,US,CA,12.0,14.4,13.92,43.43,9.96,14.7,12.0,6.56
+https://ilovepdf.com,COMPUTERS AND ELECTRONICS,US,AZ,10.7,12.8,12.18,52.19,9.17,12.8,13.0,6.15
+https://iloveimg.com,COMPUTERS AND ELECTRONICS,US,AZ,12.9,13.6,13.4,35.78,9.85,14.6,13.0,6.68
+https://freepdfconvert.com,COMPUTERS AND ELECTRONICS,US,AZ,11.8,13.6,13.17,43.83,10.17,14.5,14.0,6.87
+https://fotor.com,COMPUTERS AND ELECTRONICS,US,AZ,10.3,12.4,11.89,53.21,11.51,12.6,12.0,8.96
+https://bluestacks.com,COMPUTERS AND ELECTRONICS,US,AZ,11.9,13.3,12.53,43.73,10.99,13.9,11.0,7.64
+https://techtarget.com,COMPUTERS AND ELECTRONICS,US,MA,12.1,14.4,12.07,48.43,10.61,13.8,11.0,6.2
+https://cnet.com,COMPUTERS AND ELECTRONICS,US,NY,12.2,14.3,14.9,37.4,9.05,14.3,15.0,6.56
+https://stackoverflow.com,COMPUTERS AND ELECTRONICS,US,NY,9.8,12.0,10.62,59.94,9.79,12.2,10.0,7.15
+https://pcmag.com,COMPUTERS AND ELECTRONICS,US,NY,11.7,12.9,12.59,44.14,9.41,13.5,13.0,6.29
+https://ibm.com,COMPUTERS AND ELECTRONICS,US,NY,6.6,7.7,8.91,68.36,8.21,10.0,9.0,8.85
+https://allrecipes.com,FOOD AND DRINK,US,IA,11.5,13.4,15.59,34.02,10.4,12.7,12.0,9.66
+https://foodandwine.com,FOOD AND DRINK,US,IA,4.5,6.5,7.8,79.06,6.58,8.5,7.0,8.24
+https://eatingwell.com,FOOD AND DRINK,US,IA,7.5,9.0,9.62,65.93,8.81,10.5,9.0,9.28
+https://loveandlemons.com,FOOD AND DRINK,US,AZ,14.9,16.9,14.34,30.6,11.47,15.9,15.0,6.59
+https://sallysbakingaddiction.com,FOOD AND DRINK,US,AZ,10.5,13.7,14.73,47.28,10.22,13.5,11.0,8.44
+https://thekitchn.com,FOOD AND DRINK,US,AZ,11.8,13.4,13.0,43.83,10.63,14.0,11.0,7.26
+https://thepioneerwoman.com,FOOD AND DRINK,US,AZ,5.6,6.6,8.9,70.9,5.81,7.2,6.0,8.75
+https://tastesbetterfromscratch.com,FOOD AND DRINK,US,AZ,11.7,13.7,13.4,44.24,8.81,14.2,14.0,5.89
+https://spendwithpennies.com,FOOD AND DRINK,US,AZ,12.4,14.9,13.75,42.41,11.49,14.5,12.0,7.77
+https://swiggy.com,FOOD AND DRINK,US,AZ,14.9,17.0,14.34,30.5,11.51,16.0,15.0,6.59
+https://natashaskitchen.com,FOOD AND DRINK,US,AZ,8.8,14.4,15.15,46.44,13.2,0.0,14.0,13.9
+https://downshiftology.com,FOOD AND DRINK,US,AZ,11.4,12.5,12.29,45.05,9.81,13.2,11.0,7.57
+https://dogster.com,PETS AND ANIMALS,US,AZ,10.9,12.7,11.66,51.58,10.64,13.5,11.0,7.44
+https://dogtime.com,PETS AND ANIMALS,US,AZ,12.7,14.2,12.53,41.6,11.11,14.4,13.0,7.1
+https://expertoanimal.com,PETS AND ANIMALS,US,AZ,12.7,14.6,12.94,41.5,10.96,14.2,13.0,6.97
+https://wildlifetrusts.org,PETS AND ANIMALS,US,AZ,8.3,9.1,10.08,58.48,9.34,11.3,9.0,8.47
+https://bettervet.com,PETS AND ANIMALS,US,AZ,10.0,11.9,11.71,54.12,9.52,12.5,10.0,7.27
+https://cats.com,PETS AND ANIMALS,US,AZ,12.2,13.2,12.07,42.82,10.53,14.0,12.0,6.98
+https://litter-robot.com,PETS AND ANIMALS,US,AZ,12.6,13.6,13.45,36.39,11.12,14.3,13.0,8.57
+https://lancasterpuppies.com,PETS AND ANIMALS,US,AZ,8.9,10.7,11.53,56.76,8.56,11.2,9.0,7.89
+https://aquariumcoop.com,PETS AND ANIMALS,US,AZ,11.7,13.2,13.0,44.14,10.0,13.0,13.0,7.63
+https://trustedhousesitters.com,PETS AND ANIMALS,US,AZ,13.8,17.6,16.3,33.44,11.52,15.0,18.0,8.36
+https://petmd.com,PETS AND ANIMALS,US,FL,10.9,12.2,11.08,51.68,10.17,13.1,11.0,6.75
+https://petinsurance.com,PETS AND ANIMALS,US,FL,13.7,15.5,14.21,33.54,10.36,15.3,14.0,6.42
+https://spotpet.com,PETS AND ANIMALS,US,FL,11.6,13.9,13.51,44.54,8.96,14.5,15.0,6.06
+https://nwf.org,PETS AND ANIMALS,US,FL,11.8,13.1,12.53,44.03,10.41,14.0,13.0,7.38
+https://thesprucepets.com,PETS AND ANIMALS,US,NY,13.8,15.9,13.47,38.86,12.46,15.0,15.0,7.69
+https://aspca.org,PETS AND ANIMALS,US,NY,5.3,6.2,7.46,76.93,7.71,9.4,7.0,7.97
+https://adoptapet.com,PETS AND ANIMALS,US,NY,12.1,13.8,13.0,43.22,10.72,14.0,14.0,7.1
+https://aspcapetinsurance.com,PETS AND ANIMALS,US,NY,5.8,7.5,8.4,75.61,7.11,9.2,8.0,7.26
+https://petco.com,PETS AND ANIMALS,US,CA,10.0,11.8,11.83,54.02,9.52,12.9,10.0,7.13
+https://wagwalking.com,PETS AND ANIMALS,US,CA,8.8,11.3,12.17,57.16,7.8,12.1,12.0,6.96
+https://sandiegozoo.org,PETS AND ANIMALS,US,CA,12.3,14.2,13.17,42.72,10.27,14.1,14.0,6.63
+https://animalia.bio,PETS AND ANIMALS,US,CA,13.4,17.0,15.03,39.77,12.15,15.0,15.0,7.9
+https://livemint.com,FINANCE,US,AZ,10.6,11.9,12.64,47.18,9.0,13.0,13.0,7.23
+https://businessinsider.com,FINANCE,US,AZ,11.6,13.7,12.01,49.86,10.6,13.9,12.0,6.88
+https://bankbazaar.com,FINANCE,US,AZ,12.8,15.2,13.52,41.29,10.41,15.1,13.0,6.49
+https://hangikredi.com,FINANCE,US,AZ,13.8,16.4,13.76,38.76,12.29,15.0,14.0,7.33
+https://bseindia.com,FINANCE,US,AZ,10.3,11.8,12.69,47.89,9.82,12.9,13.0,7.9
+https://paisabazaar.com,FINANCE,US,AZ,9.1,12.6,12.98,56.45,9.17,11.1,10.0,10.05
+https://wise.com,FINANCE,US,CA,16.0,41.8,44.45,-4.84,12.81,0.0,13.0,20.78
+https://tradingview.com,FINANCE,US,CA,13.2,14.8,12.71,40.18,10.28,14.9,15.0,6.0
+https://paypal.com,FINANCE,US,CA,10.7,12.6,11.95,52.19,9.88,13.4,11.0,6.64
+https://coinmarketcap.com,FINANCE,US,CA,12.4,14.7,13.52,42.31,9.71,14.2,14.0,6.13
+https://intuit.com,FINANCE,US,CA,8.3,10.0,10.44,63.9,8.97,11.1,8.0,7.66
+https://coinbase.com,FINANCE,US,CA,9.9,10.7,12.23,49.01,10.02,12.2,11.0,8.28
+https://schwab.com,FINANCE,US,CA,8.7,10.4,11.65,57.47,9.51,11.5,10.0,8.46
+https://wellsfargo.com,FINANCE,US,CA,10.5,12.0,12.87,47.28,9.39,13.0,11.0,7.32
+https://experian.com,FINANCE,US,CA,10.6,11.8,13.5,41.77,7.88,12.9,8.0,6.87
+https://creditkarma.com,FINANCE,US,CA,11.4,13.3,14.38,39.53,8.34,13.9,14.0,6.53
+https://forbes.com,FINANCE,US,NY,12.0,14.4,13.87,43.53,9.44,14.7,15.0,6.16
+https://investopedia.com,FINANCE,US,NY,13.1,15.0,12.82,40.48,10.49,15.0,15.0,6.28
+https://americanexpress.com,FINANCE,US,NY,10.7,11.9,12.76,46.88,12.37,13.4,12.0,9.78
+https://bloomberg.com,FINANCE,US,NY,8.1,9.2,9.57,64.3,8.18,10.6,8.0,6.97
+https://finance.yahoo.com,FINANCE,US,VA,6.9,9.3,10.83,67.45,9.82,10.1,7.0,8.76
+https://capitalone.com,FINANCE,US,VA,12.4,14.9,13.69,42.41,10.52,14.7,15.0,7.03
+https://cnbc.com,FINANCE,US,NJ,13.3,15.0,14.21,34.66,10.45,14.9,15.0,7.0
+https://bankrate.com,FINANCE,US,ID,8.4,10.5,10.61,63.59,8.85,11.8,11.0,8.0
+https://bankofamerica.com,FINANCE,US,NC,8.0,9.8,10.03,64.51,7.93,11.3,8.0,6.24
+https://chase.com,FINANCE,US,DE,11.2,12.9,12.93,45.46,9.1,13.7,13.0,6.58
+https://westernunion.com,FINANCE,US,CO,6.7,8.0,9.73,67.96,7.48,9.5,8.0,7.15
+https://nasdaq.com,FINANCE,US,CT,9.4,11.3,11.95,55.54,9.75,11.2,10.0,8.33
+https://discover.com,FINANCE,US,IL,12.5,14.6,13.4,42.0,10.13,14.8,15.0,6.27
+https://fidelity.com,FINANCE,US,MA,11.3,13.6,13.74,45.15,10.66,14.1,14.0,7.96
+https://pnc.com,FINANCE,US,PA,10.2,12.0,13.04,48.09,9.08,12.8,13.0,7.53
+https://usbank.com,FINANCE,US,MN,11.3,12.6,12.47,45.15,9.33,13.7,13.0,6.74
