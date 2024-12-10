@@ -29,7 +29,9 @@ class WASFeatureExtractor:
     def add_dataset(self,id : str, data) -> None:
         self.__dataset[id] = data
     
-        
+    def remove_dataset(self, id : str) -> Non:
+        if self.has(id):
+            del self.__dataset[id]
         
     def has(self,id : str) -> bool:
         return id in self.__dataset
