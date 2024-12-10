@@ -181,8 +181,7 @@ class WASToCSVConverter:
 #verbose = True
 #file = '../../OutputFiles/WAS/CLEANING/Finalized-testing-testing-03_16AM-on-November-30.json'
 #data = [
-#    ['Industry', 'Country', 'State', 'Website', 'Traffic Count', 'Traffic Value','Domain Rating','State', 'Country',\
-#         ]
+#    ['Industry', 'Country', 'State', 'Website']
 #]
 
 #    def __def__(self, name, WASF_file, columns, web_source_list, outputDirectory, errLogDirectory, verbose=True):
