@@ -76,7 +76,7 @@ class WASTextProcessor(TextProcessor):
                 for key in self.__reference:
                     site['primary'][key] = {'count':0,
                                 'lower':{}}
-                    site['primary'][key]['count'] = self.dfs_helper(
+                    site['primary'][key]['count'] = self.__dfs_helper(
                                                 name    = website, 
                                                 key     = key, 
                                                 current = self.__reference[key], 
@@ -125,7 +125,7 @@ class WASTextProcessor(TextProcessor):
             maybe_print(self.__verbose,m)
             raise (e)
 
-    def dfs_helper(self, name :str, key :str, 
+    def __dfs_helper(self, name :str, key :str, 
                    current : dict , 
                    data : Union[dict , List[str]], 
                    prev_data : Union[dict , List[str]], 
@@ -162,7 +162,7 @@ class WASTextProcessor(TextProcessor):
                                 'lower':{}
                             }
                 
-                journal[k]['count'] = self.dfs_helper(
+                journal[k]['count'] = self.__dfs_helper(
                                     name = name, 
                                     key  = k , 
                                     current = current[k],  
