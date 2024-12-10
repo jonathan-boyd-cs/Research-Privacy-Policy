@@ -68,7 +68,7 @@ class WASDataMerger:
                                 "(WASDataMerger) merging required for page 0 to page {}...".format(
                                     key
                                 ))
-                    self.merger(
+                    self.____merger(
                             base        = merged_dataset, 
                             addition    = cWASsd[website]['pages'][key])
                 
@@ -104,7 +104,7 @@ class WASDataMerger:
             maybe_print(self.__verbose, m)    
             raise(e)
 
-    def merger(self, base : dict, addition : dict):
+    def __merger(self, base : dict, addition : dict):
         for key in base.keys():
             
             maybe_print(self.__verbose,
