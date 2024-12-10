@@ -43,12 +43,12 @@ class WASToCSVConverter:
         # assumes dataset is uniform in components per entry.
         # checking for point where the prior key trail changes, assuming thisis the point at which the terminal
         # values for the prior subject (end node)  have been fully traversed.
-        while ((self.__num_at_depth < len(list(reference))):
-            if (self.__num_at_depth == len(list(reference)) -1) and (reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth-1][:-1])):
+        while ((self.__num_at_depth < len(list(reference)))):
+            if ((self.__num_at_depth == len(list(reference)) -1) and (reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth-1][:-1])):
                 self.__num_at_depth += 1
                 continue
                 
-            if (reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth+1][:-1])):
+            if ((reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth+1][:-1])):
                 self.__num_at_depth += 1
             
         # Load WASF file
