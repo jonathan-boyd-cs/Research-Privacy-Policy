@@ -117,7 +117,7 @@ class WASToCSVConverter:
         # takes a sample which consists of only enough to provide all trails to unique terminal values
         # keys is the key name for all of such terminal values
         keys = [
-            x[-1] for x in list(self.__DKM.get_level_keys(self.__name, self.__depth))[:self.__num_at_depth+1]
+            x[-1] for x in list(self.__DKM.get_level_keys(self.__name, self.__depth))[:self.__num_at_depth]
         ]
 
         for k in keys:
