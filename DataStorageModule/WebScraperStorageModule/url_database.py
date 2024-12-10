@@ -53,4 +53,4 @@ class UrlDatabase:
         except Exception as e:
             self.__err_database.add(self.__name,
                 'url database failed to format json\
-                     for {}...\nerror -->{}'.format(filename,e))
+                     for {}...\nerror -->{}'.format(filename,str(e)))
