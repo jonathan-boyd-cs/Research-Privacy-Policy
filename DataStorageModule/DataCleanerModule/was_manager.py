@@ -205,7 +205,7 @@ class WASManager:
                     try:
                         if not 'accessory' in site:
                             site['accessory'] = {}
-                            print(site['accessory'])
+
                         for accessory in scrape_data[website]['accessory']:
                             if not accessory in accessories_store:
                                 accessories_store[accessory] = 'N/A'
