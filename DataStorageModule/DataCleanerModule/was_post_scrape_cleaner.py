@@ -111,10 +111,10 @@ class WASDataCleaner:
                         for key in self.__phrase_references:
                             maybe_print(self.__verbose,
                                     "(WASDataCleaner) processing top level:  {}".format(key))
-                            self.dfs_helper(
+                            self.__dfs_helper(
                                             data_container[key],
                                             key, data_container,
-                                            self.default_clean, 
+                                            self.__default_clean, 
                                             data_main[link_query][link][key], 
                                             data_main[link_query][link] 
                                             )
@@ -147,7 +147,7 @@ class WASDataCleaner:
             raise(e)
             
     
-    def dfs_helper(self, current : Union[dict, int, float], key : str, previous : dict, act : Callable , data : dict, prev_data : dict) -> None:
+    def __dfs_helper(self, current : Union[dict, int, float], key : str, previous : dict, act : Callable , data : dict, prev_data : dict) -> None:
         """
             Function acts as a diver, traversing a heirarchical structure until reaching a depth, followed by carrying out some act on data.
             Traverses the heirarchical phrase list in this instance.
@@ -163,7 +163,7 @@ class WASDataCleaner:
             for k in current:
                 maybe_print(self.__verbose,
                     "(WASDataCleaner) traversing sublebel for ({})...".format(k))
-                self.dfs_helper(current[k],k,current, act, data[k],data)
+                self.__dfs_helper(current[k],k,current, act, data[k],data)
                 maybe_print(self.__verbose,
                     "(WASDataCleaner) returned - sublebel  ({})...".format(k))   
             maybe_print(self.__verbose,
@@ -174,7 +174,7 @@ class WASDataCleaner:
             self.__err_database.add(self.__name,m)  
             raise(e)
         
-    def default_clean(self, data, key):
+    def __default_clean(self, data, key):
         maybe_print(self.__verbose,
                     "(WASDataCleaner) beginning cleaning process for ({})...".format(key))
         work = data['text']
