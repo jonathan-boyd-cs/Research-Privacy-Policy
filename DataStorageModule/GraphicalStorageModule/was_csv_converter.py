@@ -41,8 +41,16 @@ class WASToCSVConverter:
         reference = self.__DKM.get_level_keys(self.__name,self.__depth)
         # Determines number of terminal values in the tree.
         # assumes dataset is uniform in components per entry.
-        while ((self.__num_at_depth < self.__depth-1) and (reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth+1][:-1])):
-            self.__num_at_depth += 1
+        # checking for point where the prior key trail changes, assuming thisis the point at which the terminal
+        # values for the prior subject (end node)  have been fully traversed.
+        while ((self.__num_at_depth < len(list(reference))):
+            if (self.__num_at_depth == len(list(reference)) -1) and (reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth-1][:-1])):
+                self.__num_at_depth += 1
+                continue
+                
+            if (reference[self.__num_at_depth][:-1] == reference[self.__num_at_depth+1][:-1])):
+                self.__num_at_depth += 1
+            
         # Load WASF file
         with open(self.__WASF_file , 'r') as f:
             self.__WASF = json.load(f)
