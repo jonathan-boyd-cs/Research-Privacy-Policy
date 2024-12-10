@@ -68,12 +68,14 @@ class CSVToDataFrameStore:
                 var = [ x for x in var if str(x[index]).strip() not in exceptions[index]]
         
         #Cache the update before dataset generation
-        self.__feature_extractor.add_dataset(tag,var)
+        tag_temp = time_stamped_msg("{}".format(tag))
+        self.__feature_extractor.add_dataset(tag_temp,var)
         #Process potential column adaptations
-        var = self.__feature_extractor.generate_dataset(column_order,tag)
+        var = self.__feature_extractor.generate_dataset(column_order,tag_temp)
         #Exclude rows as needed
         var = [x for i,x in enumerate(var) if i not in row_exclusion]
-        #Cache and return updte
+        #Cache and return update
+        self,__feature_extractor.remove_dataset(tag_temp)
         self.__database[out_name] = var
         self.__feature_extractor.add_dataset(out_name,var)
         return var
