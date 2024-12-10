@@ -1,0 +1,36 @@
+
+4
+{'name': '(PhraseScraper) links error', 'id': 4, 'details': ['pps', 'https://op.gg', 'Page.goto: Target page, context or browser has been closed']}
+
+5
+{'name': '(PhraseScraper) links error', 'id': 5, 'details': ['pps', 'https://op.gg', 'Page.goto: Target page, context or browser has been closed']}
+
+6
+{'name': '(PhraseScraper) links error', 'id': 6, 'details': ['pps', 'https://op.gg', 'Page.goto: Target page, context or browser has been closed']}
+
+7
+{'name': '(PhraseScraper) links error', 'id': 7, 'details': ['pps', 'https://op.gg', 'Page.goto: Target page, context or browser has been closed']}
+
+8
+{'name': '(PhraseScraper) links error', 'id': 8, 'details': ['pps', 'https://op.gg', 'Page.goto: Target page, context or browser has been closed']}
+
+9
+{'name': '(PhraseScraper) links error', 'id': 9, 'details': ['pps', 'https://op.gg', 'Page.goto: Target page, context or browser has been closed']}
+
+10
+{'name': '(PhraseScraper) links error', 'id': 10, 'details': ['pps', 'https://property24.com', 'Page.goto: Target page, context or browser has been closed']}
+
+11
+{'name': '(PhraseScraper) links error', 'id': 11, 'details': ['pps', 'https://property24.com', 'Page.goto: Target page, context or browser has been closed']}
+
+12
+{'name': '(PhraseScraper) links error', 'id': 12, 'details': ['pps', 'https://property24.com', 'Page.goto: Target page, context or browser has been closed']}
+
+13
+{'name': '(PhraseScraper) links error', 'id': 13, 'details': ['pps', 'https://property24.com', 'Page.goto: Target page, context or browser has been closed']}
+
+14
+{'name': '(PhraseScraper) links error', 'id': 14, 'details': ['pps', 'https://property24.com', 'Page.goto: Target page, context or browser has been closed']}
+
+15
+{'name': '(PhraseScraper) links error', 'id': 15, 'details': ['pps', 'https://property24.com', 'Page.goto: Target page, context or browser has been closed']}

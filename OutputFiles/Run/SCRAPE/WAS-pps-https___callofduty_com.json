@@ -1,0 +1,1232 @@
+{
+    "https://callofduty.com": {
+        "data": {
+            "0": {
+                "link-0": {
+                    "SPOTLIGHT": {
+                        "COMMITMENT": {
+                            "OTHER": {
+                                "we": {
+                                    "text": {
+                                        "we": [
+                                            {
+                                                "0": "We’ve updated our Privacy Policy. You can view the revised policy here. By continuing to use Activision’s websites, products or services, you acknowledge this revised Privacy Policy."
+                                            },
+                                            {
+                                                "1": "When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.  \n\nClick on the different category headings below to find out more and change our default settings.  Please be advised that blocking some types of cookies may directly affect your experience of our site and the services we are able to offer.\n            Cookie Policy"
+                                            },
+                                            {
+                                                "2": "These Cookies are essential in order to enable you to move around websites or online properties and use their features, such as accessing secure areas of a website. Without these Cookies, we cannot provide services you have asked for, like secure login areas."
+                                            },
+                                            {
+                                                "3": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 4
+                                },
+                                "promise": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "only": {
+                                    "text": {
+                                        "only": [
+                                            {
+                                                "0": "*Battle Pass, BlackCell and Tier Skips will be accessible in Call of Duty®: Black Ops 6 once the Season 1 Battle Pass is made available in game. Battle Pass / BlackCell redemption applies to one Season of Black Ops 6 Battle Pass only.\n"
+                                            },
+                                            {
+                                                "1": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 2
+                                }
+                            }
+                        },
+                        "SUGGESTIVE": {
+                            "OTHER": {
+                                "other": {
+                                    "text": {
+                                        "other": [
+                                            {
+                                                "0": "© 2024 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY LEAGUE, MODERN WARFARE, CALL OF DUTY BLACK OPS, CALL OF DUTY WARZONE, and CALL OF DUTY VANGUARD are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the property of their respective owners."
+                                            },
+                                            {
+                                                "1": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            },
+                                            {
+                                                "2": "These Cookies allow the website or online property to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personalized features. These Cookies can also be used to remember changes you have made related to accessibility (e.g., text size, fonts) and customization. They may also be used to provide services you have asked for, such as watching a video. The information these Cookies collect may be anonymized and they cannot track your browsing activity on other websites."
+                                            },
+                                            {
+                                                "3": "These Cookies are used to deliver advertisements that are more relevant to you and your interests. They also help limit the number of times you see an advertisement as well as measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information is shared with other organizations or advertisers."
+                                            }
+                                        ]
+                                    },
+                                    "count": 4
+                                }
+                            }
+                        },
+                        "CONDITIONAL": {
+                            "OTHER": {
+                                "if": {
+                                    "text": {
+                                        "if": [
+                                            {
+                                                "0": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "when": {
+                                    "text": {
+                                        "when": [
+                                            {
+                                                "0": "When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.  \n\nClick on the different category headings below to find out more and change our default settings.  Please be advised that blocking some types of cookies may directly affect your experience of our site and the services we are able to offer.\n            Cookie Policy"
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                }
+                            }
+                        },
+                        "BENEFIT": {
+                            "OTHER": {
+                                "help you": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "help us": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "ACCESS": {
+                            "OTHER": {
+                                "can access": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "can't access": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "CAPABILITY": {
+                        "COMPANY": {
+                            "ASSERTIVE": {
+                                "we will not": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we only": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we collect": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we collect information": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we collect details": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we don't share information that": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "PASSIVE": {
+                                "we collect certain": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we may collect": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we may collect certain": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we gather data": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we may disclose": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "USER": {
+                            "OTHER": {
+                                "you may": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you can": {
+                                    "text": {
+                                        "you can": [
+                                            {
+                                                "0": "We’ve updated our Privacy Policy. You can view the revised policy here. By continuing to use Activision’s websites, products or services, you acknowledge this revised Privacy Policy."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "right to request": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "your choice": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "request access": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "MODIFICATION": {
+                                "deletion of": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "delete": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "remove": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "removal": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "erase": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "LEGAL": {
+                        "BINDING": {
+                            "OTHER": {
+                                "contract": {
+                                    "text": {
+                                        "contract": [
+                                            {
+                                                "0": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "contractual": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "agreement": {
+                                    "text": {
+                                        "agreement": [
+                                            {
+                                                "0": "The Software License and Service Agreement will be updated. Please follow this link [https://www.activision.com/legal/ap-eula] in order to see these changes."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "obligation": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "NOTICE": {
+                            "OTHER": {
+                                "we have the right": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you control": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we control": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "rights": {
+                                    "text": {
+                                        "rights": [
+                                            {
+                                                "0": "© 2024 Compass International Pictures, Inc. All Rights Reserved."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "right to know": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "information may be disclosed": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "LEGISLATIVE": {
+                            "LAW": {
+                                "legal": {
+                                    "text": {
+                                        "legal": [
+                                            {
+                                                "0": "\n                        \tLegal\n                    \t"
+                                            },
+                                            {
+                                                "1": "https://www.activision.com/legal/ap-eula"
+                                            }
+                                        ]
+                                    },
+                                    "count": 2
+                                },
+                                "authority": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "comply with": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "compliant with": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "law": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "enforce": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "govern": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "regulators": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "privacy law": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "policy": {
+                                    "text": {
+                                        "policy": [
+                                            {
+                                                "0": "\n                        \tPrivacy Policy\n                    \t"
+                                            },
+                                            {
+                                                "1": "\n                        \tCookie Policy\n                    \t"
+                                            },
+                                            {
+                                                "2": "Privacy Policy Update "
+                                            },
+                                            {
+                                                "3": "We’ve updated our Privacy Policy. You can view the revised policy here. By continuing to use Activision’s websites, products or services, you acknowledge this revised Privacy Policy."
+                                            }
+                                        ]
+                                    },
+                                    "count": 4
+                                },
+                                "state laws": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "international laws": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "in accordane with": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "CALIFORNIA": {
+                                "california": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "other than california": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "outside of california": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "YOUTH": {
+                                "children": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "kid": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "child": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "youth": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "young": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "minor": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "under the age": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "under age": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "PREPPING": {
+                            "OTHER": {
+                                "consent": {
+                                    "text": {
+                                        "consent": [
+                                            {
+                                                "0": " Manage Consent Preferences"
+                                            },
+                                            {
+                                                "1": "Consent Leg.Interest"
+                                            }
+                                        ]
+                                    },
+                                    "count": 2
+                                },
+                                "dispute": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "with your consent": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "does not cover": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "ASSERTION": {
+                                "you consented": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you consent": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you agree": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "your agreement": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you acknowledge": {
+                                    "text": {
+                                        "you acknowledge": [
+                                            {
+                                                "0": "We’ve updated our Privacy Policy. You can view the revised policy here. By continuing to use Activision’s websites, products or services, you acknowledge this revised Privacy Policy."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "you acknowledged": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you signed": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you approve": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you approved": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "with your permission": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you made it public": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you oblige": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you obliged": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you chose": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "you choose": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "when you signed": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "when you accepted": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "when you read": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "when you approved": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "when you consent": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "when you acknowledge": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "BUSINESS_FOCUS": {
+                        "EXTERNAL": {
+                            "OTHER": {
+                                "third parties": {
+                                    "text": {
+                                        "third parties": [
+                                            {
+                                                "0": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "third-party": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "third party": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "advertising partners": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "ASSERTIVE": {
+                                "we send to third": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we sell to third": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we share with third": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we exchange with third": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "PASSIVE": {
+                                "may send to third": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "may sell to third": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "may share with third": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "may exchange with third": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "SELF": {
+                            "PASSIVE": {
+                                "may share information": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "may share": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "ASSERTIVE": {
+                                "we share": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we sell": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "OTHER": {
+                                "business goals": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "business purposes": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "enterprise": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "AMBITION": {
+                            "OTHER": {
+                                "to improve": {
+                                    "text": {
+                                        "to improve": [
+                                            {
+                                                "0": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "to optimize": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "to increase": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "to benefit our": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "to enhance our": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "to enhance": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "to innovate": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "technologial innovation": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "ATTRIBUTING": {
+                        "USER": {
+                            "OTHER": {
+                                "information you": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "a profile": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "your activity": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "user behavior": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "personl records": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "personal records": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "ASSERTIVE": {
+                                "we create a user profile": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "create a user profile": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we profile": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "owns your data": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "LOCATION": {
+                            "OTHER": {
+                                "location information": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "location": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "location data": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "DATA": {
+                            "OTHER": {
+                                "usage": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "records": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "UTILIZATION": {
+                        "USE": {
+                            "OTHER": {
+                                "to gather data": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "data controller": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "ASSERTIVE": {
+                                "we process": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "we use": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "PASSIVE": {
+                                "may use information": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "NON_EXCLUSIVE": {
+                            "ASSERTIVE": {
+                                "we sell information": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            },
+                            "OTHER": {
+                                "sharing of": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "sharing of personal": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "sharing of user": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "external processing": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "PERSISTENCE": {
+                            "OTHER": {
+                                "data collected": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "collected": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "stored": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "retention": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "INNOVATION": {
+                        "DEPTH": {
+                            "OTHER": {
+                                "analyze": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "analysis": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "analytics": {
+                                    "text": {
+                                        "analytics": [
+                                            {
+                                                "0": "Performance (or Analytics) Cookies"
+                                            },
+                                            {
+                                                "1": "Performance (or Analytics) Cookies"
+                                            },
+                                            {
+                                                "2": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 3
+                                }
+                            }
+                        },
+                        "AUTOMTATION": {
+                            "OTHER": {
+                                "automate": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "automatic": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "AI": {
+                                    "text": {
+                                        "AI": [
+                                            {
+                                                "0": "\n                        \n                        Thai\n                    "
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "information collected automatically": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "collected automatically": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "AI": {
+                            "OTHER": {
+                                "artificial intelligence": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "algorithm": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "language processing": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "SECURITY": {
+                        "CHOICE": {
+                            "OTHER": {
+                                "control options": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "settings": {
+                                    "text": {
+                                        "settings": [
+                                            {
+                                                "0": "\n\t\t\tCookie Settings\n\t\t"
+                                            },
+                                            {
+                                                "1": "When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.  \n\nClick on the different category headings below to find out more and change our default settings.  Please be advised that blocking some types of cookies may directly affect your experience of our site and the services we are able to offer.\n            Cookie Policy"
+                                            }
+                                        ]
+                                    },
+                                    "count": 2
+                                },
+                                "privacy controls": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "privacy settings": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "INTENTION": {
+                            "OTHER": {
+                                "fraud": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "detect": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "malicious": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "illegal activity": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "COMMITMENT": {
+                            "OTHER": {
+                                "to protect": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "protect personal information": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "ACCESS": {
+                            "OTHER": {
+                                "encryption": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "security": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "unauthorized": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "auditing": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "EDUCATION": {
+                        "HOW": {
+                            "OTHER": {
+                                "how": {
+                                    "text": {
+                                        "how": [
+                                            {
+                                                "0": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                            }
+                                        ]
+                                    },
+                                    "count": 1
+                                },
+                                "how you": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "how we": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "how are": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "how can": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "OTHER": {
+                            "explain": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "understand": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "type of cookies": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "what are": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "learn": {
+                                "text": {
+                                    "learn": [
+                                        {
+                                            "0": "Learn more about Blackcell"
+                                        },
+                                        {
+                                            "1": "Learn more about Black Ops 6"
+                                        },
+                                        {
+                                            "2": "Learn more about Warzone"
+                                        }
+                                    ]
+                                },
+                                "count": 3
+                            },
+                            "purpose for collection": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "if you have questions": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "if you have any questions": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "related information": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "educate": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "education": {
+                                "text": {},
+                                "count": 0
+                            }
+                        }
+                    },
+                    "SUGGESTIVE": {
+                        "SUSPICIOUS": {
+                            "OTHER": {
+                                "for various reasons": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "possibility": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "intention": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "certain": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "other data": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "other purposes": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "other reasons": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "other objectives": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "various purposes": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "various objectives": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "if necessary": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "for business purpose": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "CONDITIONAL": {
+                            "OTHER": {
+                                "we may share": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "for legal reasons": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "may not cover": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "only when": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "only for": {
+                                    "text": {},
+                                    "count": 0
+                                },
+                                "only under": {
+                                    "text": {},
+                                    "count": 0
+                                }
+                            }
+                        }
+                    },
+                    "TECHNOLOGY": {
+                        "OTHER": {
+                            "cookies": {
+                                "text": {
+                                    "cookies": [
+                                        {
+                                            "0": "When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.  \n\nClick on the different category headings below to find out more and change our default settings.  Please be advised that blocking some types of cookies may directly affect your experience of our site and the services we are able to offer.\n            Cookie Policy"
+                                        },
+                                        {
+                                            "1": "These Cookies are essential in order to enable you to move around websites or online properties and use their features, such as accessing secure areas of a website. Without these Cookies, we cannot provide services you have asked for, like secure login areas."
+                                        },
+                                        {
+                                            "2": "Cookies Details‎"
+                                        },
+                                        {
+                                            "3": "  Performance (or Analytics) Cookies "
+                                        },
+                                        {
+                                            "4": "These Cookies collect information about how visitors use a website or online property, for instance, which pages visitors go to most often, and if they get error messages from web pages. These Cookies don't collect information about the actual identity (e.g., name) of a visitor. All information these Cookies collect is aggregated. They are only used to improve how a website or other online property works. We generally contract with third parties (such as Google Analytics) to provide these services on our behalf."
+                                        },
+                                        {
+                                            "5": "Cookies Details‎"
+                                        },
+                                        {
+                                            "6": "  Functionality Cookies "
+                                        },
+                                        {
+                                            "7": "These Cookies allow the website or online property to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personalized features. These Cookies can also be used to remember changes you have made related to accessibility (e.g., text size, fonts) and customization. They may also be used to provide services you have asked for, such as watching a video. The information these Cookies collect may be anonymized and they cannot track your browsing activity on other websites."
+                                        },
+                                        {
+                                            "8": "Cookies Details‎"
+                                        },
+                                        {
+                                            "9": "  Advertising Cookies "
+                                        },
+                                        {
+                                            "10": "These Cookies are used to deliver advertisements that are more relevant to you and your interests. They also help limit the number of times you see an advertisement as well as measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information is shared with other organizations or advertisers."
+                                        },
+                                        {
+                                            "11": "Cookies Details‎"
+                                        }
+                                    ]
+                                },
+                                "count": 12
+                            },
+                            "mobile identifiers": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "pixel tags": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "web beacons": {
+                                "text": {},
+                                "count": 0
+                            },
+                            "session monitoring": {
+                                "text": {},
+                                "count": 0
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+
+https://mymovies.it
+(WebAnalysisSuite) unexpected error in processing accessory has_text parameters (https://mymovies.it)...
+error --> Page.goto: net::ERR_CERT_DATE_INVALID at https://mymovies.it/
+Call log:
+  - navigating to "https://mymovies.it/", waiting until "domcontentloaded"
+
+
+https://mymovies.it
+(WebAnalysisSuite) unexpected error in main web analysis (https://mymovies.it)...
+error --> Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://mymovies.it/", waiting until "domcontentloaded"
+
+
+https://nationalrail.co.uk
+(WebAnalysisSuite) unexpected error in file management post web analysis (https://nationalrail.co.uk)...
+error --> [Errno 2] No such file or directory: '../OutputFiles/Run/SCRAPE/analysis-pps-11_25PM-on-December-09.json'
+
+https://lacentrale.fr
+(WebAnalysisSuite) unexpected error in main web analysis (https://lacentrale.fr)...
+error --> (WebAnalyzer) Failed to capture links
+
+https://aljazeera.com
+(WebAnalysisSuite) unexpected error in processing accessory has_text parameters (https://aljazeera.com)...
+error --> Timeout 120000ms exceeded.
+
+https://leboncoin.fr
+(WebAnalysisSuite) unexpected error in main web analysis (https://leboncoin.fr)...
+error --> (WebAnalyzer) Failed to capture links
+
+https://roomclip.jp
+(WebAnalysisSuite) unexpected error in main web analysis (https://roomclip.jp)...
+error --> (WebAnalyzer) Failed to capture links
+
+https://navitime.co.jp
+(WebAnalysisSuite) unexpected error in processing accessory has_text parameters (https://navitime.co.jp)...
+error --> Page.set_default_navigation_timeout: no running event loop
+
+https://navitime.co.jp
+(WebAnalysisSuite) unexpected error in main web analysis (https://navitime.co.jp)...
+error --> Page.set_default_navigation_timeout: no running event loop

@@ -1,0 +1,80 @@
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.op.gg/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(WebTranslationUnit) Error fetching URL: https://www.property24.com/
+error-->Page.goto: Target page, context or browser has been closed

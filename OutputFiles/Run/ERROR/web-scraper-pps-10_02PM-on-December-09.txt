@@ -1,0 +1,34 @@
+
+21
+(WebScraper) error in find_text id: (pps) on...Do not share my...
+error --> 'NoneType' object has no attribute 'lower'
+
+21
+(WebScraper) error in find_text id: (pps) on...Do not sell my...
+error --> 'NoneType' object has no attribute 'lower'
+
+21
+(WebScraper) error in find_text id: (pps) on...Do not sell or share my...
+error --> 'NoneType' object has no attribute 'lower'
+
+21
+(WebScraper) error in find_text id: (pps) on...Do not share or sell my...
+error --> 'NoneType' object has no attribute 'lower'
+
+22
+{'name': "grab-->'NoneType' object has no attribute 'lower'", 'id': 'pps', 'details': ['link', 'Privacy']}
+
+23
+{'name': "grab-->'NoneType' object has no attribute 'lower'", 'id': 'pps', 'details': ['link', 'Data Protection']}
+
+24
+{'name': "grab-->'NoneType' object has no attribute 'lower'", 'id': 'pps', 'details': ['link', 'Personal Data Policy']}
+
+25
+{'name': "grab-->'NoneType' object has no attribute 'lower'", 'id': 'pps', 'details': ['link', 'Privacy']}
+
+26
+{'name': "grab-->'NoneType' object has no attribute 'lower'", 'id': 'pps', 'details': ['link', 'Data Protection']}
+
+27
+{'name': "grab-->'NoneType' object has no attribute 'lower'", 'id': 'pps', 'details': ['link', 'Personal Data Policy']}

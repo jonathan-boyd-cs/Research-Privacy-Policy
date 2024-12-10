@@ -76,6 +76,9 @@ class PhraseScraper(WebScraper):
                     maybe_print(self.__verbose, "(PhraseScraper) FOUND")
                     return True
                 maybe_print(self.__verbose, "(PhraseScraper) NOT FOUND")
+            
+            except KeyboardInterrupt:
+                raise (KeyboardInterrupt)
                 
             except:
                 maybe_print(self.__verbose, '(PhraseScraper) hit a snag... attempting recovery.')
@@ -128,7 +131,7 @@ class PhraseScraper(WebScraper):
                         maybe_print(self.__verbose, "(PhraseScraper) a hit!")
                 
                 except KeyboardInterrupt:
-                    sys.exit()
+                    raise (KeyboardInterrupt)
                 
                 except Exception as e:
                     err = err_msg_tagged_details("(PhraseScraper) links error",self.get_num_queries(),[page.id(),url,str(e)])
@@ -147,6 +150,7 @@ class PhraseScraper(WebScraper):
                 self.visit(self.__name, url)
                 self.__current_url = url
             page = self.get_page(self.__name)
+        
         except Exception as e:
             m = "(PhraseScraper) error in initial preparations in analyze phrase information per link... error --> {}".format(str(e))
             self.__err_database.add("{}-{}".format(self.__name,url),m)
@@ -162,6 +166,10 @@ class PhraseScraper(WebScraper):
                 result = self.multi_link_iteration(playwright_links[key],page,routine,args_list)
                 if bool(result):
                     self.__query_database.add((url),result)
+            
+            except KeyboardInterrupt:
+                raise (KeyboardInterrupt)
+                    
             except Exception as e:
                 m = "(PhraseScraper) error in playwright multi link handling on ({})... error --> {}".format(key,str(e))
                 self.__err_database.add("{}-{}".format(self.__name,url),m)
@@ -196,6 +204,9 @@ class PhraseScraper(WebScraper):
                 json.dump({url:phrase_data},f)
             
             return phrase_data
+        
+        except KeyboardInterrupt:
+            raise (KeyboardInterrupt)
         
         except Exception as e:
             m = "(PhraseScraper) error in default routine on ({})... error --> {}".format(url,str(e))

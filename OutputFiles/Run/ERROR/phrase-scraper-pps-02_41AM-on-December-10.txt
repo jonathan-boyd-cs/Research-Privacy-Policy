@@ -1,0 +1,37 @@
+
+pps-we
+(PhraseScraper) miscellaneous error in phrase phrase analysis through policy scraper for...we
+             error -->'NoneType' object is not subscriptable
+
+pps-we
+(PhraseScraper) error in default routine's dfs helper (we)... error --> 'NoneType' object is not subscriptable
+
+pps-we
+(PhraseScraper) error in default routine's dfs helper (we)... error --> 'NoneType' object is not subscriptable
+
+pps-OTHER
+(PhraseScraper) error in default routine's dfs helper (OTHER)... error --> 'NoneType' object is not subscriptable
+
+pps-COMMITMENT
+(PhraseScraper) error in default routine's dfs helper (COMMITMENT)... error --> 'NoneType' object is not subscriptable
+
+pps-https://immowelt.de
+(PhraseScraper) error in default routine on (https://immowelt.de)... error --> 'NoneType' object is not subscriptable
+
+pps-https://ouest-france.fr
+(PhraseScraper) error in initial preparations in has text... error --> Page.goto: net::ERR_CONNECTION_REFUSED at https://ouest-france.fr/
+Call log:
+  - navigating to "https://ouest-france.fr/", waiting until "domcontentloaded"
+
+
+pps-https://ouest-france.fr
+(PhraseScraper) error in initial preparations in get links... error --> Page.goto: net::ERR_CONNECTION_REFUSED at https://ouest-france.fr/
+Call log:
+  - navigating to "https://ouest-france.fr/", waiting until "domcontentloaded"
+
+
+pps-https://stephenwolfram.com
+(PhraseScraper) error in initial preparations in has text... error --> Page.goto: Navigation to "https://stephenwolfram.com/" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://stephenwolfram.com/", waiting until "domcontentloaded"
+

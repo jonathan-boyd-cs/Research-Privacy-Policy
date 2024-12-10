@@ -15,15 +15,15 @@ from PlaywrightDriverModule.page_manager import Page
 class PlaywrightManager:
     def __init__(self, name :str, errLogDirectory :str, headless : bool, slow_mo=0, verbose=True) -> None:
         self.__playwright = sync_playwright().start()
-        self.__browser = self.__playwright.chromium.launch(
-            headless=headless, slow_mo=slow_mo)
+        #browser = self.__playwright.chromium.launch(
+        #    headless=headless, slow_mo=slow_mo)
         #self.__browser = browser.new_context( user_agent=
         #"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
         #)
         #self.__browser.set_default_timeout(120000)
-        #self.__browser = self.__playwright.chromium.launch(
-        #    headless=headless, slow_mo=slow_mo
-        #)
+        self.__browser = self.__playwright.chromium.launch(
+            headless=headless, slow_mo=slow_mo
+        )
         self.__page_manager = PageManager(name, errLogDirectory, self.__browser, verbose)
         m = time_stamped_msg("playwright-manager-{}".format(name))
         self.__err_database = ErrorDatabase("{}{}.txt".format(errLogDirectory,m))

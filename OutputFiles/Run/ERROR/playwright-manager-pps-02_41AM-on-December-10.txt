@@ -1,0 +1,88 @@
+
+pps
+(PlaywrightManager) failed to return to previous url for page under id pps...
+error --> Page.goto: net::ERR_ABORTED at https://www.energy.gov/
+Call log:
+  - navigating to "https://www.energy.gov/", waiting until "load"
+
+
+pps
+(PlaywrightManager) failed to perform button click for page under id pps...
+error --> Locator.click: Timeout 90000ms exceeded.
+Call log:
+  - waiting for get_by_role("link", name="Datenschutz").first
+  -     - locator resolved to <a class="css-2h859c" href="https://www.immowelt.de/immoweltag/datenschutz" data-testid="shell_ufrn_footer-BottomArea-BottomAreaLinks-BottomAreaLinksEntry[1]">Datenschutz</a>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is visible, enabled and stable
+  -       - scrolling into view if needed
+  -       - done scrolling
+  -       - <div id="usercentrics-root" data-created-at="1733830802580"></div> intercepts pointer events
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is visible, enabled and stable
+  -       - scrolling into view if needed
+  -       - done scrolling
+  -       - <div id="usercentrics-root" data-created-at="1733830802580"></div> intercepts pointer events
+  -     - retrying click action
+  -       - waiting 100ms
+  -     41 × waiting for element to be visible, enabled and stable
+  -        - element is visible, enabled and stable
+  -        - scrolling into view if needed
+  -        - done scrolling
+  -        - <div id="usercentrics-root" data-created-at="1733830802580"></div> intercepts pointer events
+  -      - retrying click action
+  -        - waiting 500ms
+
+
+pps
+(PlaywrightManager) failed to perform button click for page under id pps...
+error --> Locator.click: Timeout 90000ms exceeded.
+Call log:
+  - waiting for get_by_role("link", name="Privacy").first
+  -     - locator resolved to <a data-test="policy-link-0" href="https://www.lego.com/en-us/legal/legal-notice/privacy-policy" class="Linksstyles__Anchor-sc-684acv-0 friqQc Footerstyles__FooterPolicyLink-sc-1w150qw-8 dezMdQ">…</a>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is visible, enabled and stable
+  -       - scrolling into view if needed
+  -       - done scrolling
+  -       - <dialog aria-modal="true" data-test="age-gate-overlay" class="AgeGatestyles__Wrapper-sc-jl57jl-0 kWsBbv">…</dialog> from <div data-focus-lock-disabled="false">…</div> subtree intercepts pointer events
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is visible, enabled and stable
+  -       - scrolling into view if needed
+  -       - done scrolling
+  -       - <dialog aria-modal="true" data-test="age-gate-overlay" class="AgeGatestyles__Wrapper-sc-jl57jl-0 kWsBbv">…</dialog> from <div data-focus-lock-disabled="false">…</div> subtree intercepts pointer events
+  -     - retrying click action
+  -       - waiting 100ms
+  -     136 × waiting for element to be visible, enabled and stable
+  -         - element is visible, enabled and stable
+  -         - scrolling into view if needed
+  -         - done scrolling
+  -         - <dialog aria-modal="true" data-test="age-gate-overlay" class="AgeGatestyles__Wrapper-sc-jl57jl-0 kWsBbv">…</dialog> from <div data-focus-lock-disabled="false">…</div> subtree intercepts pointer events
+  -       - retrying click action
+  -         - waiting 500ms
+
+
+pps
+(PlaywrightManager) failed to visit url for page under id pps, tried : https://ouest-france.fr...
+error --> Page.goto: net::ERR_CONNECTION_REFUSED at https://ouest-france.fr/
+Call log:
+  - navigating to "https://ouest-france.fr/", waiting until "domcontentloaded"
+
+
+pps
+(PlaywrightManager) failed to visit url for page under id pps, tried : https://ouest-france.fr...
+error --> Page.goto: net::ERR_CONNECTION_REFUSED at https://ouest-france.fr/
+Call log:
+  - navigating to "https://ouest-france.fr/", waiting until "domcontentloaded"
+
+
+pps
+(PlaywrightManager) failed to visit url for page under id pps, tried : https://stephenwolfram.com...
+error --> Page.goto: Navigation to "https://stephenwolfram.com/" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://stephenwolfram.com/", waiting until "domcontentloaded"
+

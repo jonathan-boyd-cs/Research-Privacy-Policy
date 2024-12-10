@@ -8,13 +8,13 @@
 
 """
 import sys
-import json
 sys.path.append('../')
 from WebScraperModule.web_analysis_suite import WebAnalysisSuite
-from WebsiteGathering.Runs_Cumulative import data as WebsiteDictionary
+from WebsiteGathering.websites import WEBSITE_DATASET as WebsiteDictionary
 from PolicyQueryModule.privacy_link_key_phrases import PRIVACY_DNSMI_LINK_KEY_PHRASES
 from PolicyQueryModule.privacy_link_key_phrases import PRIVACY_LINK_KEYWORDS
 from PolicyQueryModule.privacy_policy_keywords import PRIVACY_POLICY_KEY_PHRASES
+
 from DataStorageModule.DataCleanerModule.was_manager import WASManager
 import random
 
@@ -95,6 +95,11 @@ WAS = WebAnalysisSuite(
 # Running the default routine... seeks [web_link_keywords] -> navigate through each link and...
 # search for [web_text_key_phrases]
 # ** first will seek presence of text as necessary given [accessory_pulls]
-WAS.run_default_routine(
-    accessory_has_text=accessory_pulls
-)
+try:
+    WAS.run_default_routine(
+        accessory_has_text=accessory_pulls
+    )
+except:
+    del WAS
+    sys.exit()
+    

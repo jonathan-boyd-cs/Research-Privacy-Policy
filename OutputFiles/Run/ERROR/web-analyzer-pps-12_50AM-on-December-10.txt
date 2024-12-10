@@ -1,0 +1,8 @@
+
+https://wowhead.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://jiosaavn.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links

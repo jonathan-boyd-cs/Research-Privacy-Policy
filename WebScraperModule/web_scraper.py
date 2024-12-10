@@ -182,7 +182,7 @@ class WebScraper(PlaywrightManager):
                         break
         
         except KeyboardInterrupt:
-            sys.exit()
+            raise (KeyboardInterrupt)
         
         except Exception as e:
             err = err_msg_tagged_details("grab-->{}".format(str(e)),page.id(), [role, text])
@@ -232,7 +232,7 @@ class WebScraper(PlaywrightManager):
             return text
         
         except KeyboardInterrupt:
-            sys.exit()
+            raise (KeyboardInterrupt)
         
         except Exception as e:
             err = err_msg_tagged_details("(WebScraper) get_text error...\nerror -->{}".format(str(e)),self.__queries, [lang,text])
@@ -289,7 +289,7 @@ class WebScraper(PlaywrightManager):
             return text_results
         
         except KeyboardInterrupt:
-            sys.exit()
+            raise (KeyboardInterrupt)
         
         except Exception as e:
             m = "(WebScraper) error in find_text id: ({}) on...{}...\nerror --> {}".format(page_id,text,str(e))
@@ -310,6 +310,7 @@ class WebScraper(PlaywrightManager):
         
         i = 0
         page_id = page.id()
+        
         for var in object.all():
             try:
                 self.click(page.id(),var)
@@ -321,7 +322,7 @@ class WebScraper(PlaywrightManager):
                 self.remember_current_url(page_id,tag)
             
             except KeyboardInterrupt:
-                sys.exit()    
+                raise (KeyboardInterrupt)  
             
             except:
                 continue
@@ -335,6 +336,9 @@ class WebScraper(PlaywrightManager):
                 i += 1
 
                 self.return_to_previous_url(page.id())
+            except KeyboardInterrupt:
+                raise (KeyboardInterrupt)    
+            
             except:
                 self.return_to_previous_url(page.id())
         try:

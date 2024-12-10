@@ -1,0 +1,65 @@
+
+https://best-hashtags.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://goo.ne.jp
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://streameast.app
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://googlemaps.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://infobae.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://matas.dk
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://hepsiemlak.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://jeuxvideo.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://ouest-france.fr
+(WebAnalyzer) unexpected error accessing url in text presence analysis...
+error --> Page.goto: net::ERR_CONNECTION_REFUSED at https://ouest-france.fr/
+Call log:
+  - navigating to "https://ouest-france.fr/", waiting until "domcontentloaded"
+
+
+https://ouest-france.fr
+(WebAnalyzer) unexpected error in web analysis...
+error --> Page.goto: net::ERR_CONNECTION_REFUSED at https://ouest-france.fr/
+Call log:
+  - navigating to "https://ouest-france.fr/", waiting until "domcontentloaded"
+
+
+https://stephenwolfram.com
+(WebAnalyzer) unexpected error accessing url in text presence analysis...
+error --> Page.goto: Navigation to "https://stephenwolfram.com/" is interrupted by another navigation to "chrome-error://chromewebdata/"
+Call log:
+  - navigating to "https://stephenwolfram.com/", waiting until "domcontentloaded"
+
+
+https://stephenwolfram.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://parenting.com.tw
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://yalla-shoot-as.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links

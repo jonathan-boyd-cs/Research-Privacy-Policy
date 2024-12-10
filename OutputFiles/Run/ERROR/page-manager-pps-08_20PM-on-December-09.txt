@@ -1,0 +1,80 @@
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.op.gg/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed
+
+web-scrape-translator
+(PageManager) failed to go to page https://www.property24.com/...
+error --> Page.goto: Target page, context or browser has been closed

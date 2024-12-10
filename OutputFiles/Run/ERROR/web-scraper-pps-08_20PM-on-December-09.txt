@@ -1,0 +1,148 @@
+
+3
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) error in find_text id: (pps) on...Do not share my...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) error in find_text id: (pps) on...Do not sell my...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) error in find_text id: (pps) on...Do not sell or share my...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+3
+(WebScraper) error in find_text id: (pps) on...Do not share or sell my...
+error --> Page.goto: Target page, context or browser has been closed
+
+4
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+4
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Privacy']}
+
+5
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+5
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Data Protection']}
+
+6
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+6
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Personal Data Policy']}
+
+7
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+7
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Privacy']}
+
+8
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+8
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Data Protection']}
+
+9
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Personal Data Policy']}
+
+9
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) error in find_text id: (pps) on...Do not share my...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) error in find_text id: (pps) on...Do not sell my...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) error in find_text id: (pps) on...Do not sell or share my...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+9
+(WebScraper) error in find_text id: (pps) on...Do not share or sell my...
+error --> Page.goto: Target page, context or browser has been closed
+
+10
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+10
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Privacy']}
+
+11
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+11
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Data Protection']}
+
+12
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+12
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Personal Data Policy']}
+
+13
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+13
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Privacy']}
+
+14
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+14
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Data Protection']}
+
+15
+(WebScraper) unknown error in check protocol...
+error --> Page.goto: Target page, context or browser has been closed
+
+15
+{'name': 'grab-->Page.goto: Target page, context or browser has been closed', 'id': 'pps', 'details': ['link', 'Personal Data Policy']}

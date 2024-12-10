@@ -2073,12 +2073,6 @@ WEBSITE_DATASET = {
         "traffic-value": 34000.0,
         "domain-rating": 77.0,
         "Country": "TH"
-      },
-      "https://thailandpost.co.th": {
-        "traffic-count": 2500000.0,
-        "traffic-value": 39000.0,
-        "domain-rating": 82.0,
-        "Country": "TH"
       }
     },
     "GR": {

@@ -91,21 +91,21 @@ class WebAnalysisSuite(WebAnalyzer):
                         out = self.is_present(text_keywords)
                         result['accessory'][job['name']] = out
             except KeyboardInterrupt:
-                        sys.exit()
-            
+                raise (KeyboardInterrupt)
+                
             except Exception as e:
                 m = "(WebAnalysisSuite) unexpected error in processing accessory has_text parameters ({})...\nerror --> {}".format(website,str(e))
                 self.__err_database.add(website,m)
-            
                 maybe_print(self.__verbose, m)
                 
                 
             try:
                 # main analysis
                 out_file_name = self.run_web_analysis()
+                if out_file_name == None: continue
             
             except KeyboardInterrupt:
-                        sys.exit()
+                raise (KeyboardInterrupt)
             
             except Exception as e:
                 m = "(WebAnalysisSuite) unexpected error in main web analysis ({})...\nerror --> {}".format(website,str(e))
@@ -125,7 +125,7 @@ class WebAnalysisSuite(WebAnalyzer):
                 self.__file_manager.copy_rename(out_file_name, filename)
             
             except KeyboardInterrupt:
-                        sys.exit()
+                        raise (KeyboardInterrupt)
             
             except Exception as e:
                 m = "(WebAnalysisSuite) unexpected error in file management post web analysis ({})...\nerror --> {}".format(website,str(e))
@@ -144,7 +144,8 @@ class WebAnalysisSuite(WebAnalyzer):
                     json.dump(result,f)
             
             except KeyboardInterrupt:
-                        sys.exit()
+                        raise (KeyboardInterrupt)
+                    
             except Exception as e:
                 m = "(WebAnalysisSuite) unexpected error storing web analysis results in database ({})...\nerror --> {}".format(website,str(e))
                 self.__err_database.add(website,m)

@@ -1,0 +1,16 @@
+
+0
+(WebScraper) error in find_text id: (pps) on...Do not share my...
+error --> cannot access local variable 'EXIT_FLAG' where it is not associated with a value
+
+0
+(WebScraper) error in find_text id: (pps) on...Do not sell my...
+error --> cannot access local variable 'EXIT_FLAG' where it is not associated with a value
+
+0
+(WebScraper) error in find_text id: (pps) on...Do not sell or share my...
+error --> cannot access local variable 'EXIT_FLAG' where it is not associated with a value
+
+0
+(WebScraper) error in find_text id: (pps) on...Do not share or sell my...
+error --> cannot access local variable 'EXIT_FLAG' where it is not associated with a value

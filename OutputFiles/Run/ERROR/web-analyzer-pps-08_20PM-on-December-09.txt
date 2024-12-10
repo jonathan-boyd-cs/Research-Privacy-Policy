@@ -1,0 +1,8 @@
+
+https://op.gg
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
+
+https://property24.com
+(WebAnalyzer) unexpected error in web analysis...
+error --> (WebAnalyzer) Failed to capture links
