@@ -112,9 +112,9 @@ class WebTranslationUnit(TranslationUnit):
                         # extract text
                         result = query.nth(i)
                         text = result.text_content()
+                        assert(text != None)
                         for t in text:
                             try:
-                                assert(text != None)
                                 assert(t.strip() != "")
                                 assert(len(t.strip()) != 0)
                                 language = self.detect_lang(text)
