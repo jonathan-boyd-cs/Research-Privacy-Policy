@@ -1,8 +1,0 @@
-
-https://op.gg
-(WebAnalysisSuite) unexpected error in main web analysis (https://op.gg)...
-error --> (WebAnalyzer) Failed to capture links
-
-https://property24.com
-(WebAnalysisSuite) unexpected error in main web analysis (https://property24.com)...
-error --> (WebAnalyzer) Failed to capture links

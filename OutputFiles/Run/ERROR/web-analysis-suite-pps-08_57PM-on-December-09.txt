@@ -1,8 +1,0 @@
-
-https://flatfy.ua
-(WebAnalysisSuite) unexpected error in main web analysis (https://flatfy.ua)...
-error --> (WebAnalyzer) Failed to capture links
-
-https://thaiwatsadu.com
-(WebAnalysisSuite) unexpected error in main web analysis (https://thaiwatsadu.com)...
-error --> (WebAnalyzer) Failed to capture links
