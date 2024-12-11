@@ -116,7 +116,7 @@ class WebTranslationUnit(TranslationUnit):
                         for t in text:
                             try:
                                 assert(t.strip() != "")
-                                assert(len(t.strip()) != 0)
+                                assert(len(t.strip()) > 5)
                                 language = self.detect_lang(text)
                                 assert(language != None)
                                 maybe_print(self.__verbose, "(WebTranslationUnit) LANGUAGE DETERMINED AS...{}".format(language))
