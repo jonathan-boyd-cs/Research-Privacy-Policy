@@ -76,6 +76,9 @@ class PhraseScraper(WebScraper):
                     maybe_print(self.__verbose, "(PhraseScraper) FOUND")
                     return True
                 maybe_print(self.__verbose, "(PhraseScraper) NOT FOUND")
+            
+            except KeyboardInterrupt:
+                raise (KeyboardInterrupt)
                 
             except:
                 maybe_print(self.__verbose, '(PhraseScraper) hit a snag... attempting recovery.')
@@ -127,9 +130,7 @@ class PhraseScraper(WebScraper):
                         links[key] = link_s
                         maybe_print(self.__verbose, "(PhraseScraper) a hit!")
                 
-                except KeyboardInterrupt:
-                    sys.exit()
-                
+
                 except Exception as e:
                     err = err_msg_tagged_details("(PhraseScraper) links error",self.get_num_queries(),[page.id(),url,str(e)])
                     self.__err_database.add(self.get_num_queries(),err)
@@ -147,6 +148,7 @@ class PhraseScraper(WebScraper):
                 self.visit(self.__name, url)
                 self.__current_url = url
             page = self.get_page(self.__name)
+        
         except Exception as e:
             m = "(PhraseScraper) error in initial preparations in analyze phrase information per link... error --> {}".format(str(e))
             self.__err_database.add("{}-{}".format(self.__name,url),m)
@@ -162,6 +164,9 @@ class PhraseScraper(WebScraper):
                 result = self.multi_link_iteration(playwright_links[key],page,routine,args_list)
                 if bool(result):
                     self.__query_database.add((url),result)
+            
+
+                    
             except Exception as e:
                 m = "(PhraseScraper) error in playwright multi link handling on ({})... error --> {}".format(key,str(e))
                 self.__err_database.add("{}-{}".format(self.__name,url),m)
@@ -187,7 +192,7 @@ class PhraseScraper(WebScraper):
             for key in phrase_data:
                 maybe_print(self.__verbose, "(PhraseScraper) TOP LEVEL AT: {}".format(key))
                 
-                self.dfs_helper(phrase_data[key],key, phrase_data, self.phrase_analysis)
+                self.__dfs_helper(phrase_data[key],key, phrase_data, self.phrase_analysis)
                 # Populates the nodes of the provided phrases queries heirarchical tree with
                 # resutls corresponding to the website attended.
             
@@ -197,6 +202,7 @@ class PhraseScraper(WebScraper):
             
             return phrase_data
         
+        
         except Exception as e:
             m = "(PhraseScraper) error in default routine on ({})... error --> {}".format(url,str(e))
             self.__err_database.add("{}-{}".format(self.__name,url),m)
@@ -204,7 +210,7 @@ class PhraseScraper(WebScraper):
             maybe_print(self.__verbose, m)
             raise Exception(e)
             
-    def dfs_helper(self, current, key, previous, act):
+    def __dfs_helper(self, current, key, previous, act):
         """
             Diver traverses a heirarchical tree to a node, where it acts on the that segments key.
         """
@@ -215,7 +221,7 @@ class PhraseScraper(WebScraper):
                 return
             for key in current:
                 maybe_print(self.__verbose, "(PhraseScraper) SUB LEVEL AT: {}".format(key))
-                self.dfs_helper(current[key],key,current,act)
+                self.__dfs_helper(current[key],key,current,act)
         except Exception as e:
             m = "(PhraseScraper) error in default routine's dfs helper ({})... error --> {}".format(key,str(e))
             self.__err_database.add("{}-{}".format(self.__name,key),m)
