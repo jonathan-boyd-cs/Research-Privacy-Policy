@@ -1,0 +1,822 @@
+{
+    "https://cats.com": {
+        "data": {
+            "0": {
+                "link-0": {
+                    "WORDS": {
+                        "we": {
+                            "text": {
+                                "we": [
+                                    {
+                                        "0": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    },
+                                    {
+                                        "1": "Before or at the time of collecting personal information, we will identify the purposes for which information is being collected."
+                                    },
+                                    {
+                                        "2": "We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law."
+                                    },
+                                    {
+                                        "3": "We will only retain personal information as long as necessary for the fulfillment of those purposes."
+                                    },
+                                    {
+                                        "4": "We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned."
+                                    },
+                                    {
+                                        "5": "We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification."
+                                    },
+                                    {
+                                        "6": "We will make readily available to customers information about our policies and practices relating to the management of personal information."
+                                    },
+                                    {
+                                        "7": "We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained."
+                                    },
+                                    {
+                                        "8": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    },
+                                    {
+                                        "9": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    },
+                                    {
+                                        "10": "Cats.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Each time you make a purchase through one of our independently-chosen links, we’ll receive a percentage of the proceeds. Read more here."
+                                    }
+                                ]
+                            },
+                            "count": 11
+                        },
+                        "promise": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "only": {
+                            "text": {
+                                "only": [
+                                    {
+                                        "0": "We will only retain personal information as long as necessary for the fulfillment of those purposes."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "information": {
+                            "text": {
+                                "information": [
+                                    {
+                                        "0": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    },
+                                    {
+                                        "1": "Before or at the time of collecting personal information, we will identify the purposes for which information is being collected."
+                                    },
+                                    {
+                                        "2": "We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law."
+                                    },
+                                    {
+                                        "3": "We will only retain personal information as long as necessary for the fulfillment of those purposes."
+                                    },
+                                    {
+                                        "4": "We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned."
+                                    },
+                                    {
+                                        "5": "We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification."
+                                    },
+                                    {
+                                        "6": "We will make readily available to customers information about our policies and practices relating to the management of personal information."
+                                    },
+                                    {
+                                        "7": "We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained."
+                                    },
+                                    {
+                                        "8": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    },
+                                    {
+                                        "9": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    },
+                                    {
+                                        "10": "The educational cat health content on Cats.com is written by or reviewed by our team of veterinary experts to ensure that it’s in line with the latest evidence-based veterinary information and health guidelines. This educational content is not veterinary advice and does not replace consultation with a qualified veterinarian. Use of this site is subject to our terms of use and privacy policy. ©2024 This website is owned and operated by Cliverse Media DAO LTD. "
+                                    },
+                                    {
+                                        "11": "Do not sell or share my personal information."
+                                    },
+                                    {
+                                        "12": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    },
+                                    {
+                                        "13": "Do not sell or share my personal information."
+                                    }
+                                ]
+                            },
+                            "count": 14
+                        },
+                        "use": {
+                            "text": {
+                                "use": [
+                                    {
+                                        "0": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    },
+                                    {
+                                        "1": "We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law."
+                                    },
+                                    {
+                                        "2": "We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification."
+                                    },
+                                    {
+                                        "3": "This site is affiliated with CMI Marketing, Inc., d/b/a CafeMedia (“CafeMedia”) for the purposes of placing advertising on the site, and CafeMedia will collect and use certain data for advertising purposes. To learn more about CafeMedia’s data usage, click here www.cafemedia.com/publisher-advertising-privacy-policy."
+                                    },
+                                    {
+                                        "4": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    },
+                                    {
+                                        "5": "\n                            Affiliate Disclosure\n                            Accessibility Statement\n                            Terms Of Use\n                            Privacy Policy\n                        "
+                                    },
+                                    {
+                                        "6": "The educational cat health content on Cats.com is written by or reviewed by our team of veterinary experts to ensure that it’s in line with the latest evidence-based veterinary information and health guidelines. This educational content is not veterinary advice and does not replace consultation with a qualified veterinarian. Use of this site is subject to our terms of use and privacy policy. ©2024 This website is owned and operated by Cliverse Media DAO LTD. "
+                                    },
+                                    {
+                                        "7": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 8
+                        },
+                        "why": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "priv": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "other": {
+                            "text": {
+                                "other": [
+                                    {
+                                        "0": "We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law."
+                                    },
+                                    {
+                                        "1": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    },
+                                    {
+                                        "2": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 3
+                        },
+                        "if": {
+                            "text": {
+                                "if": [
+                                    {
+                                        "0": "If you have any questions about this Privacy Policy or the practices of this site, please contact us at info@cats.com."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "when": {
+                            "text": {
+                                "when": [
+                                    {
+                                        "0": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "help": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "access": {
+                            "text": {
+                                "access": [
+                                    {
+                                        "0": "We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "can't access": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "CAPABILITY": {
+                        "we will not": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we only": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we collect": {
+                            "text": {
+                                "we collect": [
+                                    {
+                                        "0": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "we may collect": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we gather data": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you may": {
+                            "text": {
+                                "you may": [
+                                    {
+                                        "0": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    },
+                                    {
+                                        "1": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "you can": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "right": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "choice": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "request": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "delete": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "deletion": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "remove": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "removal": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "erase": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "LEGAL": {
+                        "contract": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "agreement": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "obligation": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you control": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "we control": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "legal": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "authority": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "comply": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "compliant": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "law": {
+                            "text": {
+                                "law": [
+                                    {
+                                        "0": "We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "enforce": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "govern": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "regulators": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "regulatory": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "policy": {
+                            "text": {
+                                "policy": [
+                                    {
+                                        "0": "\n\t\t\t\t\t\t\t\t\t\n\t\t\tPrivacy Policy\n\n            \t\t"
+                                    },
+                                    {
+                                        "1": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    },
+                                    {
+                                        "2": "This site is affiliated with CMI Marketing, Inc., d/b/a CafeMedia (“CafeMedia”) for the purposes of placing advertising on the site, and CafeMedia will collect and use certain data for advertising purposes. To learn more about CafeMedia’s data usage, click here www.cafemedia.com/publisher-advertising-privacy-policy."
+                                    },
+                                    {
+                                        "3": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    },
+                                    {
+                                        "4": "If you have any questions about this Privacy Policy or the practices of this site, please contact us at info@cats.com."
+                                    },
+                                    {
+                                        "5": "\n                            Affiliate Disclosure\n                            Accessibility Statement\n                            Terms Of Use\n                            Privacy Policy\n                        "
+                                    },
+                                    {
+                                        "6": "\n                                                        Rescue Partner Program\n                            Editorial Policy\n                            Research Papers\n                                                    "
+                                    },
+                                    {
+                                        "7": "The educational cat health content on Cats.com is written by or reviewed by our team of veterinary experts to ensure that it’s in line with the latest evidence-based veterinary information and health guidelines. This educational content is not veterinary advice and does not replace consultation with a qualified veterinarian. Use of this site is subject to our terms of use and privacy policy. ©2024 This website is owned and operated by Cliverse Media DAO LTD. "
+                                    },
+                                    {
+                                        "8": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 9
+                        },
+                        "international": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "in accordane with": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "california": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "children": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "kid": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "child": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "youth": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "young": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "minor": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you consented": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you consent": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you agree": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "your agreement": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you acknowledge": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you acknowledged": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you signed": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you approve": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you approved": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "your permission": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you accepted": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "you read": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "BUSINESS_FOCUS": {
+                        "third parties": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "third-party": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "third party": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "advertising": {
+                            "text": {
+                                "advertising": [
+                                    {
+                                        "0": "Advertising Privacy Statement"
+                                    },
+                                    {
+                                        "1": "www.cafemedia.com/publisher-advertising-privacy-policy"
+                                    },
+                                    {
+                                        "2": "Cats.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Each time you make a purchase through one of our independently-chosen links, we’ll receive a percentage of the proceeds. Read more here."
+                                    },
+                                    {
+                                        "3": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 4
+                        },
+                        "sends to": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "sell to": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "share with": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "exchange": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "improve": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "optimize": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "increase": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "benefit": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "enhance": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "innovate": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "technologial innovation": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "UTILIZATION": {
+                        "data": {
+                            "text": {
+                                "data": [
+                                    {
+                                        "0": "Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date."
+                                    },
+                                    {
+                                        "1": "This site is affiliated with CMI Marketing, Inc., d/b/a CafeMedia (“CafeMedia”) for the purposes of placing advertising on the site, and CafeMedia will collect and use certain data for advertising purposes. To learn more about CafeMedia’s data usage, click here www.cafemedia.com/publisher-advertising-privacy-policy."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "we process": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "collected": {
+                            "text": {
+                                "collected": [
+                                    {
+                                        "0": "Before or at the time of collecting personal information, we will identify the purposes for which information is being collected."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "stored": {
+                            "text": {
+                                "stored": [
+                                    {
+                                        "0": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    },
+                                    {
+                                        "1": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "retention": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "INNOVATION": {
+                        "analyze": {
+                            "text": {
+                                "analyze": [
+                                    {
+                                        "0": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "analysis": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "analytics": {
+                            "text": {
+                                "analytics": [
+                                    {
+                                        "0": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    },
+                                    {
+                                        "1": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 2
+                        },
+                        "automate": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "automatic": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "AI": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "automatically": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "artificial intelligence": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "algorithm": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "language processing": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "SECURITY": {
+                        "control": {
+                            "text": {
+                                "control": [
+                                    {
+                                        "0": "\nHyperthyroidism\nPancreatitis\nHairball Control\nUrinary Tract Health\nFeline Diabetes\nKidney Disease\nConstipation\nDiarrhea\nIBD\nVet Recommended\n"
+                                    },
+                                    {
+                                        "1": "\nSensitive Stomach\nShedding Control\nPrevent Vomiting\nSmelly Poop\nGassy Cats\n"
+                                    },
+                                    {
+                                        "2": "\nOdor Control\nCrystal\nClumping\nDust Free\nNon-Clumping\nNon-Tracking\nFlushable\nNatural\nFor Multiple Cats\nFor Kittens\n"
+                                    }
+                                ]
+                            },
+                            "count": 3
+                        },
+                        "settings": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "controls": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "fraud": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "to detect": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "malicious": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "illegal activity": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "to protect": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "encryption": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "security": {
+                            "text": {
+                                "security": [
+                                    {
+                                        "0": "We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "unauthorized": {
+                            "text": {
+                                "unauthorized": [
+                                    {
+                                        "0": "We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "auditing": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "EDUCATION": {
+                        "how": {
+                            "text": {
+                                "how": [
+                                    {
+                                        "0": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "what": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "how you": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "how we ": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "explain": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "understand": {
+                            "text": {
+                                "understand": [
+                                    {
+                                        "0": "Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "learn": {
+                            "text": {
+                                "learn": [
+                                    {
+                                        "0": "This site is affiliated with CMI Marketing, Inc., d/b/a CafeMedia (“CafeMedia”) for the purposes of placing advertising on the site, and CafeMedia will collect and use certain data for advertising purposes. To learn more about CafeMedia’s data usage, click here www.cafemedia.com/publisher-advertising-privacy-policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "more information": {
+                            "text": {
+                                "more information": [
+                                    {
+                                        "0": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 1
+                        },
+                        "educational resource": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "educate": {
+                            "text": {},
+                            "count": 0
+                        }
+                    },
+                    "TECHNOLOGY": {
+                        "cookies": {
+                            "text": {
+                                "cookies": [
+                                    {
+                                        "0": "A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies."
+                                    },
+                                    {
+                                        "1": "We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://www.google.com/policies/privacy/."
+                                    },
+                                    {
+                                        "2": "You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the \"Customize my ad experience\" link.\n    This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.\n    For more information please visit this site's Privacy Policy."
+                                    }
+                                ]
+                            },
+                            "count": 3
+                        },
+                        "mobile identifiers": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "pixel tags": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "web beacons": {
+                            "text": {},
+                            "count": 0
+                        },
+                        "session monitoring": {
+                            "text": {},
+                            "count": 0
+                        }
+                    }
+                }
+            }
+        },
+        "entry": 1
+    }
+}
