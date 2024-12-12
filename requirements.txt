@@ -1,0 +1,8 @@
+Numpy==2.0.2
+Pandas==2.2.3
+Playwright==1.48.0
+Pycountry==24.6.1
+Scikit-learn==1.5.2
+Textstat==0.7.4
+Dnspython==2.7.0
+Googletrans==3.1.0a0
