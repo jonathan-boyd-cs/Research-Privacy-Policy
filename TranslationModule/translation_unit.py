@@ -61,7 +61,7 @@ class TranslationUnit :
             Given a phrase, returns the suspected language.
         """
         try:
-            maybe_print(self.__verbose,"(TranslationUnit) Detecting language...")
+            maybe_print(self.__verbose,"(TranslationUnit) Detecting language...\n{}".format(phrase))
 
             translation = self.__translator.detect(phrase)
             return translation.lang
@@ -84,7 +84,7 @@ class WebTranslationUnit(TranslationUnit):
     def __init__(self, playwright_manager : sync_playwright ,name : str, errLogDirectory : str, verbose=True) -> None:
         super().__init__(verbose)
         self.__playwright_manager = playwright_manager  
-        self.__html_text_search_keys = ['paragraph','textbox','caption',
+        self.__html_text_search_keys = ['link','paragraph','textbox','caption',
                           'dialog','heading','form','link']
         self.__name = name
         m = time_stamped_msg("web-translation-unit-{}".format(name))
@@ -113,11 +113,20 @@ class WebTranslationUnit(TranslationUnit):
                         result = query.nth(i)
                         text = result.text_content()
                         assert(text != None)
-                        language = self.detect_lang(text)
-                        assert(language != None)
-                        language = language
-                        maybe_print(self.__verbose, "(WebTranslationUnit) LANGUAGE DETERMINED AS...{}".format(language))
-                        return language       
+                        for t in text:
+                            try:
+                                assert(t.strip() != "")
+                                assert(len(t.strip()) > 5)
+                                language = self.detect_lang(text)
+                                assert(language != None)
+                                maybe_print(self.__verbose, "(WebTranslationUnit) LANGUAGE DETERMINED AS...{}".format(language))
+                                return language 
+                            
+                            except KeyboardInterrupt:
+                                raise (KeyboardInterrupt)
+                            
+                            except:
+                                continue      
                 except:
                     continue
             return language
