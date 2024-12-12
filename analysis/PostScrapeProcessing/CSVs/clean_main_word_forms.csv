@@ -1,0 +1,152 @@
+URL,Industry,Country,State,WORDS,CAPABILITY,LEGAL,BUSINESS_FOCUS,UTILIZATION,INNOVATION,SECURITY,EDUCATION,TECHNOLOGY
+https://mayoclinic.org,HEALTH,US,MN,186,48,41,25,38,12,17,21,11
+https://clevelandclinic.org,HEALTH,US,ID,159,40,32,20,21,7,20,16,4
+https://healthline.com,HEALTH,US,ID,554,166,134,64,60,28,46,88,36
+https://medicalnewstoday.com,HEALTH,US,ID,12,4,1,4,3,1,1,0,3
+https://healthgrades.com,HEALTH,US,ID,364,95,115,77,93,10,32,43,29
+https://webmd.com,HEALTH,US,NY,265,54,59,54,25,7,27,53,26
+https://verywellhealth.com,HEALTH,US,NY,329,85,79,75,59,22,31,48,7
+https://plannedparenthood.org,HEALTH,US,NY,429,195,95,166,85,44,95,111,25
+https://medscape.com,HEALTH,US,NY,26,42,58,49,24,6,20,17,16
+https://babycenter.com,HEALTH,US,NY,887,192,206,166,188,18,62,100,46
+https://pharmeasy.in,HEALTH,IN,NON-US,197,42,48,30,19,7,25,12,5
+https://truemeds.in,HEALTH,IN,NON-US,165,36,62,31,21,10,24,9,5
+https://memorial.com.tr,HEALTH,TR,NON-US,65,3,19,5,5,4,8,12,1
+https://tuasaude.com,HEALTH,IS,NON-US,24,0,5,5,7,0,0,75,0
+https://pinterest.de,HEALTH,DE,NON-US,1,1,63,37,40,7,40,70,8
+https://jysk.de,HEALTH,DE,NON-US,34,3,6,14,7,1,7,9,0
+https://linkedin.com,JOBS AND EDUCATION,US,CA,634,146,156,55,205,16,118,76,20
+https://quillbot.com,JOBS AND EDUCATION,US,CA,16,3,3,4,0,11,0,0,0
+https://ziprecruiter.com,JOBS AND EDUCATION,US,CA,0,2,8,80,216,27,52,76,23
+https://desmos.com,JOBS AND EDUCATION,US,CA,152,43,49,19,56,4,15,15,2
+https://sarkariresult.com,JOBS AND EDUCATION,US,MA,57,12,29,7,11,3,6,2,5
+https://grammarly.com,JOBS AND EDUCATION,US,AZ,149,42,29,16,40,5,27,28,4
+https://khanacademy.org,JOBS AND EDUCATION,US,AZ,298,103,94,45,50,15,46,86,25
+https://jagranjosh.com,JOBS AND EDUCATION,US,AZ,163,25,38,19,39,6,18,8,2
+https://cuemath.com,JOBS AND EDUCATION,US,AZ,244,53,81,42,105,15,35,28,15
+https://vedantu.com,JOBS AND EDUCATION,US,AZ,25,5,11,2,2,1,0,17,0
+https://quizizz.com,JOBS AND EDUCATION,US,AZ,327,62,118,42,114,5,34,28,2
+https://coursera.org,JOBS AND EDUCATION,US,AZ,252,52,34,36,85,20,17,36,10
+https://jooble.org,JOBS AND EDUCATION,US,AZ,0,0,0,0,0,0,2,0,0
+https://sarkarialert.net,JOBS AND EDUCATION,US,AZ,26,5,14,8,3,2,1,4,7
+https://unacademy.com,JOBS AND EDUCATION,US,AZ,7,0,0,0,42,11,24,21,6
+https://leverageedu.com,JOBS AND EDUCATION,US,AZ,100,18,7,11,16,2,9,6,4
+https://mathplayground.com,JOBS AND EDUCATION,US,AZ,31,5,14,6,8,2,6,0,2
+https://testbook.com,JOBS AND EDUCATION,US,CO,74,12,13,11,14,2,9,5,2
+https://clever.com,JOBS AND EDUCATION,US,CO,204,29,29,34,47,13,19,25,4
+https://adp.com,JOBS AND EDUCATION,US,NJ,449,99,114,72,252,35,93,102,29
+https://udemy.com,JOBS AND EDUCATION,US,"Data protected, not disclosed",0,0,0,0,0,0,2,0,0
+https://instructure.com,JOBS AND EDUCATION,US,UT,174,39,41,32,61,19,20,29,31
+https://blooket.com,JOBS AND EDUCATION,US,DE,362,67,106,34,63,11,57,31,3
+https://mynavi.jp,JOBS AND EDUCATION,JP,NON-US,17,10,3,4,3,4,3,2,8
+https://alc.co.jp,JOBS AND EDUCATION,JP,NON-US,39,2,4,1,1,0,1,1,2
+https://sephora.com,BEAUTY AND FITNESS,US,FL,222,73,64,30,17,15,34,37,10
+https://glamour.com,BEAUTY AND FITNESS,US,NY,423,91,111,100,39,11,30,35,6
+https://yelp.com,BEAUTY AND FITNESS,US,CA,293,106,73,65,58,7,31,45,14
+https://eudora.com.br,BEAUTY AND FITNESS,BR,NON-US,10,8,10,12,15,2,14,28,0
+https://esthe-ranking.jp,BEAUTY AND FITNESS,JP,NON-US,15,3,3,0,0,0,1,0,0
+https://impots.gouv.fr,LAW AND GOVERNMENT,FR,NON-US,6,0,2,0,0,0,0,0,1
+https://kompas.com,LAW AND GOVERNMENT,ID,NON-US,2,1,2,0,47,23,0,0,8
+https://interia.pl,LAW AND GOVERNMENT,PL,NON-US,19,37,24,0,36,1,4,8,1
+https://trulia.com,REAL ESTATE,US,ID,19,2,1,0,4,0,2,5,0
+https://rentcafe.com,REAL ESTATE,US,ID,23,8,2,4,1,2,3,8,11
+https://apartments.com,REAL ESTATE,US,DC,264,59,48,45,27,22,23,18,4
+https://homes.com,REAL ESTATE,US,DC,370,84,81,55,34,24,27,25,4
+https://mamikos.com,REAL ESTATE,US,AZ,11,3,11,4,1,0,2,8,0
+https://redfin.com,REAL ESTATE,US,AZ,32,9,9,9,1,3,2,5,5
+https://aplaceformom.com,REAL ESTATE,US,AZ,178,42,41,25,13,9,13,10,5
+https://valuecom.com,REAL ESTATE,US,AZ,14,3,5,3,2,0,4,4,3
+https://housing.com,REAL ESTATE,US,CO,21,2,19,23,15,9,9,11,4
+https://remax.com,REAL ESTATE,US,CO,173,41,46,27,16,8,20,22,11
+https://rent.com,REAL ESTATE,US,GA,227,71,57,42,24,6,17,15,7
+https://meinestadt.de,REFERENCE,DE,NON-US,6,1,0,2,0,0,1,1,0
+https://hitta.se,REFERENCE,SE,NON-US,12,3,0,8,1,0,2,2,0
+https://disneyplus.com,ENTERTAINMENT,US,CA,20,8,15,8,5,1,5,8,4
+https://youtube.com,ENTERTAINMENT,US,CA,552,114,47,39,67,23,89,109,14
+https://microsoft.com,COMPUTERS AND ELECTRONICS,US,WA,1630,407,165,276,632,77,309,330,70
+https://apple.com,COMPUTERS AND ELECTRONICS,US,CA,76,13,18,2,22,1,13,41,9
+https://adobe.com,COMPUTERS AND ELECTRONICS,US,CA,15,2,8,1,4,2,1,9,3
+https://github.com,COMPUTERS AND ELECTRONICS,US,CA,279,60,47,45,94,15,45,37,32
+https://hp.com,COMPUTERS AND ELECTRONICS,US,CA,112,56,21,16,16,6,21,31,23
+https://icloud.com,COMPUTERS AND ELECTRONICS,US,CA,4,30,64,22,73,1,28,24,9
+https://oracle.com,COMPUTERS AND ELECTRONICS,US,CA,204,46,49,27,45,5,17,27,9
+https://docs.google.com,COMPUTERS AND ELECTRONICS,US,CA,3,0,0,0,0,0,0,1,0
+https://cloud.google.com,COMPUTERS AND ELECTRONICS,US,CA,37,37,47,39,67,23,89,109,14
+https://autodesk.com,COMPUTERS AND ELECTRONICS,US,CA,294,85,69,42,94,13,24,48,6
+https://webpkgcache.com,COMPUTERS AND ELECTRONICS,US,CA,552,114,47,39,67,23,89,109,14
+https://ilovepdf.com,COMPUTERS AND ELECTRONICS,US,AZ,130,37,87,22,118,9,13,20,8
+https://iloveimg.com,COMPUTERS AND ELECTRONICS,US,AZ,3,2,72,27,106,10,12,20,10
+https://freepdfconvert.com,COMPUTERS AND ELECTRONICS,US,AZ,23,5,14,2,3,1,5,1,0
+https://fotor.com,COMPUTERS AND ELECTRONICS,US,AZ,111,26,26,13,19,25,3,14,12
+https://bluestacks.com,COMPUTERS AND ELECTRONICS,US,AZ,998,270,274,170,200,48,106,170,54
+https://techtarget.com,COMPUTERS AND ELECTRONICS,US,MA,353,74,85,69,169,29,111,69,17
+https://cnet.com,COMPUTERS AND ELECTRONICS,US,NY,114,45,44,18,60,17,24,32,8
+https://stackoverflow.com,COMPUTERS AND ELECTRONICS,US,NY,459,89,78,90,96,19,54,59,11
+https://pcmag.com,COMPUTERS AND ELECTRONICS,US,NY,19,10,3,5,0,6,10,24,0
+https://ibm.com,COMPUTERS AND ELECTRONICS,US,NY,21,5,2,9,8,43,20,19,4
+https://allrecipes.com,FOOD AND DRINK,US,IA,7,2,2,1,0,1,1,5,7
+https://foodandwine.com,FOOD AND DRINK,US,IA,7,0,5,1,0,1,1,8,2
+https://eatingwell.com,FOOD AND DRINK,US,IA,248,85,79,75,59,22,31,48,7
+https://loveandlemons.com,FOOD AND DRINK,US,AZ,18,3,4,10,4,3,0,4,1
+https://sallysbakingaddiction.com,FOOD AND DRINK,US,AZ,143,38,34,35,27,11,13,9,18
+https://thekitchn.com,FOOD AND DRINK,US,AZ,6,2,0,0,0,0,0,0,2
+https://thepioneerwoman.com,FOOD AND DRINK,US,AZ,441,108,63,70,36,13,30,55,11
+https://tastesbetterfromscratch.com,FOOD AND DRINK,US,AZ,109,16,15,16,8,7,9,7,15
+https://spendwithpennies.com,FOOD AND DRINK,US,AZ,329,85,79,75,59,22,31,48,7
+https://swiggy.com,FOOD AND DRINK,US,AZ,3,0,0,0,0,1,0,0,0
+https://natashaskitchen.com,FOOD AND DRINK,US,AZ,74,15,21,17,12,2,6,16,3
+https://downshiftology.com,FOOD AND DRINK,US,AZ,94,25,18,11,18,5,2,11,15
+https://dogster.com,PETS AND ANIMALS,US,AZ,113,40,27,20,19,7,12,26,5
+https://dogtime.com,PETS AND ANIMALS,US,AZ,194,42,42,26,26,10,10,33,20
+https://expertoanimal.com,PETS AND ANIMALS,US,AZ,15,3,0,0,1,0,0,22,0
+https://wildlifetrusts.org,PETS AND ANIMALS,US,AZ,213,42,28,24,54,8,19,32,23
+https://bettervet.com,PETS AND ANIMALS,US,AZ,167,39,40,25,12,6,13,17,10
+https://cats.com,PETS AND ANIMALS,US,AZ,39,3,10,4,5,3,5,4,3
+https://litter-robot.com,PETS AND ANIMALS,US,AZ,18,3,6,1,0,3,3,7,2
+https://lancasterpuppies.com,PETS AND ANIMALS,US,AZ,79,13,13,11,8,3,6,14,3
+https://aquariumcoop.com,PETS AND ANIMALS,US,AZ,22,8,11,6,3,3,3,10,2
+https://trustedhousesitters.com,PETS AND ANIMALS,US,AZ,205,37,39,15,81,2,5,17,3
+https://petmd.com,PETS AND ANIMALS,US,FL,347,85,70,62,39,19,18,32,16
+https://petinsurance.com,PETS AND ANIMALS,US,FL,640,256,222,90,174,50,78,68,32
+https://spotpet.com,PETS AND ANIMALS,US,FL,126,34,43,15,8,2,12,8,2
+https://nwf.org,PETS AND ANIMALS,US,FL,62,17,21,20,14,6,5,11,4
+https://thesprucepets.com,PETS AND ANIMALS,US,NY,5,1,3,1,0,2,1,15,2
+https://aspca.org,PETS AND ANIMALS,US,NY,141,34,19,21,8,5,13,19,9
+https://adoptapet.com,PETS AND ANIMALS,US,NY,63,12,6,3,1,7,4,20,11
+https://aspcapetinsurance.com,PETS AND ANIMALS,US,NY,190,60,33,20,13,2,20,19,18
+https://petco.com,PETS AND ANIMALS,US,CA,56,11,8,5,1,5,1,8,3
+https://wagwalking.com,PETS AND ANIMALS,US,CA,496,120,134,86,46,28,60,40,18
+https://sandiegozoo.org,PETS AND ANIMALS,US,CA,65,14,21,8,4,2,7,2,3
+https://animalia.bio,PETS AND ANIMALS,US,CA,63,25,18,13,16,3,3,6,9
+https://livemint.com,FINANCE,US,AZ,261,67,69,36,52,12,18,22,11
+https://businessinsider.com,FINANCE,US,AZ,436,100,113,54,92,30,42,57,14
+https://bankbazaar.com,FINANCE,US,AZ,211,21,42,31,19,9,33,10,4
+https://hangikredi.com,FINANCE,US,AZ,76,1,13,5,16,3,4,8,6
+https://bseindia.com,FINANCE,US,AZ,4,3,8,3,10,0,6,5,0
+https://paisabazaar.com,FINANCE,US,AZ,1,0,1,0,0,0,0,0,0
+https://wise.com,FINANCE,US,CA,425,99,145,40,147,13,36,34,3
+https://tradingview.com,FINANCE,US,CA,284,60,63,36,92,18,37,28,4
+https://paypal.com,FINANCE,US,CA,483,99,72,54,69,4,58,58,13
+https://coinmarketcap.com,FINANCE,US,CA,51,11,5,9,12,5,4,23,7
+https://intuit.com,FINANCE,US,CA,19,6,2,7,6,1,6,9,6
+https://coinbase.com,FINANCE,US,CA,31,2,19,2,1,1,6,11,1
+https://schwab.com,FINANCE,US,CA,122,18,21,18,5,4,16,35,14
+https://wellsfargo.com,FINANCE,US,CA,100,24,68,18,26,0,20,32,18
+https://experian.com,FINANCE,US,CA,204,79,63,22,108,8,32,111,1
+https://creditkarma.com,FINANCE,US,CA,514,168,83,51,69,19,64,45,15
+https://forbes.com,FINANCE,US,NY,558,162,101,89,111,20,48,79,17
+https://investopedia.com,FINANCE,US,NY,10,1,5,3,1,3,1,2,2
+https://americanexpress.com,FINANCE,US,NY,58,16,6,3,19,1,11,25,0
+https://bloomberg.com,FINANCE,US,NY,5,1,1,0,0,0,0,1,1
+https://finance.yahoo.com,FINANCE,US,VA,157,20,30,18,18,3,18,22,5
+https://capitalone.com,FINANCE,US,VA,18,9,32,36,23,9,23,53,8
+https://cnbc.com,FINANCE,US,NJ,37,8,6,6,6,4,4,10,4
+https://bankrate.com,FINANCE,US,ID,449,105,101,34,175,7,29,132,4
+https://bankofamerica.com,FINANCE,US,NC,255,48,40,57,28,4,46,61,7
+https://chase.com,FINANCE,US,DE,70,16,10,2,1,0,21,41,1
+https://westernunion.com,FINANCE,US,CO,44,8,2,11,2,0,7,8,11
+https://nasdaq.com,FINANCE,US,CT,362,100,145,59,124,10,22,34,13
+https://discover.com,FINANCE,US,IL,23,7,8,3,1,1,6,6,0
+https://fidelity.com,FINANCE,US,MA,62,10,11,7,2,0,15,12,11
+https://pnc.com,FINANCE,US,PA,330,56,72,72,54,8,34,62,30
+https://usbank.com,FINANCE,US,MN,41,3,16,8,0,0,7,15,2

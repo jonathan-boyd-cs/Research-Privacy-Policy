@@ -1,0 +1,130 @@
+URL,Industry,Country,State,DNSMI
+https://mayoclinic.org,HEALTH,US,MN,False
+https://clevelandclinic.org,HEALTH,US,ID,False
+https://healthline.com,HEALTH,US,ID,False
+https://medicalnewstoday.com,HEALTH,US,ID,False
+https://healthgrades.com,HEALTH,US,ID,False
+https://webmd.com,HEALTH,US,NY,False
+https://verywellhealth.com,HEALTH,US,NY,False
+https://plannedparenthood.org,HEALTH,US,NY,False
+https://medscape.com,HEALTH,US,NY,False
+https://babycenter.com,HEALTH,US,NY,True
+https://pharmeasy.in,HEALTH,IN,NON-US,False
+https://truemeds.in,HEALTH,IN,NON-US,False
+https://memorial.com.tr,HEALTH,TR,NON-US,False
+https://pinterest.de,HEALTH,DE,NON-US,False
+https://linkedin.com,JOBS AND EDUCATION,US,CA,False
+https://quillbot.com,JOBS AND EDUCATION,US,CA,False
+https://ziprecruiter.com,JOBS AND EDUCATION,US,CA,False
+https://desmos.com,JOBS AND EDUCATION,US,CA,False
+https://sarkariresult.com,JOBS AND EDUCATION,US,MA,False
+https://grammarly.com,JOBS AND EDUCATION,US,AZ,False
+https://khanacademy.org,JOBS AND EDUCATION,US,AZ,False
+https://jagranjosh.com,JOBS AND EDUCATION,US,AZ,False
+https://cuemath.com,JOBS AND EDUCATION,US,AZ,False
+https://vedantu.com,JOBS AND EDUCATION,US,AZ,False
+https://quizizz.com,JOBS AND EDUCATION,US,AZ,False
+https://coursera.org,JOBS AND EDUCATION,US,AZ,False
+https://jooble.org,JOBS AND EDUCATION,US,AZ,False
+https://sarkarialert.net,JOBS AND EDUCATION,US,AZ,False
+https://unacademy.com,JOBS AND EDUCATION,US,AZ,False
+https://leverageedu.com,JOBS AND EDUCATION,US,AZ,False
+https://mathplayground.com,JOBS AND EDUCATION,US,AZ,False
+https://testbook.com,JOBS AND EDUCATION,US,CO,False
+https://clever.com,JOBS AND EDUCATION,US,CO,False
+https://adp.com,JOBS AND EDUCATION,US,NJ,True
+https://udemy.com,JOBS AND EDUCATION,US,"Data protected, not disclosed",True
+https://instructure.com,JOBS AND EDUCATION,US,UT,True
+https://blooket.com,JOBS AND EDUCATION,US,DE,False
+https://mynavi.jp,JOBS AND EDUCATION,JP,NON-US,True
+https://alc.co.jp,JOBS AND EDUCATION,JP,NON-US,False
+https://glamour.com,BEAUTY AND FITNESS,US,NY,True
+https://eudora.com.br,BEAUTY AND FITNESS,BR,NON-US,False
+https://esthe-ranking.jp,BEAUTY AND FITNESS,JP,NON-US,False
+https://impots.gouv.fr,LAW AND GOVERNMENT,FR,NON-US,False
+https://interia.pl,LAW AND GOVERNMENT,PL,NON-US,False
+https://trulia.com,REAL ESTATE,US,ID,True
+https://rentcafe.com,REAL ESTATE,US,ID,False
+https://apartments.com,REAL ESTATE,US,DC,True
+https://homes.com,REAL ESTATE,US,DC,False
+https://mamikos.com,REAL ESTATE,US,AZ,False
+https://redfin.com,REAL ESTATE,US,AZ,True
+https://aplaceformom.com,REAL ESTATE,US,AZ,True
+https://valuecom.com,REAL ESTATE,US,AZ,False
+https://housing.com,REAL ESTATE,US,CO,False
+https://remax.com,REAL ESTATE,US,CO,False
+https://rent.com,REAL ESTATE,US,GA,True
+https://meinestadt.de,REFERENCE,DE,NON-US,False
+https://hitta.se,REFERENCE,SE,NON-US,False
+https://microsoft.com,COMPUTERS AND ELECTRONICS,US,WA,False
+https://apple.com,COMPUTERS AND ELECTRONICS,US,CA,False
+https://adobe.com,COMPUTERS AND ELECTRONICS,US,CA,True
+https://github.com,COMPUTERS AND ELECTRONICS,US,CA,True
+https://hp.com,COMPUTERS AND ELECTRONICS,US,CA,False
+https://icloud.com,COMPUTERS AND ELECTRONICS,US,CA,False
+https://oracle.com,COMPUTERS AND ELECTRONICS,US,CA,True
+https://docs.google.com,COMPUTERS AND ELECTRONICS,US,CA,False
+https://cloud.google.com,COMPUTERS AND ELECTRONICS,US,CA,False
+https://autodesk.com,COMPUTERS AND ELECTRONICS,US,CA,True
+https://webpkgcache.com,COMPUTERS AND ELECTRONICS,US,CA,False
+https://ilovepdf.com,COMPUTERS AND ELECTRONICS,US,AZ,False
+https://iloveimg.com,COMPUTERS AND ELECTRONICS,US,AZ,False
+https://freepdfconvert.com,COMPUTERS AND ELECTRONICS,US,AZ,False
+https://fotor.com,COMPUTERS AND ELECTRONICS,US,AZ,False
+https://bluestacks.com,COMPUTERS AND ELECTRONICS,US,AZ,True
+https://techtarget.com,COMPUTERS AND ELECTRONICS,US,MA,True
+https://cnet.com,COMPUTERS AND ELECTRONICS,US,NY,True
+https://stackoverflow.com,COMPUTERS AND ELECTRONICS,US,NY,False
+https://pcmag.com,COMPUTERS AND ELECTRONICS,US,NY,True
+https://ibm.com,COMPUTERS AND ELECTRONICS,US,NY,False
+https://allrecipes.com,FOOD AND DRINK,US,IA,False
+https://foodandwine.com,FOOD AND DRINK,US,IA,False
+https://eatingwell.com,FOOD AND DRINK,US,IA,False
+https://loveandlemons.com,FOOD AND DRINK,US,AZ,True
+https://sallysbakingaddiction.com,FOOD AND DRINK,US,AZ,True
+https://thepioneerwoman.com,FOOD AND DRINK,US,AZ,False
+https://tastesbetterfromscratch.com,FOOD AND DRINK,US,AZ,True
+https://swiggy.com,FOOD AND DRINK,US,AZ,False
+https://natashaskitchen.com,FOOD AND DRINK,US,AZ,True
+https://downshiftology.com,FOOD AND DRINK,US,AZ,True
+https://dogtime.com,PETS AND ANIMALS,US,AZ,False
+https://expertoanimal.com,PETS AND ANIMALS,US,AZ,False
+https://wildlifetrusts.org,PETS AND ANIMALS,US,AZ,False
+https://bettervet.com,PETS AND ANIMALS,US,AZ,False
+https://litter-robot.com,PETS AND ANIMALS,US,AZ,True
+https://lancasterpuppies.com,PETS AND ANIMALS,US,AZ,False
+https://aquariumcoop.com,PETS AND ANIMALS,US,AZ,False
+https://petmd.com,PETS AND ANIMALS,US,FL,False
+https://petinsurance.com,PETS AND ANIMALS,US,FL,True
+https://spotpet.com,PETS AND ANIMALS,US,FL,False
+https://thesprucepets.com,PETS AND ANIMALS,US,NY,False
+https://animalia.bio,PETS AND ANIMALS,US,CA,True
+https://livemint.com,FINANCE,US,AZ,False
+https://businessinsider.com,FINANCE,US,AZ,False
+https://bankbazaar.com,FINANCE,US,AZ,False
+https://hangikredi.com,FINANCE,US,AZ,False
+https://wise.com,FINANCE,US,CA,False
+https://tradingview.com,FINANCE,US,CA,False
+https://paypal.com,FINANCE,US,CA,False
+https://coinmarketcap.com,FINANCE,US,CA,True
+https://intuit.com,FINANCE,US,CA,False
+https://coinbase.com,FINANCE,US,CA,True
+https://schwab.com,FINANCE,US,CA,False
+https://wellsfargo.com,FINANCE,US,CA,True
+https://experian.com,FINANCE,US,CA,False
+https://creditkarma.com,FINANCE,US,CA,False
+https://forbes.com,FINANCE,US,NY,True
+https://investopedia.com,FINANCE,US,NY,False
+https://americanexpress.com,FINANCE,US,NY,True
+https://bloomberg.com,FINANCE,US,NY,True
+https://finance.yahoo.com,FINANCE,US,VA,False
+https://capitalone.com,FINANCE,US,VA,False
+https://bankrate.com,FINANCE,US,ID,True
+https://bankofamerica.com,FINANCE,US,NC,False
+https://chase.com,FINANCE,US,DE,False
+https://westernunion.com,FINANCE,US,CO,False
+https://nasdaq.com,FINANCE,US,CT,True
+https://discover.com,FINANCE,US,IL,False
+https://fidelity.com,FINANCE,US,MA,False
+https://pnc.com,FINANCE,US,PA,True
+https://usbank.com,FINANCE,US,MN,False

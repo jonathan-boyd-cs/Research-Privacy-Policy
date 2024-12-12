@@ -1,0 +1,6340 @@
+* BEAUTY AND FITNESS
++ https://yelp.com
+- Country: US
++ https://yelp.com
+- State: CA
++ https://elle.com
+- Country: FR
++ https://elle.com
+- State: Ile-de-France
++ https://journaldesfemmes.fr
+- Country: FR
++ https://cosme.net
+- Country: JP
++ https://cosme.net
+- State: Tokyo
++ https://sephora.com
+- Country: US
++ https://sephora.com
+- State: FL
++ https://elle.fr
+- Country: FR
++ https://fimela.com
+- Country: ID
++ https://fimela.com
+- State: DKI Jakarta
++ https://fragrantica.com
+- Country: US
++ https://fragrantica.com
+- State: Arizona
++ https://allthingshair.com
+- Country: GB
++ https://allthingshair.com
+- State: ENG
++ https://allure.com
+- Country: US
++ https://allure.com
+- State: NY
++ https://byrdie.com
+- Country: US
++ https://byrdie.com
+- State: NY
++ https://ulta.com
+- Country: US
++ https://ulta.com
+- State: FL
++ https://superdrug.com
+- Country: GB
++ https://superdrug.com
+- State: Surrey
++ https://glamour.com
+- Country: US
++ https://glamour.com
+- State: NY
++ https://nykaa.com
+- Country: US
++ https://nykaa.com
+- State: Arizona
++ https://bathandbodyworks.com
+- Country: US
++ https://bathandbodyworks.com
+- State: OH
++ https://makeup.com.ua
+- Country: UA
++ https://lipscosme.com
+- Country: JP
++ https://femmeactuelle.fr
+- Country: FR
++ https://fresha.com
+- Country: GB
++ https://fresha.com
+- State: Middlesex
++ https://sephora.fr
+- Country: FR
++ https://charlottetilbury.com
+- Country: GB
++ https://charlottetilbury.com
+- State: Essex
++ https://garotacomlocal.com
+- Country: BR
++ https://garotacomlocal.com
+- State: PARANA
++ https://thecut.com
+- Country: GB
++ https://thecut.com
+- State: Middlesex
++ https://perfectcorp.com
+- Country: CN
++ https://perfectcorp.com
+- State: shang hai
++ https://instyle.com
+- Country: US
++ https://instyle.com
+- State: IA
++ https://rituals.com
+- Country: NL
++ https://rituals.com
+- State: NH
++ https://sephora.com.br
+- Country: BR
++ https://therighthairstyles.com
+- Country: IS
++ https://therighthairstyles.com
+- State: Capital Region
++ https://popsugar.com
+- Country: GB
++ https://popsugar.com
+- State: Middlesex
++ https://planity.com
+- Country: US
++ https://planity.com
+- State: CO
++ https://loccitane.com
+- Country: CH
++ https://loccitane.com
+- State: GE
++ https://glamour.mx
+- Country: Mexico
++ https://glamour.mx
+- State: Mexico
++ https://planetfitness.com
+- Country: US
++ https://planetfitness.com
+- State: NH
++ https://lyko.com
+- Country: SE
++ https://lorealparisusa.com
+- Country: FR
++ https://lorealparisusa.com
+- State: FR
++ https://matas.dk
+- Country: DK
++ https://soldejaneiro.com
+- Country: US
++ https://soldejaneiro.com
+- State: NY
++ https://urbancompany.com
+- Country: US
++ https://urbancompany.com
+- State: Arizona
++ https://femaledaily.com
+- Country: ID
++ https://femaledaily.com
+- State: DKI Jakarta
++ https://anytimefitness.com
+- Country: GB
++ https://anytimefitness.com
+- State: Middlesex
++ https://mendeserve.com
+- Country: US
++ https://mendeserve.com
+- State: Arizona
++ https://lush.com
+- Country: US
++ https://lush.com
+- State: FL
++ https://wella.com
+- Country: CH
++ https://wella.com
+- State: Geneve
++ https://braun.com
+- Country: US
++ https://braun.com
+- State: OH
++ https://yesstyle.com
+- Country: US
++ https://yesstyle.com
+- State: FL
++ https://oriflame.com
+- Country: LU
++ https://self.com
+- Country: US
++ https://self.com
+- State: NY
++ https://stylecraze.com
+- Country: IN
++ https://stylecraze.com
+- State: TG
++ https://beauty321.com
+- Country: CA
++ https://beauty321.com
+- State: ON
++ https://kikocosmetics.com
+- Country: IT
++ https://kikocosmetics.com
+- State: BG
++ https://epocacosmeticos.com.br
+- Country: BR
++ https://basic-fit.com
+- Country: NL
++ https://ghdhair.com
+- Country: GB
++ https://lookfantastic.com
+- Country: GB
++ https://inkbox.com
+- Country: GB
++ https://inkbox.com
+- State: Middlesex
++ https://nocibe.fr
+- Country: FR
++ https://la-spa.fr
+- Country: FR
++ https://classpass.com
+- Country: IS
++ https://classpass.com
+- State: Capital Region
++ https://spacenk.com
+- Country: GB
++ https://spacenk.com
+- State: London
++ https://purplle.com
+- Country: IN
++ https://purplle.com
+- State: Maharashtra
++ https://sallybeauty.com
+- Country: US
++ https://sallybeauty.com
+- State: ID
+* BOOKS AND LITERATURE
++ https://cambridge.org
+- Country: GB
++ https://cambridge.org
+- Country: GB
++ https://scribd.com
+- Country: US
++ https://scribd.com
+- State: California
++ https://gramedia.com
+- Country: ID
++ https://gramedia.com
+- State: Jakarta
++ https://wattpad.com
+- Country: GB
++ https://wattpad.com
+- State: Middlesex
++ https://goodreads.com
+- Country: US
++ https://goodreads.com
+- State: CA
++ https://lecturas.com
+- Country: ES
++ https://lecturas.com
+- State: B
++ https://truyenfull.io
+- Country: US
++ https://truyenfull.io
+- State: CO
++ https://casadellibro.com
+- Country: ES
++ https://casadellibro.com
+- State: M
++ https://barnesandnoble.com
+- Country: US
++ https://barnesandnoble.com
+- State: NY
++ https://kitapyurdu.com
+- Country: US
++ https://kitapyurdu.com
+- State: Arizona
++ https://booksy.com
+- Country: PL
++ https://getepic.com
+- Country: US
++ https://getepic.com
+- State: Arizona
++ https://sparknotes.com
+- Country: US
++ https://sparknotes.com
+- State: NY
++ https://audible.com
+- Country: US
++ https://audible.com
+- State: NJ
++ https://issuu.com
+- Country: US
++ https://issuu.com
+- State: Arizona
++ https://babelio.com
+- Country: US
++ https://babelio.com
+- State: Arizona
++ https://litcharts.com
+- Country: US
++ https://litcharts.com
+- State: Arizona
++ https://syosetu.com
+- Country: JP
++ https://syosetu.com
+- State: Osaka-Fu
++ https://noor-book.com
+- Country: US
++ https://noor-book.com
+- State: Arizona
++ https://webnovel.com
+- Country: CN
++ https://dtruyen.net
+- Country: US
++ https://dtruyen.net
+- State: CO
++ https://kitapsec.com
+- Country: US
++ https://kitapsec.com
+- State: Arizona
++ https://books.google.com
+- Country: US
++ https://books.google.com
+- State: CA
++ https://reedsy.com
+- Country: GB
++ https://reedsy.com
+- State: Paris
++ https://cervantesvirtual.com
+- Country: ES
++ https://cervantesvirtual.com
+- State: ALICANTE
++ https://planetadelibros.com
+- Country: ES
++ https://planetadelibros.com
+- State: B
++ https://z-lib.id
+- Country: ID
++ https://penguinrandomhouse.com
+- Country: US
++ https://penguinrandomhouse.com
+- State: NY
++ https://wikibooks.org
+- Country: US
++ https://wikibooks.org
+- State: CA
++ https://pressbooks.pub
+- Country: CA
++ https://pressbooks.pub
+- State: ON
++ https://bkmkitap.com
+- Country: TR
++ https://penerbitdeepublish.com
+- Country: ID
++ https://penerbitdeepublish.com
+- State: DI Yogyakarta
++ https://thriftbooks.com
+- Country: US
++ https://thriftbooks.com
+- State: Arizona
++ https://freshbooks.com
+- Country: CA
++ https://freshbooks.com
+- State: ON
++ https://adlibris.com
+- Country: SE
++ https://storytel.com
+- Country: SE
++ https://bartleby.com
+- Country: US
++ https://bartleby.com
+- State: CO
++ https://waterstones.com
+- Country: GB
++ https://waterstones.com
+- State: London
++ https://penguinlibros.com
+- Country: ES
++ https://penguinlibros.com
+- State: B
++ https://booknode.com
+- Country: US
++ https://booknode.com
+- State: Arizona
++ https://rokomari.com
+- Country: IS
++ https://rokomari.com
+- State: Capital Region
++ https://bokus.com
+- Country: SE
++ https://foulabook.com
+- Country: TN
++ https://writer.com
+- Country: US
++ https://writer.com
+- State: CA
++ https://pratilipi.com
+- Country: US
++ https://pratilipi.com
+- State: Arizona
++ https://blinkist.com
+- Country: GB
++ https://blinkist.com
+- State: Middlesex
++ https://chitanka.info
+- Country: KN
++ https://chitanka.info
+- State: Charlestown
++ https://kitabnagri.org
+- Country: IS
++ https://kitabnagri.org
+- State: Capital Region
++ https://kobo.com
+- Country: CA
++ https://kobo.com
+- State: ON
++ https://abebooks.com
+- Country: CA
++ https://abebooks.com
+- State: BC
++ https://novelcool.com
+- Country: US
++ https://novelcool.com
+- State: Arizona
++ https://gyldendal.dk
+- Country: DK
++ https://z-lib.io
+- Country: IS
++ https://z-lib.io
+- State: Capital Region
++ https://escritores.org
+- Country: US
++ https://escritores.org
+- State: FL
++ https://yakaboo.ua
+- Country: UA
++ https://bog-ide.dk
+- Country: DK
++ https://willthebook.com
+- Country: US
++ https://willthebook.com
+- State: NY
++ https://bnf.fr
+- Country: FR
++ https://czbooks.net
+- Country: US
++ https://czbooks.net
+- State: AZ
++ https://simonandschuster.com
+- Country: US
++ https://simonandschuster.com
+- State: NY
+* BUSINESS
++ https://justdial.com
+- Country: US
++ https://justdial.com
+- State: Arizona
++ https://trustpilot.com
+- Country: DK
++ https://trustpilot.com
+- State: COPENHAGEN
++ https://usps.com
+- Country: US
++ https://usps.com
+- State: NC
++ https://indiamart.com
+- Country: IN
++ https://indiamart.com
+- State: UP
++ https://fedex.com
+- Country: US
++ https://fedex.com
+- State: TN
++ https://ups.com
+- Country: US
++ https://ups.com
+- State: NJ
++ https://semrush.com
+- Country: US
++ https://semrush.com
+- State: MA
++ https://pagesjaunes.fr
+- Country: US
++ https://business-standard.com
+- Country: GB
++ https://business-standard.com
+- State: Middlesex
++ https://exame.com
+- Country: BR
++ https://exame.com
+- State: São Paulo
++ https://royalmail.com
+- Country: GB
++ https://royalmail.com
+- State: London
++ https://dhl.com
+- Country: DE
++ https://dhl.com
+- State: NW
++ https://slidesgo.com
+- Country: ES
++ https://ibm.com
+- Country: US
++ https://ibm.com
+- State: NY
++ https://hubspot.com
+- Country: US
++ https://hubspot.com
+- State: MA
++ https://zoho.com
+- Country: IN
++ https://zoho.com
+- State: TamilNadu
++ https://salesforce.com
+- Country: US
++ https://salesforce.com
+- State: CA
++ https://fiverr.com
+- Country: US
++ https://fiverr.com
+- State: Arizona
++ https://bbb.org
+- Country: US
++ https://bbb.org
+- State: VA
++ https://asana.com
+- Country: GB
++ https://asana.com
+- State: Middlesex
++ https://honor.com
+- Country: CN
++ https://honor.com
+- State: Guang Dong Sheng
++ https://edf.fr
+- Country: FR
++ https://workspace.google.com
+- Country: US
++ https://workspace.google.com
+- State: CA
++ https://atlassian.com
+- Country: AU
++ https://atlassian.com
+- State: NSW
++ https://laposte.fr
+- Country: FR
++ https://statista.com
+- Country: DE
++ https://statista.com
+- State: DE
++ https://foursquare.com
+- Country: US
++ https://foursquare.com
+- State: New York
++ https://businesstoday.in
+- Country: IN
++ https://businesstoday.in
+- State: Delhi
++ https://cuevana.biz
+- Country: IS
++ https://cuevana.biz
+- State: Capital Region
++ https://toyokeizai.net
+- Country: JP
++ https://toyokeizai.net
+- State: Tokyo
++ https://slack.com
+- Country: US
++ https://slack.com
+- State: CA
++ https://mailchimp.com
+- Country: US
++ https://mailchimp.com
+- State: CA
++ https://dpd.com
+- Country: FR
++ https://sap.com
+- Country: DE
++ https://sap.com
+- State: BW
++ https://expansion.com
+- Country: ES
++ https://rockcontent.com
+- Country: US
++ https://rockcontent.com
+- State: Florida
++ https://zapier.com
+- Country: US
++ https://zapier.com
+- State: CO
++ https://dtdc.in
+- Country: IN
++ https://dtdc.in
+- State: Karnataka
++ https://crunchbase.com
+- Country: FR
++ https://crunchbase.com
+- State: Paris
++ https://ey.com
+- State: Data protected, not disclosed
++ https://zendesk.com
+- Country: US
++ https://zendesk.com
+- State: CA
++ https://notion.so
+- Country: US
++ https://notion.so
+- Country: DE
++ https://bangkokbiznews.com
+- Country: US
++ https://bangkokbiznews.com
+- State: Arizona
++ https://on.com
+- Country: CH
++ https://delhivery.com
+- Country: GB
++ https://delhivery.com
+- State: Middlesex
++ https://translated.net
+- Country: IT
++ https://translated.net
+- State: RM
++ https://trello.com
+- Country: AU
++ https://trello.com
+- State: NSW
++ https://cisco.com
+- Country: US
++ https://cisco.com
+- State: CA
++ https://hktdc.com
+- Country: HK
++ https://hktdc.com
+- State: HK
++ https://fortune.com
+- Country: HK
++ https://fortune.com
+- State: Kowloon
++ https://stripe.com
+- Country: US
++ https://stripe.com
+- State: Data protected, not disclosed
++ https://wbsedcl.in
+- Country: IN
++ https://wbsedcl.in
+- State: West Bengal
++ https://novaposhta.ua
+- Country: UA
++ https://jdpower.com
+- Country: US
++ https://jdpower.com
+- State: CA
++ https://hbr.org
+- Country: US
++ https://hbr.org
+- State: MA
++ https://miro.com
+- Country: US
++ https://miro.com
+- State: CA
++ https://docusign.com
+- Country: US
++ https://docusign.com
+- State: CA
++ https://kerryexpress.com
+- Country: TH
++ https://kerryexpress.com
+- State: Not Applicable
++ https://thailandpost.co.th
+- Country: TH
++ https://dnb.com
+- Country: US
++ https://dnb.com
+- State: NJ
++ https://mentimeter.com
+- Country: SE
++ https://transkriptor.com
+- Country: GB
++ https://transkriptor.com
+- State: Middlesex
++ https://purina.com
+- Country: CH
++ https://purina.com
+- State: Vaud
++ https://thehindubusinessline.com
+- Country: US
++ https://thehindubusinessline.com
+- State: Arizona
++ https://questionpro.com
+- Country: US
++ https://questionpro.com
+- State: California
++ https://ch3plus.com
+- Country: US
++ https://ch3plus.com
+- State: Arizona
++ https://enterprise.com
+- Country: US
++ https://enterprise.com
+- State: MO
++ https://livechat.com
+- Country: US
++ https://livechat.com
+- State: Arizona
++ https://afrihag.co.za
+- Country: ID
++ https://afrihag.co.za
+- Country: ID
++ https://bluedart.com
+- Country: IN
++ https://looka.com
+- Country: US
++ https://looka.com
+- State: Arizona
+* COMPUTERS AND ELECTRONICS
++ https://microsoft.com
+- Country: US
++ https://microsoft.com
+- State: WA
++ https://apple.com
+- Country: US
++ https://apple.com
+- State: CA
++ https://canva.com
+- Country: AU
++ https://canva.com
+- State: New South Wales
++ https://ilovepdf.com
+- Country: US
++ https://ilovepdf.com
+- State: Arizona
++ https://adobe.com
+- Country: US
++ https://adobe.com
+- State: California
++ https://samsung.com
+- Country: KR
++ https://github.com
+- Country: US
++ https://github.com
+- State: CA
++ https://smallpdf.com
+- Country: CH
++ https://smallpdf.com
+- State: Zurich
++ https://gsmarena.com
+- Country: BG
++ https://gsmarena.com
+- State: Sofia
++ https://deepl.com
+- Country: DE
++ https://deepl.com
+- State: NW
++ https://uptodown.com
+- Country: ES
++ https://uptodown.com
+- State: Malaga
++ https://softonic.com
+- Country: ES
++ https://softonic.com
+- State: Not applicable
++ https://mi.com
+- Country: CN
++ https://mi.com
+- State: Beijing
++ https://office.com
+- Country: US
++ https://office.com
+- State: WA
++ https://geeksforgeeks.org
+- Country: US
++ https://geeksforgeeks.org
+- State: MA
++ https://cnet.com
+- Country: US
++ https://cnet.com
+- State: NY
++ https://91mobiles.com
+- Country: US
++ https://91mobiles.com
+- State: Arizona
++ https://w3schools.com
+- Country: GB
++ https://w3schools.com
+- State: Middlesex
++ https://hp.com
+- Country: US
++ https://hp.com
+- State: CA
++ https://icloud.com
+- Country: US
++ https://icloud.com
+- State: CA
++ https://vivo.com
+- Country: CN
++ https://vivo.com
+- State: guang dong
++ https://oppo.com
+- Country: CN
++ https://oppo.com
+- State: Guangdong
++ https://apkpure.com
+- Country: US
++ https://apkpure.com
+- State: CA
++ https://stackoverflow.com
+- Country: US
++ https://stackoverflow.com
+- State: NY
++ https://happymod.com
+- Country: IS
++ https://happymod.com
+- State: Capital Region
++ https://tudocelular.com
+- Country: GB
++ https://tudocelular.com
+- State: london
++ https://asus.com
+- Country: TW
++ https://asus.com
+- State: Taiwan
++ https://pdf24.org
+- Country: DE
++ https://pdf24.org
+- State: Berlin
++ https://techradar.com
+- Country: GB
++ https://techtarget.com
+- Country: US
++ https://techtarget.com
+- State: MA
++ https://deepai.org
+- Country: US
++ https://deepai.org
+- State: CA
++ https://tomsguide.com
+- Country: GB
++ https://iloveimg.com
+- Country: US
++ https://iloveimg.com
+- State: Arizona
++ https://malavida.com
+- Country: ES
++ https://malavida.com
+- State: Valencia
++ https://dell.com
+- Country: US
++ https://dell.com
+- State: Data protected, not disclosed
++ https://xataka.com
+- Country: IS
++ https://xataka.com
+- State: Capital Region
++ https://lenovo.com
+- Country: CN
++ https://lenovo.com
+- State: China
++ https://lg.com
+- Country: KR
++ https://gadgets360.com
+- Country: IN
++ https://gadgets360.com
+- State: Delhi
++ https://nvidia.com
+- Country: US
++ https://nvidia.com
+- State: Data protected, not disclosed
++ https://realme.com
+- Country: CN
++ https://realme.com
+- State: guang dong
++ https://aa.com
+- Country: US
++ https://aa.com
+- State: TX
++ https://huawei.com
+- Country: CN
++ https://huawei.com
++ https://freeconvert.com
+- Country: IS
++ https://freeconvert.com
+- State: Capital Region
++ https://pcmag.com
+- Country: US
++ https://pcmag.com
+- State: NY
++ https://slidesgo.com
+- Country: ES
++ https://ibm.com
+- Country: US
++ https://ibm.com
+- State: NY
++ https://anydesk.com
+- Country: DE
++ https://oracle.com
+- Country: US
++ https://oracle.com
+- State: CA
++ https://sejda.com
+- Country: NL
++ https://sejda.com
+- State: Noord-Holland
++ https://convertio.co
+- Country: US
++ https://convertio.co
+- State: Arizona
++ https://oneplus.in
+- Country: HK
++ https://oneplus.in
+- Country: HK
++ https://cloudconvert.com
+- Country: DE
++ https://freepdfconvert.com
+- Country: US
++ https://freepdfconvert.com
+- State: Arizona
++ https://javatpoint.com
+- Country: IN
++ https://javatpoint.com
+- State: Uttar Pradesh
++ https://vidmateapp.com
+- Country: US
++ https://vidmateapp.com
+- State: Arizona
++ https://zdnet.com
+- Country: US
++ https://zdnet.com
+- State: NY
++ https://wired.com
+- Country: US
++ https://wired.com
+- State: NY
++ https://dafont.com
+- Country: FR
++ https://dafont.com
+- State: Paris
++ https://tecnoblog.net
+- Country: BR
++ https://tecnoblog.net
+- State: SP
++ https://docs.google.com
+- Country: US
++ https://docs.google.com
+- State: CA
++ https://pdf2go.com
+- Country: DE
++ https://pdf2go.com
+- State: DE
++ https://cloud.google.com
+- Country: US
++ https://cloud.google.com
+- State: CA
++ https://fotor.com
+- Country: US
++ https://fotor.com
+- State: Arizona
++ https://garmin.com
+- Country: US
++ https://garmin.com
+- State: KS
++ https://flaticon.com
+- Country: ES
++ https://flaticon.com
+- State: MA
++ https://figma.com
+- Country: GB
++ https://figma.com
+- State: Middlesex
++ https://python.org
+- Country: US
++ https://python.org
+- State: OR
++ https://autodesk.com
+- Country: US
++ https://autodesk.com
+- State: CA
++ https://submagic.co
+- Country: US
++ https://submagic.co
+- State: Arizona
++ https://capcut.com
+- Country: SG
++ https://pixlr.com
+- Country: IS
++ https://pixlr.com
+- State: Capital Region
++ https://ejemplos.co
+- Country: US
++ https://ejemplos.co
+- State: Arizona
++ https://router-network.com
+- Country: IS
++ https://router-network.com
+- State: Capital Region
++ https://mobiledokan.com
+- Country: IS
++ https://mobiledokan.com
+- State: Capital Region
++ https://gonitro.com
+- Country: US
++ https://gonitro.com
+- State: Arizona
++ https://programiz.com
+- Country: NP
++ https://programiz.com
+- State: Bagmati
++ https://inchcalculator.com
+- Country: US
++ https://inchcalculator.com
+- State: FL
++ https://dji.com
+- Country: CN
++ https://dji.com
+- State: guang dong
++ https://xodo.com
+- Country: GB
++ https://xodo.com
+- State: Middlesex
++ https://apkpure.net
+- Country: US
++ https://apkpure.net
+- State: CA
++ https://donanimhaber.com
+- Country: TR
++ https://donanimhaber.com
+- State: Suadiye
++ https://bluestacks.com
+- Country: US
++ https://bluestacks.com
+- State: Arizona
++ https://webpkgcache.com
+- Country: US
++ https://webpkgcache.com
+- State: CA
++ https://imyfone.com
+- Country: HK
++ https://imyfone.com
+- State: Hong Kong, China
++ https://casio.com
+- Country: GB
++ https://casio.com
+- State: Middlesex
++ https://zerogpt.com
+- Country: IS
++ https://zerogpt.com
+- State: Capital Region
+* ENTERTAINMENT
++ https://youtube.com
+- Country: US
++ https://youtube.com
+- State: CA
++ https://imdb.com
+- Country: US
++ https://imdb.com
+- State: WA
++ https://fandom.com
+- Country: CA
++ https://fandom.com
+- State: ON
++ https://netflix.com
+- Country: US
++ https://netflix.com
+- State: CA
++ https://spotify.com
+- Country: SE
++ https://freepik.com
+- Country: ES
++ https://freepik.com
+- State: MA
++ https://namu.wiki
+- Country: US
++ https://namu.wiki
+- State: California
++ https://shutterstock.com
+- Country: US
++ https://shutterstock.com
+- State: New York
++ https://primevideo.com
+- Country: US
++ https://primevideo.com
+- State: NV
++ https://rottentomatoes.com
+- Country: US
++ https://rottentomatoes.com
+- State: ca
++ https://istockphoto.com
+- Country: US
++ https://istockphoto.com
+- State: WA
++ https://sanook.com
+- Country: TH
++ https://sanook.com
+- State: Bangkok
++ https://pexels.com
+- Country: AU
++ https://genius.com
+- Country: GB
++ https://genius.com
+- State: Middlesex
++ https://dailymotion.com
+- Country: FR
++ https://dailymotion.com
+- State: FR
++ https://allocine.fr
+- Country: FR
++ https://people.com
+- Country: US
++ https://people.com
+- State: IA
++ https://unsplash.com
+- Country: CA
++ https://unsplash.com
+- State: Quebec
++ https://trueid.net
+- Country: GB
++ https://trueid.net
+- State: Middlesex
++ https://disneyplus.com
+- Country: US
++ https://disneyplus.com
+- State: CA
++ https://pixabay.com
+- Country: FR
++ https://pixabay.com
+- State: Paris
++ https://bookmyshow.com
+- Country: US
++ https://bookmyshow.com
+- State: Arizona
++ https://medium.com
+- Country: GB
++ https://medium.com
+- State: Middlesex
++ https://wattpad.com
+- Country: GB
++ https://wattpad.com
+- State: Middlesex
++ https://crunchyroll.com
+- Country: US
++ https://crunchyroll.com
+- State: CA
++ https://chordtela.com
+- Country: ID
++ https://chordtela.com
+- State: Yogyakarta
++ https://ultimate-guitar.com
+- Country: US
++ https://ultimate-guitar.com
+- State: FL
++ https://jiocinema.com
+- Country: US
++ https://jiocinema.com
+- State: Arizona
++ https://justwatch.com
+- Country: DE
++ https://justwatch.com
+- State: Berlin
++ https://hulu.com
+- Country: US
++ https://hulu.com
+- State: CA
++ https://note.com
+- Country: US
++ https://note.com
+- State: Arizona
++ https://soundcloud.com
+- Country: DE
++ https://filmaffinity.com
+- Country: ES
++ https://filmaffinity.com
+- State: Madrid
++ https://hotstar.com
+- Country: IN
++ https://hotstar.com
+- State: Star House, Urmi Estate, 95 Ganpatrao K Lower Parel (W) NA
++ https://ticketmaster.com
+- Country: US
++ https://ticketmaster.com
+- State: CA
++ https://gettyimages.com
+- Country: US
++ https://gettyimages.com
+- State: WA
++ https://idntimes.com
+- Country: GB
++ https://idntimes.com
+- State: Middlesex
++ https://screenrant.com
+- Country: US
++ https://screenrant.com
+- State: Arizona
++ https://boomplay.com
+- Country: GB
++ https://boomplay.com
+- State: Middlesex
++ https://bilibili.tv
+- Country: US
++ https://bilibili.tv
+- State: CO
++ https://latestly.com
+- Country: US
++ https://latestly.com
+- State: Arizona
++ https://wynk.in
+- Country: IN
++ https://wynk.in
+- State: Delhi
++ https://kapanlagi.com
+- Country: ID
++ https://kapanlagi.com
+- State: DKI Jakarta
++ https://tf1.fr
+- Country: FR
++ https://parade.com
+- Country: GB
++ https://parade.com
+- State: Middlesex
++ https://uta-net.com
+- Country: JP
++ https://uta-net.com
+- State: Tokyo-to
++ https://giphy.com
+- Country: US
++ https://giphy.com
+- State: Arizona
++ https://mashable.com
+- Country: US
++ https://mashable.com
+- State: NY
++ https://streameast.app
+- Country: KN
++ https://streameast.app
+- State: Charlestown
++ https://pngtree.com
+- Country: CN
++ https://pngtree.com
+- State: shang hai
++ https://tvguide.com
+- Country: CA
++ https://tvguide.com
+- State: ON
++ https://gaana.com
+- Country: IN
++ https://gaana.com
+- State: UP
++ https://sssinstagram.com
+- Country: UA
++ https://letras.mus.br
+- Country: BR
++ https://canalplus.com
+- Country: FR
++ https://canalplus.com
+- State: FR
++ https://jiosaavn.com
+- Country: US
++ https://jiosaavn.com
+- State: Arizona
++ https://picsart.com
+- Country: US
++ https://picsart.com
+- State: Arizona
++ https://grid.id
+- Country: ID
++ https://ibomma.day
+- Country: CA
++ https://ibomma.day
+- State: ON
++ https://sorrisi.com
+- Country: IT
++ https://sorrisi.com
+- State: MI
++ https://vidio.com
+- Country: ID
++ https://canalrcn.com
+- Country: CO
++ https://canalrcn.com
+- State: BOGOTA D.C
++ https://pw.live
+- Country: IN
++ https://pw.live
+- State: Uttar Pradesh
++ https://vecteezy.com
+- Country: US
++ https://vecteezy.com
+- State: FL
++ https://netaquatics.co.za
+- Country: ID
++ https://netaquatics.co.za
+- Country: ID
++ https://tv2.dk
+- Country: DK
++ https://sensacine.com
+- Country: FR
++ https://sensacine.com
+- State: Ile-de-France
++ https://live-koora.live
+- Country: US
++ https://live-koora.live
+- State: Arizona
++ https://variety.com
+- Country: US
++ https://variety.com
+- State: CA
++ https://themoviedb.org
+- Country: US
++ https://themoviedb.org
+- State: CA
++ https://abema.tv
+- Country: JP
++ https://abema.tv
+- State: Tokyo
++ https://radiotimes.com
+- Country: GB
++ https://deviantart.com
+- Country: US
++ https://deviantart.com
+- State: Arizona
++ https://hola.com
+- Country: ES
++ https://hola.com
+- State: Madrid
++ https://eiga.com
+- Country: JP
++ https://eiga.com
+- State: Tokyo
++ https://wallpapers.com
+- Country: US
++ https://wallpapers.com
+- State: Arizona
++ https://yalla-shoot-as.com
+- Country: US
++ https://yalla-shoot-as.com
+- State: Arizona
++ https://eventbrite.com
+- Country: US
++ https://eventbrite.com
+- State: CA
+* FINANCE
++ https://investing.com
+- Country: US
++ https://investing.com
+- State: Arizona
++ https://moneycontrol.com
+- Country: IN
++ https://moneycontrol.com
+- State: Maharashtra
++ https://wise.com
+- Country: US
++ https://wise.com
+- State: CA
++ https://forbes.com
+- Country: US
++ https://forbes.com
+- State: NY
++ https://finance.yahoo.com
+- Country: US
++ https://finance.yahoo.com
+- State: VA
++ https://xe.com
+- Country: CA
++ https://xe.com
+- State: Data protected, not disclosed
++ https://tradingview.com
+- Country: US
++ https://tradingview.com
+- State: CA
++ https://investopedia.com
+- Country: US
++ https://investopedia.com
+- State: NY
++ https://paypal.com
+- Country: US
++ https://paypal.com
+- State: CA
++ https://epfindia.gov.in
+- Country: IN
++ https://epfindia.gov.in
+- Country: IN
++ https://groww.in
+- Country: IN
++ https://groww.in
+- State: Karnataka
++ https://coinmarketcap.com
+- Country: US
++ https://coinmarketcap.com
+- State: CA
++ https://bancodevenezuela.com
+- Country: VE
++ https://bancodevenezuela.com
+- State: DF
++ https://hdfcbank.com
+- Country: IN
++ https://hdfcbank.com
+- State: Maharashtra
++ https://fazenda.gov.br
+- Country: BR
++ https://screener.in
+- Country: IN
++ https://screener.in
+- State: Uttar Pradesh
++ https://economictimes.com
+- Country: CA
++ https://economictimes.com
+- State: ON
++ https://livemint.com
+- Country: US
++ https://livemint.com
+- State: Arizona
++ https://marketwatch.com
+- Country: US
++ https://marketwatch.com
+- State: NJ
++ https://capitalone.com
+- Country: US
++ https://capitalone.com
+- State: VA
++ https://nerdwallet.com
+- Country: GB
++ https://nerdwallet.com
+- State: Middlesex
++ https://cnbc.com
+- Country: US
++ https://cnbc.com
+- State: nj
++ https://nseindia.com
+- Country: IN
++ https://nseindia.com
+- State: Maharashtra
++ https://stock.yahoo.com
+- Country: US
++ https://stock.yahoo.com
+- State: VA
++ https://businessinsider.com
+- Country: US
++ https://businessinsider.com
+- State: Arizona
++ https://bankrate.com
+- Country: US
++ https://bankrate.com
+- State: ID
++ https://bankofamerica.com
+- Country: US
++ https://bankofamerica.com
+- State: NC
++ https://goodreturns.in
+- Country: IN
++ https://goodreturns.in
+- State: Karnataka
++ https://labanquepostale.fr
+- Country: FR
++ https://bajajfinserv.in
+- Country: IN
++ https://bajajfinserv.in
+- State: Maharashtra
++ https://chase.com
+- Country: US
++ https://chase.com
+- State: DE
++ https://americanexpress.com
+- Country: US
++ https://americanexpress.com
+- State: NY
++ https://business-standard.com
+- Country: GB
++ https://business-standard.com
+- State: Middlesex
++ https://binance.com
+- Country: US
++ https://binance.com
+- State: CA
++ https://coingecko.com
+- Country: IS
++ https://coingecko.com
+- State: Capital Region
++ https://westernunion.com
+- Country: US
++ https://westernunion.com
+- State: CO
++ https://bankbazaar.com
+- Country: US
++ https://bankbazaar.com
+- State: Arizona
++ https://hangikredi.com
+- Country: US
++ https://hangikredi.com
+- State: Arizona
++ https://revolut.com
+- Country: GB
++ https://intuit.com
+- Country: US
++ https://intuit.com
+- State: CA
++ https://cnbcindonesia.com
+- Country: US
++ https://cnbcindonesia.com
+- State: CO
++ https://exame.com
+- Country: BR
++ https://exame.com
+- State: São Paulo
++ https://finanzen.net
+- Country: DE
++ https://finanzen.net
+- State: DE
++ https://coinbase.com
+- Country: US
++ https://coinbase.com
+- State: CA
++ https://enuygun.com
+- Country: US
++ https://enuygun.com
+- State: FL
++ https://schwab.com
+- Country: US
++ https://schwab.com
+- State: CA
++ https://wellsfargo.com
+- Country: US
++ https://wellsfargo.com
+- State: CA
++ https://cleartax.in
+- Country: IN
++ https://cleartax.in
+- Country: IN
++ https://bloomberg.com
+- Country: US
++ https://bloomberg.com
+- State: NY
++ https://incometax.gov.in
+- Country: IN
++ https://incometax.gov.in
+- Country: IN
++ https://nasdaq.com
+- Country: US
++ https://nasdaq.com
+- State: CT
++ https://5paisa.com
+- Country: IN
++ https://5paisa.com
+- State: IIFL House, Plot No B-23, Road No 16V, Wagale Estate, Thane-west
++ https://nsdl.com
+- Country: IN
++ https://nsdl.com
+- State: Maharashtra
++ https://icicibank.com
+- Country: IN
++ https://icicibank.com
+- State: MAHARASHTRA
++ https://paytm.com
+- Country: IN
++ https://paytm.com
+- State: Uttar Pradesh
++ https://discover.com
+- Country: US
++ https://discover.com
+- State: IL
++ https://rbcroyalbank.com
+- Country: CA
++ https://rbcroyalbank.com
+- State: ON
++ https://ubie.app
+- Country: JP
++ https://ubie.app
+- State: Tokyo
++ https://fidelity.com
+- Country: US
++ https://fidelity.com
+- State: MA
++ https://moneysavingexpert.com
+- Country: GB
++ https://moneysavingexpert.com
+- State: ENG
++ https://credit-agricole.fr
+- Country: FR
++ https://minfin.com.ua
+- Country: UA
++ https://bloomberght.com
+- Country: US
++ https://bloomberght.com
+- State: NY
++ https://pnc.com
+- Country: US
++ https://pnc.com
+- State: PA
++ https://bankofbaroda.in
+- Country: IN
++ https://bankofbaroda.in
+- State: Maharastra
++ https://moneyforward.com
+- Country: JP
++ https://moneyforward.com
+- State: Tokyo
++ https://kemenkeu.go.id
+- Country: ID
++ https://boursorama.com
+- Country: FR
++ https://boursorama.com
+- State: N/C
++ https://statefarm.com
+- Country: US
++ https://statefarm.com
+- State: statefarm.com
++ https://axisbank.com
+- Country: IN
++ https://axisbank.com
+- State: Maharashtra
++ https://finology.in
+- Country: IN
++ https://finology.in
+- State: Chhattisgarh
++ https://usbank.com
+- Country: US
++ https://usbank.com
+- State: MN
++ https://experian.com
+- Country: US
++ https://experian.com
+- State: CA
++ https://bseindia.com
+- Country: US
++ https://bseindia.com
+- State: Arizona
++ https://creditkarma.com
+- Country: US
++ https://creditkarma.com
+- State: CA
++ https://paisabazaar.com
+- Country: US
++ https://paisabazaar.com
+- State: Arizona
++ https://comparethemarket.com
+- Country: GB
++ https://comparethemarket.com
+- State: ENG
++ https://icicidirect.com
+- Country: IN
++ https://icicidirect.com
+- State: Maharastra
++ https://licindia.in
+- Country: IN
++ https://licindia.in
+- State: Maharashtra
+* GAMES
++ https://roblox.com
+- Country: US
++ https://roblox.com
+- State: CA
++ https://steampowered.com
+- Country: US
++ https://steampowered.com
+- State: WA
++ https://playstation.com
+- Country: JP
++ https://playstation.com
+- State: Tokyo
++ https://poki.com
+- Country: GB
++ https://poki.com
+- State: Middlesex
++ https://twitch.tv
+- Country: US
++ https://twitch.tv
+- State: CA
++ https://crazygames.com
+- Country: BE
++ https://xbox.com
+- Country: US
++ https://xbox.com
+- State: WA
++ https://nintendo.com
+- Country: US
++ https://nintendo.com
+- State: WA
++ https://epicgames.com
+- Country: US
++ https://epicgames.com
+- State: NC
++ https://kahoot.com
+- Country: NO
++ https://ea.com
+- Country: US
++ https://ea.com
+- State: CA
++ https://ign.com
+- Country: US
++ https://ign.com
+- State: CA
++ https://coolmathgames.com
+- Country: US
++ https://coolmathgames.com
+- State: Arizona
++ https://minecraft.net
+- Country: US
++ https://minecraft.net
+- State: WA
++ https://friv.com
+- Country: IS
++ https://friv.com
+- State: Capital Region
++ https://bulbagarden.net
+- Country: CY
++ https://bulbagarden.net
+- State: Nicosia
++ https://fortnite.com
+- Country: US
++ https://fortnite.com
+- State: CA
++ https://gamerant.com
+- Country: US
++ https://gamerant.com
+- State: Arizona
++ https://y8.com
+- Country: US
++ https://y8.com
+- State: WA
++ https://chess.com
+- Country: US
++ https://chess.com
+- State: Arizona
++ https://steamcommunity.com
+- Country: US
++ https://steamcommunity.com
+- State: WA
++ https://blizzard.com
+- Country: US
++ https://blizzard.com
+- State: CA
++ https://leagueoflegends.com
+- Country: US
++ https://leagueoflegends.com
+- State: CA
++ https://ubisoft.com
+- Country: FR
++ https://garena.com
+- Country: US
++ https://garena.com
+- State: Arizona
++ https://wowhead.com
+- Country: GB
++ https://wowhead.com
+- State: Middlesex
++ https://yalla-shoot-as.com
+- Country: US
++ https://yalla-shoot-as.com
+- State: Arizona
++ https://sudoku.com
+- Country: US
++ https://sudoku.com
+- State: Arizona
++ https://pokemon.com
+- Country: US
++ https://pokemon.com
+- State: WA
++ https://pokemondb.net
+- Country: IS
++ https://pokemondb.net
+- State: Capital Region
++ https://aptoide.com
+- Country: PT
++ https://aptoide.com
+- State: PT
++ https://geoguessr.com
+- Country: SE
++ https://lingojam.com
+- Country: IS
++ https://lingojam.com
+- State: Capital Region
++ https://indown.io
+- Country: US
++ https://indown.io
+- State: Arizona
++ https://memuplay.com
+- Country: CN
++ https://memuplay.com
+- State: Shang Hai
++ https://curseforge.com
+- Country: GB
++ https://curseforge.com
+- State: Middlesex
++ https://nexusmods.com
+- Country: GB
++ https://liquipedia.net
+- Country: NL
++ https://liquipedia.net
+- State: Utrecht
++ https://wheelofnames.com
+- Country: CA
++ https://wheelofnames.com
+- State: ON
++ https://itch.io
+- Country: US
++ https://itch.io
+- State: .
++ https://rockstargames.com
+- Country: US
++ https://rockstargames.com
+- State: NY
++ https://gamespot.com
+- Country: CA
++ https://gamespot.com
+- State: ON
++ https://duniagames.co.id
+- Country: ID
++ https://msi.com
+- Country: TW
++ https://msi.com
+- State: New Taipei City
++ https://instant-gaming.com
+- Country: US
++ https://instant-gaming.com
+- State: Arizona
++ https://thegamer.com
+- Country: US
++ https://thegamer.com
+- State: Arizona
++ https://teerresults.com
+- Country: IN
++ https://teerresults.com
+- State: Meghalaya
++ https://jeuxvideo.com
+- Country: FR
++ https://jeuxvideo.com
+- State: Ile-de-France
++ https://gamesradar.com
+- Country: GB
++ https://callofduty.com
+- Country: US
++ https://callofduty.com
+- State: CA
++ https://dndbeyond.com
+- Country: US
++ https://dndbeyond.com
+- State: FL
++ https://lolesports.com
+- Country: US
++ https://lolesports.com
+- State: CA
++ https://runescape.wiki
+- Country: US
++ https://runescape.wiki
+- State: WA
++ https://pockettactics.com
+- Country: GB
++ https://pockettactics.com
+- State: Bath and North East Somerset
++ https://razer.com
+- Country: SG
++ https://emulatorgames.net
+- Country: KN
++ https://emulatorgames.net
+- State: Charlestown
++ https://playvalorant.com
+- Country: US
++ https://playvalorant.com
+- State: CA
++ https://game8.co
+- Country: JP
++ https://game8.co
+- Country: JP
++ https://dashnet.org
+- Country: FR
++ https://dashnet.org
+- Country: FR
++ https://stardewvalleywiki.com
+- Country: IS
++ https://stardewvalleywiki.com
+- State: Capital Region
++ https://fextralife.com
+- Country: US
++ https://fextralife.com
+- State: Arizona
++ https://ldplayer.net
+- Country: CN
++ https://ldplayer.net
+- State: guangdong
++ https://pcgamesn.com
+- Country: GB
++ https://pcgamesn.com
+- State: Bath
++ https://wordplays.com
+- Country: US
++ https://wordplays.com
+- State: Arizona
++ https://wordunscrambler.me
+- Country: IS
++ https://wordunscrambler.me
+- State: Capital Region
++ https://wizards.com
+- Country: US
++ https://wizards.com
+- State: FL
++ https://minijuegos.com
+- Country: US
++ https://minijuegos.com
+- State: Arizona
++ https://eneba.com
+- Country: LT
++ https://hoyolab.com
+- Country: US
++ https://hoyolab.com
+- State: Arizona
++ https://pcgamer.com
+- Country: GB
++ https://1001juegos.com
+- Country: GB
++ https://1001juegos.com
+- State: Middlesex
++ https://rockpapershotgun.com
+- Country: GB
++ https://rockpapershotgun.com
+- State: ENG
++ https://fortnitetracker.com
+- Country: IS
++ https://fortnitetracker.com
+- State: Capital Region
++ https://innersloth.com
+- Country: IS
++ https://innersloth.com
+- State: Capital Region
++ https://daman.game
+- Country: IS
++ https://daman.game
+- State: Capital Region
++ https://g2a.com
+- Country: US
++ https://g2a.com
+- State: Arizona
++ https://apkcombo.com
+- Country: US
++ https://apkcombo.com
+- State: CA
++ https://agar.io
+- Country: US
++ https://agar.io
+- State: Arizona
++ https://riotgames.com
+- Country: US
++ https://riotgames.com
+- State: CA
++ https://battle.net
+- Country: US
++ https://battle.net
+- State: CA
++ https://cdkeys.com
+- Country: US
++ https://cdkeys.com
+- State: Arizona
++ https://hoodamath.com
+- Country: US
++ https://hoodamath.com
+- State: Arizona
++ https://eurogamer.net
+- Country: GB
++ https://eurogamer.net
+- State: ENG
++ https://lichess.org
+- Country: FR
++ https://lichess.org
+- Country: FR
++ https://slither.io
+- Country: IS
++ https://slither.io
+- State: Capital Region
++ https://logitechg.com
+- Country: US
++ https://logitechg.com
+- State: CA
++ https://aternos.org
+- Country: DE
++ https://aternos.org
+- State: DE
+* HEALTH
++ https://mayoclinic.org
+- Country: US
++ https://mayoclinic.org
+- State: MN
++ https://clevelandclinic.org
+- Country: US
++ https://clevelandclinic.org
+- State: ID
++ https://webmd.com
+- Country: US
++ https://webmd.com
+- State: NY
++ https://healthline.com
+- Country: US
++ https://healthline.com
+- State: ID
++ https://medicalnewstoday.com
+- Country: US
++ https://medicalnewstoday.com
+- State: ID
++ https://1mg.com
+- Country: IN
++ https://1mg.com
+- State: HR
++ https://altibbi.com
+- Country: US
++ https://altibbi.com
+- State: Arizona
++ https://halodoc.com
+- Country: US
++ https://halodoc.com
+- State: Arizona
++ https://alodokter.com
+- Country: US
++ https://alodokter.com
+- State: Arizona
++ https://tuasaude.com
+- Country: IS
++ https://tuasaude.com
+- State: Capital Region
++ https://ameli.fr
+- Country: US
++ https://hopkinsmedicine.org
+- Country: US
++ https://hopkinsmedicine.org
+- State: MD
++ https://apollopharmacy.in
+- Country: IN
++ https://apollopharmacy.in
+- Country: IN
++ https://drugs.com
+- Country: US
++ https://drugs.com
+- State: CA
++ https://vinmec.com
+- Country: US
++ https://vinmec.com
+- State: Arizona
++ https://journaldesfemmes.fr
+- Country: FR
++ https://tabletki.ua
+- Country: UA
++ https://verywellhealth.com
+- Country: US
++ https://verywellhealth.com
+- State: NY
++ https://siloamhospitals.com
+- Country: Malaysia
++ https://siloamhospitals.com
+- State: Wilayah Persekutuan
++ https://cvs.com
+- Country: US
++ https://cvs.com
+- State: RI
++ https://today.com
+- Country: US
++ https://today.com
+- State: nj
++ https://goodrx.com
+- Country: US
++ https://goodrx.com
+- State: California
++ https://plannedparenthood.org
+- Country: US
++ https://plannedparenthood.org
+- State: NY
++ https://myupchar.com
+- Country: US
++ https://myupchar.com
+- State: Arizona
++ https://webteb.com
+- Country: US
++ https://webteb.com
+- State: Arizona
++ https://kidshealth.org
+- Country: US
++ https://kidshealth.org
+- State: FL
++ https://vidal.fr
+- Country: US
++ https://boots.com
+- Country: GB
++ https://boots.com
+- State: Nottinghamshire
++ https://mountsinai.org
+- Country: US
++ https://mountsinai.org
+- State: NY
++ https://doctolib.fr
+- Country: US
++ https://hellosehat.com
+- Country: US
++ https://hellosehat.com
+- State: Arizona
++ https://pharmeasy.in
+- Country: IN
++ https://pharmeasy.in
+- State: Maharashtra
++ https://walgreens.com
+- Country: US
++ https://walgreens.com
+- State: IL
++ https://verywellmind.com
+- Country: US
++ https://verywellmind.com
+- State: NY
++ https://practo.com
+- Country: GB
++ https://practo.com
+- State: Middlesex
++ https://medscape.com
+- Country: US
++ https://medscape.com
+- State: NY
++ https://health.com
+- Country: US
++ https://health.com
+- State: IA
++ https://thebump.com
+- Country: US
++ https://thebump.com
+- State: Arizona
++ https://lybrate.com
+- Country: US
++ https://lybrate.com
+- State: Arizona
++ https://babycenter.com
+- Country: US
++ https://babycenter.com
+- State: NY
++ https://nhsinform.scot
+- Country: GB
++ https://nhsinform.scot
+- State: Lanarkshire
++ https://leafly.com
+- Country: US
++ https://leafly.com
+- State: Washington
++ https://cigna.com
+- Country: US
++ https://cigna.com
+- State: DE
++ https://menshealth.com
+- Country: US
++ https://menshealth.com
+- State: NY
++ https://medicinenet.com
+- Country: US
++ https://medicinenet.com
+- State: NY
++ https://elsan.care
+- Country: FR
++ https://pennmedicine.org
+- Country: US
++ https://pennmedicine.org
+- State: PA
++ https://farmaciasguadalajara.com
+- Country: US
++ https://farmaciasguadalajara.com
+- State: Arizona
++ https://drogariasaopaulo.com.br
+- Country: BR
++ https://womenshealthmag.com
+- Country: US
++ https://womenshealthmag.com
+- State: NY
++ https://lemon8-app.com
+- Country: SG
++ https://psychologytoday.com
+- Country: US
++ https://psychologytoday.com
+- State: Arizona
++ https://kaiserpermanente.org
+- Country: US
++ https://kaiserpermanente.org
+- State: CA
++ https://gsuplementos.com.br
+- Country: BR
++ https://hellobacsi.com
+- Country: VN
++ https://truemeds.in
+- Country: IN
++ https://truemeds.in
+- State: Maharashtra
++ https://aarp.org
+- Country: US
++ https://aarp.org
+- State: DC
++ https://healthgrades.com
+- Country: US
++ https://healthgrades.com
+- State: ID
+* HOBBIES AND LEISURE
++ https://lego.com
+- Country: DK
++ https://lego.com
+- State: Billund
++ https://pinterest.fr
+- Country: US
++ https://michaels.com
+- Country: US
++ https://michaels.com
+- State: Arizona
++ https://crosswordsolver.com
+- Country: DE
++ https://danword.com
+- Country: US
++ https://danword.com
+- State: Arizona
++ https://hobbylobby.com
+- Country: US
++ https://hobbylobby.com
+- State: ID
++ https://alltrails.com
+- Country: US
++ https://alltrails.com
+- State: Arizona
++ https://linternaute.fr
+- Country: FR
++ https://hoyoverse.com
+- Country: US
++ https://hoyoverse.com
+- State: Arizona
++ https://mondaymandala.com
+- Country: AU
++ https://mondaymandala.com
+- State: VIC
++ https://halloweencostumes.com
+- Country: US
++ https://halloweencostumes.com
+- State: Arizona
++ https://instructables.com
+- Country: US
++ https://instructables.com
+- State: CA
++ https://crayola.com
+- Country: US
++ https://crayola.com
+- State: Pennsylvania
++ https://supercoloring.com
+- Country: US
++ https://supercoloring.com
+- State: CO
++ https://picrew.me
+- Country: JP
++ https://picrew.me
+- State: Tokyo
++ https://pickerwheel.com
+- Country: IS
++ https://pickerwheel.com
+- State: Capital Region
++ https://sixflags.com
+- Country: US
++ https://sixflags.com
+- State: TX
++ https://cricut.com
+- Country: US
++ https://forkids.org.ua
+- Country: UA
++ https://campingworld.com
+- Country: US
++ https://campingworld.com
+- State: IL
++ https://asoview.com
+- Country: JP
++ https://asoview.com
+- State: Tokyo
++ https://garnstudio.com
+- Country: US
++ https://garnstudio.com
+- State: FL
++ https://funko.com
+- Country: US
++ https://funko.com
+- State: WA
++ https://natureetdecouvertes.com
+- Country: FR
++ https://natureetdecouvertes.com
+- State: Ile-de-France
++ https://crosswordtracker.com
+- Country: IS
++ https://crosswordtracker.com
+- State: Capital Region
++ https://creativefabrica.com
+- Country: NL
++ https://creativefabrica.com
+- State: Noord-Holland
++ https://camping.info
+- Country: AT
++ https://camping.info
+- Country: AT
++ https://emojikitchen.dev
+- Country: US
++ https://emojikitchen.dev
+- State: OR
++ https://urbanair.com
+- Country: US
++ https://urbanair.com
+- State: Arizona
++ https://iheartcraftythings.com
+- Country: US
++ https://iheartcraftythings.com
+- State: Arizona
++ https://deguisetoi.fr
+- Country: FR
++ https://ultimatesuccesspuzzle.com
+- Country: US
++ https://ultimatesuccesspuzzle.com
+- State: Arizona
++ https://reserveamerica.com
+- Country: US
++ https://reserveamerica.com
+- State: TX
++ https://koa.com
+- Country: US
++ https://koa.com
+- State: FL
++ https://aifaceswap.io
+- Country: US
++ https://aifaceswap.io
+- State: Arizona
++ https://funbooker.com
+- Country: FR
++ https://funbooker.com
+- State: Hauts de Seine
++ https://bigbadtoystore.com
+- Country: US
++ https://bigbadtoystore.com
+- State: FL
++ https://po-kaki-to.com
+- Country: JP
++ https://po-kaki-to.com
+- State: Tokyo
++ https://parcasterix.fr
+- Country: FR
++ https://buttinette.com
+- Country: DE
++ https://buttinette.com
+- State: DE
++ https://lovecrafts.com
+- Country: GB
++ https://lovecrafts.com
+- State: Middlesex
++ https://mushroomtravel.com
+- Country: US
++ https://mushroomtravel.com
+- State: CO
++ https://parquewarner.com
+- Country: NL
++ https://desenhosecolorir.com.br
+- Country: BR
++ https://gunduzniyetine.com
+- Country: US
++ https://gunduzniyetine.com
+- State: MA
++ https://halloweenexpress.com
+- Country: US
++ https://halloweenexpress.com
+- State: Data protected, not disclosed
++ https://hallow.com
+- Country: GB
++ https://hallow.com
+- State: Middlesex
++ https://jigsawexplorer.com
+- Country: IS
++ https://jigsawexplorer.com
+- State: Capital Region
++ https://fakenamegenerator.com
+- Country: US
++ https://fakenamegenerator.com
+- State: Virginia
++ https://gathered.how
+- Country: GB
++ https://gathered.how
+- Country: GB
++ https://yarnspirations.com
+- Country: US
++ https://yarnspirations.com
+- State: FL
++ https://heroforge.com
+- Country: US
++ https://heroforge.com
+- State: CA
++ https://hribi.net
+- Country: DE
++ https://panduro.com
+- Country: SE
++ https://ngccoin.com
+- Country: US
++ https://ngccoin.com
+- State: Florida
++ https://bricklink.com
+- Country: DK
++ https://bricklink.com
+- State: DK
++ https://campingfrance.com
+- Country: FR
++ https://ravelry.com
+- Country: US
++ https://ravelry.com
+- State: MA
++ https://americandream.com
+- Country: US
++ https://americandream.com
+- State: New Jersey
++ https://bandai-hobby.net
+- Country: JP
++ https://bandai-hobby.net
+- State: Tokyo
++ https://tuner-online.com
+- Country: IS
++ https://tuner-online.com
+- State: Capital Region
++ https://campings.com
+- Country: FR
++ https://campings.com
+- State: Ile-de-France
++ https://jazwares.com
+- Country: US
++ https://jazwares.com
+- State: FL
++ https://wonderla.com
+- Country: US
++ https://wonderla.com
+- State: Arizona
++ https://buschgardens.com
+- Country: US
++ https://buschgardens.com
+- State: FL
++ https://horror-shop.com
+- Country: US
++ https://schleich-s.com
+- Country: DE
++ https://schleich-s.com
+- State: Baden Wuerttemberg
+* HOME AND GARDEN
++ https://ikea.com
+- Country: NL
++ https://ikea.com
+- State: NL
++ https://homedepot.com
+- Country: US
++ https://homedepot.com
+- State: GA
++ https://wikihow.com
+- Country: US
++ https://wikihow.com
+- State: CA
++ https://lowes.com
+- Country: US
++ https://lowes.com
+- State: NC
++ https://leroymerlin.fr
+- Country: FR
++ https://goodhousekeeping.com
+- Country: US
++ https://goodhousekeeping.com
+- State: NY
++ https://thepioneerwoman.com
+- Country: US
++ https://thepioneerwoman.com
+- State: Arizona
++ https://thespruce.com
+- Country: US
++ https://thespruce.com
+- State: NY
++ https://southernliving.com
+- Country: US
++ https://southernliving.com
+- State: IA
++ https://theknot.com
+- Country: US
++ https://theknot.com
+- State: Arizona
++ https://diy.com
+- Country: GB
++ https://diy.com
+- State: Hampshire
++ https://wayfair.com
+- Country: US
++ https://wayfair.com
+- State: MA
++ https://epicentrk.ua
+- Country: UA
++ https://pinterest.fr
+- Country: US
++ https://conforama.fr
+- Country: FR
++ https://countryliving.com
+- State: NY
++ https://screwfix.com
+- Country: GB
++ https://screwfix.com
+- State: Somerset
++ https://dunelm.com
+- Country: GB
++ https://dunelm.com
+- State: Leicestershire
++ https://manomano.fr
+- Country: LU
++ https://homedepot.ca
+- Country: CA
++ https://homedepot.ca
+- State: ON
++ https://angi.com
+- Country: US
++ https://angi.com
+- State: Arizona
++ https://pampers.com
+- Country: US
++ https://pampers.com
+- State: OH
++ https://hgtv.com
+- Country: US
++ https://hgtv.com
+- State: TN
++ https://homedepot.com.mx
+- Country: United States
++ https://homedepot.com.mx
+- State: Georgia
++ https://stanley1913.com
+- Country: US
++ https://stanley1913.com
+- State: Arizona
++ https://realsimple.com
+- Country: US
++ https://realsimple.com
+- State: IA
++ https://almanac.com
+- Country: US
++ https://almanac.com
+- State: NH
++ https://bhg.com
+- Country: US
++ https://bhg.com
+- State: IA
++ https://maisonsdumonde.com
+- Country: LU
++ https://marthastewart.com
+- Country: US
++ https://marthastewart.com
+- State: NY
++ https://elmueble.com
+- Country: ES
++ https://elmueble.com
+- State: B
++ https://valdemarsro.dk
+- Country: DK
++ https://bricodepot.fr
+- Country: FR
++ https://menards.com
+- Country: US
++ https://menards.com
+- State: Arizona
++ https://castorama.fr
+- Country: FR
++ https://tractorsupply.com
+- Country: US
++ https://tractorsupply.com
+- State: Data protected, not disclosed
++ https://homecenter.com.co
+- Country: CO
++ https://homecenter.com.co
+- State: Distrito Capltalde Santa Fede Bogot&#227;
++ https://brides.com
+- Country: US
++ https://brides.com
+- State: NY
++ https://tractorjunction.com
+- Country: US
++ https://tractorjunction.com
+- State: Arizona
++ https://houzz.com
+- Country: US
++ https://houzz.com
+- State: CA
++ https://asianpaints.com
+- Country: IN
++ https://asianpaints.com
+- State: Maharashtra
++ https://zarahome.com
+- Country: ES
++ https://zarahome.com
+- State: A Coruna
++ https://potterybarn.com
+- Country: US
++ https://potterybarn.com
+- State: CA
++ https://architecturaldigest.com
+- Country: US
++ https://architecturaldigest.com
+- State: NY
++ https://ring.com
+- Country: US
++ https://ring.com
+- State: CA
++ https://diyadinnet.com
+- Country: TR
++ https://diyadinnet.com
++ https://kaercher.com
+- Country: FR
++ https://kaercher.com
+- State: Paris
++ https://uhaul.com
+- Country: US
++ https://uhaul.com
+- State: AZ
++ https://housebeautiful.com
+- Country: US
++ https://housebeautiful.com
+- State: NY
++ https://harald-nyborg.dk
+- Country: DK
++ https://promessedefleurs.com
+- Country: FR
++ https://promessedefleurs.com
+- State: Paris
++ https://biglots.com
+- Country: US
++ https://biglots.com
+- State: OH
++ https://gammvert.fr
+- Country: US
++ https://thaiwatsadu.com
+- Country: TH
++ https://thaiwatsadu.com
+- State: Bangkok
++ https://whirlpool.com
+- Country: US
++ https://whirlpool.com
+- State: MI
++ https://ashleyfurniture.com
+- Country: US
++ https://ashleyfurniture.com
+- State: WI
++ https://orkin.com
+- Country: US
++ https://orkin.com
+- State: FL
++ https://husqvarna.com
+- Country: SE
++ https://husqvarna.com
+- State: .
+* INTERNET AND TELECOM
++ https://whatsapp.com
+- Country: US
++ https://whatsapp.com
+- State: CA
++ https://pinterest.com
+- Country: US
++ https://pinterest.com
+- State: CA
++ https://translate.google.com
+- Country: US
++ https://translate.google.com
+- State: CA
++ https://speedtest.net
+- Country: US
++ https://speedtest.net
+- State: WA
++ https://support.google.com
+- Country: US
++ https://support.google.com
+- State: CA
++ https://mail.yahoo.com
+- Country: US
++ https://mail.yahoo.com
+- State: VA
++ https://savefrom.net
+- Country: KN
++ https://savefrom.net
+- State: Charlestown
++ https://deepl.com
+- Country: DE
++ https://deepl.com
+- State: NW
++ https://google.com
+- Country: US
++ https://google.com
+- State: CA
++ https://telegram.org
+- Country: US
++ https://telegram.org
+- State: Arizona
++ https://ssstik.io
+- Country: NL
++ https://ssstik.io
+- State: Zuid-Holland
++ https://heylink.me
+- Country: US
++ https://heylink.me
+- State: Arizona
++ https://yahoo.com
+- Country: US
++ https://yahoo.com
+- State: VA
++ https://fastdl.app
+- Country: US
++ https://fastdl.app
+- State: VA
++ https://duckduckgo.com
+- Country: IS
++ https://duckduckgo.com
+- State: Capital Region
++ https://fast.com
+- Country: US
++ https://fast.com
+- State: CA
++ https://croxyproxy.com
+- Country: LU
++ https://xsmn.mobi
+- Country: VN
++ https://xsmn.mobi
+- Country: VN
++ https://x.com
+- Country: US
++ https://x.com
+- State: Arizona
++ https://mynet.com
+- Country: TR
++ https://mynet.com
+- State: Turkiye
++ https://naver.com
+- Country: KR
++ https://t.me
+- Country: US
++ https://t.me
+- State: Arizona
++ https://go.com
+- Country: US
++ https://go.com
+- State: CA
++ https://bing.com
+- Country: US
++ https://bing.com
+- State: WA
++ https://yandex.com
+- Country: RU
++ https://yandex.com
+- State: -
++ https://wetransfer.com
+- Country: NL
++ https://snaptik.app
+- Country: US
++ https://snaptik.app
+- State: CO
++ https://semrush.com
+- Country: US
++ https://semrush.com
+- State: MA
++ https://fdown.net
+- Country: US
++ https://fdown.net
+- State: Arizona
++ https://free.fr
+- Country: FR
++ https://xfinity.com
+- Country: US
++ https://xfinity.com
+- State: PA
++ https://line.me
+- Country: JP
++ https://line.me
+- State: Tokyo
++ https://verizon.com
+- Country: US
++ https://verizon.com
+- State: DC
++ https://similarweb.com
+- Country: US
++ https://similarweb.com
+- State: Arizona
++ https://orange.fr
+- Country: FR
++ https://sky.com
+- State: Middlesex
++ https://mozilla.org
+- Country: US
++ https://mozilla.org
+- State: CA
++ https://att.com
+- Country: US
++ https://att.com
+- State: MO
++ https://zoom.us
+- Country: US
++ https://zoom.us
+- State: CA
++ https://emojipedia.org
+- Country: IS
++ https://emojipedia.org
+- State: Capital Region
++ https://wix.com
+- Country: US
++ https://wix.com
+- State: Arizona
++ https://proxysite.com
+- Country: US
++ https://proxysite.com
+- State: AZ
++ https://tenor.com
+- Country: US
++ https://tenor.com
+- State: CA
++ https://slideshare.net
+- Country: GB
++ https://slideshare.net
+- State: Middlesex
++ https://jio.com
+- Country: US
++ https://jio.com
+- State: Arizona
++ https://mail.google.com
+- Country: US
++ https://mail.google.com
+- State: CA
++ https://storysaver.net
+- Country: US
++ https://storysaver.net
+- State: CO
++ https://live.com
+- Country: US
++ https://live.com
+- State: WA
++ https://sites.google.com
+- Country: US
++ https://sites.google.com
+- State: CA
++ https://piliapp.com
+- Country: TW
++ https://piliapp.com
+- State: N/A
++ https://airtel.in
+- Country: IN
++ https://airtel.in
+- State: Haryana
++ https://messenger.com
+- Country: US
++ https://messenger.com
+- State: CA
++ https://temp-mail.org
+- Country: US
++ https://temp-mail.org
+- State: Arizona
++ https://ezmp3.cc
+- Country: IS
++ https://ezmp3.cc
+- State: Capital Region
++ https://zoom.com
+- Country: US
++ https://zoom.com
+- State: CA
++ https://nordvpn.com
+- Country: LU
++ https://telkomsel.com
+- Country: ID
++ https://telkomsel.com
+- State: DKI
++ https://godaddy.com
+- Country: US
++ https://godaddy.com
+- State: Arizona
++ https://dropbox.com
+- Country: US
++ https://dropbox.com
+- State: CA
++ https://vidmateapp.com
+- Country: US
++ https://vidmateapp.com
+- State: Arizona
++ https://snapsave.app
+- Country: US
++ https://snapsave.app
+- State: CO
++ https://ssyoutube.com
+- Country: KN
++ https://ssyoutube.com
+- State: Charlestown
++ https://downdetector.com
+- Country: NL
++ https://downdetector.com
+- State: North Holland
++ https://19216811.uno
+- Country: IS
++ https://19216811.uno
+- State: Capital Region
++ https://google.co.in
+- Country: US
++ https://google.co.in
+- State: CA
++ https://y2mate.lol
+- Country: IN
++ https://y2mate.lol
+- State: Maharashtra
++ https://google.co.id
+- Country: ID
++ https://ahrefs.com
+- Country: US
++ https://ahrefs.com
+- State: CO
++ https://tiktokio.com
+- Country: PA
++ https://tiktokio.com
+- State: NA
++ https://submagic.co
+- Country: US
++ https://submagic.co
+- State: Arizona
++ https://linktr.ee
+- Country: AU
++ https://ikyu.com
+- Country: JP
++ https://ikyu.com
+- State: Tokyo
++ https://zalo.me
+- Country: US
++ https://zalo.me
+- State: WA
++ https://fdownloader.net
+- Country: NL
++ https://fdownloader.net
+- State: Zuid-Holland
++ https://gmx.net
+- Country: DE
++ https://gmx.net
+- State: DE
++ https://sfr.fr
+- Country: FR
++ https://bt.com
+- State: London
++ https://accounts.google.com
+- Country: US
++ https://accounts.google.com
+- State: CA
+* JOBS AND EDUCATION
++ https://linkedin.com
+- Country: US
++ https://linkedin.com
+- State: CA
++ https://indeed.com
+- Country: US
++ https://indeed.com
+- State: Ct
++ https://sarkariresult.com
+- Country: US
++ https://sarkariresult.com
+- State: MA
++ https://byjus.com
+- Country: US
++ https://byjus.com
+- State: Arizona
++ https://quillbot.com
+- Country: US
++ https://quillbot.com
+- State: CA
++ https://epfindia.gov.in
+- Country: IN
++ https://epfindia.gov.in
+- Country: IN
++ https://grammarly.com
+- Country: US
++ https://grammarly.com
+- State: Arizona
++ https://quizlet.com
+- Country: US
++ https://quizlet.com
+- State: Arizona
++ https://study.com
+- Country: US
++ https://study.com
+- State: Arizona
++ https://kemdikbud.go.id
+- Country: ID
++ https://vietjack.com
+- State: HA NOI
++ https://testbook.com
+- Country: US
++ https://testbook.com
+- State: CO
++ https://kahoot.com
+- Country: NO
++ https://khanacademy.org
+- Country: US
++ https://khanacademy.org
+- State: Arizona
++ https://w3schools.com
+- Country: GB
++ https://w3schools.com
+- State: Middlesex
++ https://brainly.co.id
+- Country: ID
++ https://shiksha.com
+- Country: US
++ https://shiksha.com
+- State: FL
++ https://jagranjosh.com
+- Country: US
++ https://jagranjosh.com
+- State: Arizona
++ https://scribbr.com
+- Country: NL
++ https://scribbr.com
+- State: NL
++ https://brainly.com
+- Country: PL
++ https://brainly.com
+- State: PL
++ https://cuemath.com
+- Country: US
++ https://cuemath.com
+- State: Arizona
++ https://ziprecruiter.com
+- Country: US
++ https://ziprecruiter.com
+- State: CA
++ https://clever.com
+- Country: US
++ https://clever.com
+- State: CO
++ https://vedantu.com
+- Country: US
++ https://vedantu.com
+- State: Arizona
++ https://quizizz.com
+- Country: US
++ https://quizizz.com
+- State: Arizona
++ https://brainly.in
+- Country: PL
++ https://brainly.in
+- State: PL
++ https://toppr.com
+- Country: US
++ https://toppr.com
+- State: Arizona
++ https://coursera.org
+- Country: US
++ https://coursera.org
+- State: Arizona
++ https://duolingo.com
+- Country: GB
++ https://duolingo.com
+- State: Middlesex
++ https://desmos.com
+- Country: US
++ https://desmos.com
+- State: CA
++ https://adp.com
+- Country: US
++ https://adp.com
+- State: NJ
++ https://mathway.com
+- Country: US
++ https://mathway.com
+- State: CA
++ https://slideshare.net
+- Country: GB
++ https://slideshare.net
+- State: Middlesex
++ https://vocabulary.com
+- Country: US
++ https://vocabulary.com
+- State: CA
++ https://naukri.com
+- Country: US
++ https://naukri.com
+- State: FL
++ https://jooble.org
+- Country: US
++ https://jooble.org
+- State: Arizona
++ https://kariyer.net
+- Country: US
++ https://kariyer.net
+- State: FL
++ https://unam.mx
+- Country: Mexico
++ https://unam.mx
+- State: Distrito Federal
++ https://francetravail.fr
+- Country: FR
++ https://sotwe.com
+- Country: TR
++ https://sotwe.com
+- State: istanbul
++ https://studocu.com
+- Country: NL
++ https://studocu.com
+- State: Noord-Holland
++ https://sarkarialert.net
+- Country: US
++ https://sarkarialert.net
+- State: Arizona
++ https://jobstreet.com
+- Country: SG
++ https://jobstreet.com
+- State: Singapore
++ https://easyhindityping.com
+- Country: GB
++ https://easyhindityping.com
+- State: Surrey
++ https://unacademy.com
+- Country: US
++ https://unacademy.com
+- State: Arizona
++ https://umsu.ac.id
+- Country: ID
++ https://udemy.com
+- Country: US
++ https://udemy.com
+- State: Data protected, not disclosed
++ https://iq.com
+- Country: CN
++ https://iq.com
+- State: beijing
++ https://loigiaihay.com
+- Country: US
++ https://loigiaihay.com
+- State: Arizona
++ https://leverageedu.com
+- Country: US
++ https://leverageedu.com
+- State: Arizona
++ https://glassdoor.com
+- Country: US
++ https://glassdoor.com
+- State: CA
++ https://upwork.com
+- Country: US
++ https://upwork.com
+- State: CA
++ https://baitoru.com
+- Country: GB
++ https://baitoru.com
+- State: Middlesex
++ https://mathplayground.com
+- Country: US
++ https://mathplayground.com
+- State: Arizona
++ https://nrega.nic.in
+- Country: IN
++ https://nrega.nic.in
+- State: Delhi
++ https://nta.ac.in
+- Country: IN
++ https://nta.ac.in
+- Country: IN
++ https://ejemplos.co
+- Country: US
++ https://ejemplos.co
+- State: Arizona
++ https://citationmachine.net
+- Country: US
++ https://citationmachine.net
+- State: CA
++ https://ssoidloginrajasthan.in
+- Country: PK
++ https://ssoidloginrajasthan.in
+- State: Punjab
++ https://libretexts.org
+- Country: US
++ https://libretexts.org
+- State: CA
++ https://instructure.com
+- Country: US
++ https://instructure.com
+- State: UT
++ https://blooket.com
+- Country: US
++ https://blooket.com
+- State: DE
++ https://chegg.com
+- Country: US
++ https://chegg.com
+- State: CA
++ https://becasbenitojuarez.gob.mx
+- Country: Mexico
++ https://becasbenitojuarez.gob.mx
+- State: Ciudad de Mexico
++ https://udiseplus.gov.in
+- Country: IN
++ https://udiseplus.gov.in
+- Country: IN
++ https://teacherspayteachers.com
+- Country: US
++ https://teacherspayteachers.com
+- State: CA
++ https://doubtnut.com
+- Country: IN
++ https://doubtnut.com
+- State: Haryana
++ https://pearson.com
+- Country: GB
++ https://pearson.com
+- State: ENG
++ https://collegeboard.org
+- Country: US
++ https://collegeboard.org
+- Country: US
+* LAW AND GOVERNMENT
++ https://punjab.gov.in
+- Country: IN
++ https://punjab.gov.in
+- Country: IN
++ https://uidai.gov.in
+- Country: IN
++ https://uidai.gov.in
+- Country: IN
++ https://epfindia.gov.in
+- Country: IN
++ https://epfindia.gov.in
+- Country: IN
++ https://www.gob.mx
+- Country: Mexico
++ https://www.gob.mx
+- State: Ciudad de Mexico
++ https://sikayetvar.com
+- Country: US
++ https://sikayetvar.com
+- State: FL
++ https://service-public.fr
+- Country: FR
++ https://parivahan.gov.in
+- Country: IN
++ https://parivahan.gov.in
+- Country: IN
++ https://canada.ca
+- Country: CA
++ https://canada.ca
+- State: ON
++ https://bihar.gov.in
+- Country: IN
++ https://bihar.gov.in
+- Country: IN
++ https://sat.gob.mx
+- Country: Mexico
++ https://sat.gob.mx
+- State: Distrito Federal
++ https://state.gov
+- State: state.gov
++ https://karnataka.gov.in
+- Country: IN
++ https://karnataka.gov.in
+- Country: IN
++ https://kerala.gov.in
+- Country: IN
++ https://kerala.gov.in
+- Country: IN
++ https://up.gov.in
+- Country: IN
++ https://up.gov.in
+- Country: IN
++ https://rajasthan.gov.in
+- Country: IN
++ https://rajasthan.gov.in
+- Country: IN
++ https://maharashtra.gov.in
+- Country: IN
++ https://maharashtra.gov.in
+- State: Maharashtra
++ https://bkn.go.id
+- Country: ID
++ https://indiapost.gov.in
+- Country: IN
++ https://indiapost.gov.in
+- Country: IN
++ https://tn.gov.in
+- Country: IN
++ https://tn.gov.in
+- State: Tamil Nadu
++ https://eci.gov.in
+- Country: IN
++ https://eci.gov.in
+- Country: IN
++ https://pmkisan.gov.in
+- Country: IN
++ https://pmkisan.gov.in
+- Country: IN
++ https://ssologinrajasthan.in
+- Country: IN
++ https://ssologinrajasthan.in
+- State: Uttar Pradesh
++ https://mp.gov.in
+- Country: IN
++ https://mp.gov.in
+- Country: IN
++ https://caf.fr
+- Country: MC
++ https://csc.gov.in
+- Country: IN
++ https://csc.gov.in
+- State: Delhi
++ https://un.org
+- Country: US
++ https://un.org
+- State: NY
++ https://telangana.gov.in
+- Country: IN
++ https://telangana.gov.in
+- State: Telangana
++ https://upbhulekh.gov.in
+- Country: IN
++ https://upbhulekh.gov.in
+- State: Uttar Pradesh
++ https://jusbrasil.com.br
+- Country: BR
++ https://y2mate.com
+- Country: VN
++ https://incometax.gov.in
+- Country: IN
++ https://incometax.gov.in
+- Country: IN
++ https://urssaf.fr
+- Country: LU
++ https://ants.gouv.fr
+- Country: FR
++ https://texas.gov
+- State: merlin.texan.state.tx.usns.capnet.state.tx.usns5.capnet.state.tx.usns9.tex-an.net
++ https://justanswer.com
+- Country: US
++ https://justanswer.com
+- State: CA
++ https://india.gov.in
+- Country: IN
++ https://india.gov.in
+- Country: IN
++ https://impots.gouv.fr
+- Country: FR
++ https://gst.gov.in
+- Country: IN
++ https://gst.gov.in
+- Country: IN
++ https://imss.gob.mx
+- Country: Mexico
++ https://imss.gob.mx
+- State: Distrito Federal
++ https://kpu.go.id
+- Country: ID
++ https://gouv.qc.ca
+- Country: CA
++ https://gouv.qc.ca
+- State: QC
++ https://ap.gov.in
+- Country: IN
++ https://ap.gov.in
+- Country: IN
++ https://cdmx.gob.mx
+- Country: Mexico
++ https://cdmx.gob.mx
+- State: Distrito Federal
++ https://project2025.org
+- Country: US
++ https://project2025.org
+- State: DC
++ https://alberta.ca
+- Country: CA
++ https://alberta.ca
+- State: AB
++ https://bih.nic.in
+- Country: IN
++ https://bih.nic.in
+- State: Delhi
++ https://dian.gov.co
+- Country: CO
++ https://dian.gov.co
+- State: Bogota
++ https://gujarat.gov.in
+- Country: IN
++ https://gujarat.gov.in
+- State: Gujarat
++ https://wb.gov.in
+- Country: IN
++ https://wb.gov.in
+- Country: IN
++ https://up.nic.in
+- Country: IN
++ https://up.nic.in
+- State: Delhi
++ https://umang.gov.in
+- Country: IN
++ https://umang.gov.in
+- Country: IN
+* NEWS
++ https://globo.com
+- Country: BR
++ https://globo.com
+- State: RJ
++ https://nytimes.com
+- Country: US
++ https://nytimes.com
+- State: NY
++ https://detik.com
+- Country: US
++ https://detik.com
+- State: CO
++ https://uol.com.br
+- Country: BR
++ https://indiatimes.com
+- Country: CA
++ https://indiatimes.com
+- State: ON
++ https://bbc.com
+- Country: GB
++ https://hindustantimes.com
+- Country: IN
++ https://hindustantimes.com
+- State: New Delhi
++ https://kumparan.com
+- Country: US
++ https://kumparan.com
+- State: Arizona
++ https://kompas.com
+- Country: ID
++ https://kompas.com
+- State: Jakarta
++ https://ndtv.com
+- Country: US
++ https://ndtv.com
+- State: FL
++ https://cnn.com
+- Country: US
++ https://cnn.com
+- State: GA
++ https://terra.com.br
+- Country: BR
++ https://usatoday.com
+- Country: US
++ https://usatoday.com
+- State: NY
++ https://sanook.com
+- Country: TH
++ https://sanook.com
+- State: Bangkok
++ https://infobae.com
+- Country: AR
++ https://infobae.com
+- State: CABA
++ https://liputan6.com
+- Country: GB
++ https://liputan6.com
+- State: Middlesex
++ https://yahoo.com
+- Country: US
++ https://yahoo.com
+- State: VA
++ https://msn.com
+- Country: US
++ https://msn.com
+- State: WA
++ https://foxnews.com
+- Country: US
++ https://foxnews.com
+- State: NY
++ https://tribunnews.com
+- Country: GB
++ https://tribunnews.com
+- State: Middlesex
++ https://news18.com
+- Country: IN
++ https://news18.com
+- State: Maharashtra
++ https://theguardian.com
+- Country: US
++ https://theguardian.com
+- State: Arizona
++ https://ouest-france.fr
+- Country: FR
++ https://news.yahoo.com
+- Country: US
++ https://news.yahoo.com
+- State: VA
++ https://cnnindonesia.com
+- Country: US
++ https://cnnindonesia.com
+- State: GA
++ https://usnews.com
+- Country: US
++ https://usnews.com
+- State: DC
++ https://lefigaro.fr
+- Country: FR
++ https://india.com
+- Country: US
++ https://india.com
+- State: Arizona
++ https://aajtak.in
+- Country: IN
++ https://aajtak.in
+- State: Delhi
++ https://abplive.com
+- Country: US
++ https://abplive.com
+- State: Arizona
++ https://thairath.co.th
+- Country: TH
++ https://indianexpress.com
+- Country: US
++ https://indianexpress.com
+- State: Arizona
++ https://elpais.com
+- Country: ES
++ https://elpais.com
+- State: MADRID
++ https://ukr.net
+- Country: US
++ https://ukr.net
+- State: FL
++ https://livehindustan.com
+- Country: US
++ https://livehindustan.com
+- State: Arizona
++ https://kapook.com
+- Country: TH
++ https://kapook.com
+- State: BANGKOK
++ https://cbsnews.com
+- Country: US
++ https://cbsnews.com
+- State: NY
++ https://haberturk.com
+- Country: US
++ https://haberturk.com
+- State: FL
++ https://youm7.com
+- Country: US
++ https://youm7.com
+- State: Arizona
++ https://vnexpress.net
+- Country: US
++ https://vnexpress.net
+- State: FL
++ https://jagran.com
+- Country: US
++ https://jagran.com
+- State: Arizona
++ https://nikkei.com
+- Country: JP
++ https://nikkei.com
+- State: Tokyo
++ https://aljazeera.com
+- Country: US
++ https://aljazeera.com
+- State: CA
++ https://baomoi.com
+- Country: IS
++ https://baomoi.com
+- State: Capital Region
++ https://clarin.com
+- Country: US
++ https://clarin.com
+- State: FL
++ https://thehindu.com
+- Country: IN
++ https://thehindu.com
+- State: TAMIL NADU
++ https://nbcnews.com
+- Country: US
++ https://nbcnews.com
+- State: nj
++ https://apnews.com
+- Country: US
++ https://apnews.com
+- State: NY
++ https://indiatoday.in
+- Country: IN
++ https://indiatoday.in
+- State: Delhi
++ https://business-standard.com
+- Country: GB
++ https://business-standard.com
+- State: Middlesex
++ https://nypost.com
+- Country: US
++ https://nypost.com
+- State: NY
++ https://bhaskar.com
+- Country: IN
++ https://bhaskar.com
+- State: Uttar Pradesh
++ https://aol.com
+- Country: US
++ https://aol.com
+- State: VA
++ https://cnnturk.com
+- Country: US
++ https://cnnturk.com
+- State: GA
++ https://latestly.com
+- Country: US
++ https://latestly.com
+- State: Arizona
++ https://ambito.com
+- Country: AR
++ https://ambito.com
+- State: Buenos Aires
++ https://reuters.com
+- Country: CH
++ https://reuters.com
+- State: Zug
++ https://lemonde.fr
+- Country: FR
++ https://tirto.id
+- Country: ID
++ https://udn.com
+- Country: US
++ https://udn.com
+- State: FL
++ https://eltiempo.com
+- Country: US
++ https://eltiempo.com
+- State: CA
++ https://haber7.com
+- Country: TR
++ https://haber7.com
+- State: Istanbul
++ https://bfmtv.com
+- Country: FR
++ https://almasryalyoum.com
+- Country: US
++ https://almasryalyoum.com
+- State: Arizona
++ https://aljazeera.net
+- Country: US
++ https://aljazeera.net
+- State: CA
+* PEOPLE AND SOCIETY
++ https://biblegateway.com
+- Country: US
++ https://biblegateway.com
+- State: MI
++ https://pensador.com
+- Country: IS
++ https://pensador.com
+- State: Capital Region
++ https://16personalities.com
+- Country: GB
++ https://16personalities.com
+- State: Cambridgeshire
++ https://timesprayer.com
+- Country: TR
++ https://timesprayer.com
++ https://nu.or.id
+- Country: ID
++ https://famousbirthdays.com
+- Country: US
++ https://famousbirthdays.com
+- State: Arizona
++ https://prokerala.com
+- Country: IN
++ https://prokerala.com
+- State: Kerala
++ https://caf.fr
+- Country: MC
++ https://islamweb.net
+- Country: QA
++ https://islamweb.net
+- State: Doha
++ https://justgiving.com
+- Country: GB
++ https://kemenag.go.id
+- Country: ID
++ https://stackexchange.com
+- Country: US
++ https://stackexchange.com
+- State: NY
++ https://bibliaon.com
+- Country: IS
++ https://bibliaon.com
+- State: Capital Region
++ https://churchofjesuschrist.org
+- Country: US
++ https://churchofjesuschrist.org
+- State: UT
++ https://iq.com
+- Country: CN
++ https://iq.com
+- State: beijing
++ https://islamicfinder.org
+- Country: US
++ https://islamicfinder.org
+- State: Arizona
++ https://biblestudytools.com
+- Country: US
++ https://biblestudytools.com
+- State: CA
++ https://legacy.com
+- Country: US
++ https://legacy.com
+- State: FL
++ https://elle.fr
+- Country: FR
++ https://fimela.com
+- Country: ID
++ https://fimela.com
+- State: DKI Jakarta
++ https://bible.com
+- Country: US
++ https://bible.com
+- State: FL
++ https://herzindagi.com
+- Country: US
++ https://herzindagi.com
+- State: Arizona
++ https://quran.com
+- Country: US
++ https://quran.com
+- State: FL
++ https://haibunda.com
+- Country: IS
++ https://haibunda.com
+- State: Capital Region
++ https://aarp.org
+- Country: US
++ https://aarp.org
+- State: DC
++ https://prayertimes3.today
+- Country: US
++ https://prayertimes3.today
+- State: CO
++ https://esquire.com
+- Country: US
++ https://esquire.com
+- State: NY
++ https://myhora.com
+- Country: TH
++ https://myhora.com
++ https://horoscope.com
+- Country: US
++ https://horoscope.com
+- State: CA
++ https://britishcouncil.org
+- Country: GB
++ https://britishcouncil.org
+- State: GB
++ https://libramemoria.com
+- Country: FR
++ https://drikpanchang.com
+- Country: IN
++ https://drikpanchang.com
+- State: Uttar Pradesh
++ https://jadwalsholat.org
+- Country: IS
++ https://jadwalsholat.org
+- State: Capital Region
++ https://dansnoscoeurs.fr
+- Country: FR
++ https://astrosage.com
+- Country: US
++ https://astrosage.com
+- State: Arizona
++ https://linternaute.fr
+- Country: FR
++ https://parents.com
+- Country: US
++ https://parents.com
+- State: IA
++ https://unicef.org
+- Country: US
++ https://unicef.org
+- State: NY
++ https://familysearch.org
+- Country: US
++ https://familysearch.org
+- State: UT
++ https://ancestry.com
+- Country: US
++ https://ancestry.com
+- State: UT
++ https://theasianparent.com
+- Country: US
++ https://theasianparent.com
+- State: Arizona
++ https://brainyquote.com
+- Country: US
++ https://brainyquote.com
+- State: Arizona
++ https://glamour.com
+- Country: US
++ https://glamour.com
+- State: NY
++ https://nextdoor.com
+- Country: GB
++ https://nextdoor.com
+- State: Middlesex
++ https://teenvogue.com
+- Country: US
++ https://teenvogue.com
+- State: NY
++ https://gotquestions.org
+- Country: US
++ https://gotquestions.org
+- State: Arizona
++ https://nationaldaycalendar.com
+- Country: US
++ https://nationaldaycalendar.com
+- State: ND
++ https://ricepuritytest.com
+- Country: US
++ https://ricepuritytest.com
+- State: Arizona
++ https://unesco.org
+- Country: FR
++ https://unesco.org
+- Country: FR
++ https://surahquran.com
+- Country: IS
++ https://surahquran.com
+- State: Capital Region
++ https://worldpopulationreview.com
+- Country: US
++ https://worldpopulationreview.com
+- State: PA
++ https://kizlarsoruyor.com
+- Country: US
++ https://kizlarsoruyor.com
+- State: Missouri
++ https://whitepages.com
+- Country: GB
++ https://whitepages.com
+- State: Middlesex
++ https://marieclaire.fr
+- Country: FR
++ https://islamqa.info
+- Country: SA
++ https://islamqa.info
+- State: Saudi Arabia region
++ https://mumsnet.com
+- Country: US
++ https://mumsnet.com
+- State: Arizona
++ https://femmeactuelle.fr
+- Country: FR
++ https://brides.com
+- Country: US
++ https://brides.com
+- State: NY
++ https://popmama.com
+- Country: US
++ https://popmama.com
+- State: Arizona
++ https://monomax.me
+- Country: US
++ https://monomax.me
+- State: Arizona
++ https://commonsensemedia.org
+- Country: US
++ https://commonsensemedia.org
+- State: Arizona
++ https://localharyana.com
+- Country: US
++ https://localharyana.com
+- State: Arizona
++ https://purina.com
+- Country: CH
++ https://purina.com
+- State: Vaud
++ https://redcross.org
+- Country: US
++ https://redcross.org
+- State: District of Columbia
++ https://vix.com
+- Country: US
++ https://vix.com
+- State: NY
++ https://parents.fr
+- Country: FR
++ https://starsunfolded.com
+- Country: US
++ https://starsunfolded.com
+- State: Arizona
++ https://geny.com
+- Country: FR
++ https://geny.com
+- State: Ile-de-France
++ https://prayertimes.me
+- Country: US
++ https://prayertimes.me
+- State: Arizona
++ https://geneanet.org
+- Country: FR
++ https://geneanet.org
+- State: FR
++ https://pissedconsumer.com
+- Country: US
++ https://pissedconsumer.com
+- State: Arizona
++ https://biography.com
+- Country: US
++ https://biography.com
+- State: NY
++ https://commonsense.org
+- Country: US
++ https://commonsense.org
+- State: Arizona
++ https://hidabroot.org
+- Country: IL
++ https://hidabroot.org
+- Country: IL
++ https://avakids.com
+- Country: VN
++ https://avakids.com
+- State: H? Ch? Minh
+* PETS AND ANIMALS
++ https://akc.org
+- Country: US
++ https://akc.org
+- State: Arizona
++ https://petmd.com
+- Country: US
++ https://petmd.com
+- State: Florida
++ https://chewy.com
+- Country: US
++ https://chewy.com
+- State: Florida
++ https://petsmart.com
+- Country: US
++ https://petsmart.com
+- State: AZ
++ https://vcahospitals.com
+- Country: GB
++ https://vcahospitals.com
+- State: Middlesex
++ https://thesprucepets.com
+- Country: US
++ https://thesprucepets.com
+- State: NY
++ https://rover.com
+- Country: US
++ https://rover.com
+- State: Arizona
++ https://petco.com
+- Country: US
++ https://petco.com
+- State: CA
++ https://petfinder.com
+- Country: CH
++ https://petfinder.com
+- State: Vaud
++ https://royalcanin.com
+- Country: FR
++ https://royalcanin.com
+- State: Virginia
++ https://wagwalking.com
+- Country: US
++ https://wagwalking.com
+- State: CA
++ https://woopets.fr
+- Country: FR
++ https://kango-roo.com
+- Country: JP
++ https://kango-roo.com
+- State: Tokyo
++ https://zooplus.fr
+- Country: DE
++ https://dogster.com
+- Country: US
++ https://dogster.com
+- State: AZ
++ https://dogtime.com
+- Country: US
++ https://dogtime.com
+- State: Arizona
++ https://petcharavejhospital.com
+- Country: TH
++ https://petcharavejhospital.com
+- State: bangkok
++ https://expertoanimal.com
+- Country: US
++ https://expertoanimal.com
+- State: Arizona
++ https://hillspet.com
+- Country: US
++ https://hillspet.com
+- State: NY
++ https://petlebi.com
+- Country: TR
++ https://petlebi.com
+- State: MARMARA
++ https://raisingcanes.com
+- Country: US
++ https://raisingcanes.com
+- State: LA
++ https://petsathome.com
+- Country: GB
++ https://petsathome.com
+- State: DE
++ https://pawlicy.com
+- Country: GB
++ https://pawlicy.com
+- State: Middlesex
++ https://sandiegozoo.org
+- Country: US
++ https://sandiegozoo.org
+- State: CA
++ https://kalvo.com
+- Country: IS
++ https://kalvo.com
+- State: Capital Region
++ https://animalia.bio
+- Country: US
++ https://animalia.bio
+- State: California
++ https://santevet.com
+- Country: FR
++ https://puppies.com
+- Country: US
++ https://puppies.com
+- State: Arizona
++ https://dailypaws.com
+- Country: US
++ https://dailypaws.com
+- State: IA
++ https://elanco.com
+- Country: US
++ https://elanco.com
+- State: IN
++ https://discoverwildlife.com
+- Country: GB
++ https://wildlifetrusts.org
+- Country: US
++ https://wildlifetrusts.org
+- State: Arizona
++ https://journee-mondiale.com
+- Country: EE
++ https://aspca.org
+- Country: US
++ https://aspca.org
+- State: NY
++ https://kiwoko.com
+- Country: ES
++ https://kiwoko.com
+- State: M
++ https://petinsurance.com
+- Country: US
++ https://petinsurance.com
+- State: FL
++ https://bettervet.com
+- Country: US
++ https://bettervet.com
+- State: Arizona
++ https://dogdrip.net
+- Country: KR
++ https://dogdrip.net
+- State: Korea
++ https://thefarmersdog.com
+- Country: GB
++ https://thefarmersdog.com
+- State: Middlesex
++ https://a-z-animals.com
+- Country: US
++ https://a-z-animals.com
+- State: CO
++ https://adoptapet.com
+- Country: US
++ https://adoptapet.com
+- State: New York
++ https://cats.com
+- Country: US
++ https://cats.com
+- State: Arizona
++ https://virbac.com
+- Country: FR
++ https://virbac.com
+- State: N/C
++ https://peta.org
+- Country: US
++ https://peta.org
+- State: VA
++ https://litter-robot.com
+- Country: US
++ https://litter-robot.com
+- State: Arizona
++ https://lancasterpuppies.com
+- Country: US
++ https://lancasterpuppies.com
+- State: Arizona
++ https://aquariumcoop.com
+- Country: US
++ https://aquariumcoop.com
+- State: Arizona
++ https://trustedhousesitters.com
+- Country: US
++ https://trustedhousesitters.com
+- State: Arizona
++ https://avma.org
+- Country: US
++ https://avma.org
+- Country: US
++ https://banfield.com
+- Country: US
++ https://banfield.com
+- State: WA
++ https://embracepetinsurance.com
+- Country: US
++ https://embracepetinsurance.com
+- State: OH
++ https://dogfoodadvisor.com
+- Country: US
++ https://dogfoodadvisor.com
+- State: CA
++ https://koneko-breeder.com
+- Country: JP
++ https://koneko-breeder.com
+- State: Miyagi
++ https://spotpet.com
+- Country: US
++ https://spotpet.com
+- State: Florida
++ https://nwf.org
+- Country: US
++ https://nwf.org
+- State: FL
++ https://petsuppliesplus.com
+- Country: US
++ https://petsuppliesplus.com
+- State: FL
++ https://aspcapetinsurance.com
+- Country: US
++ https://aspcapetinsurance.com
+- State: NY
+* REAL ESTATE
++ https://zillow.com
+- Country: US
++ https://zillow.com
+- State: ID
++ https://apartments.com
+- Country: US
++ https://apartments.com
+- State: DC
++ https://realtor.com
+- Country: US
++ https://realtor.com
+- State: FL
++ https://idealista.com
+- Country: ES
++ https://idealista.com
+- State: Illes Balears
++ https://mamikos.com
+- Country: US
++ https://mamikos.com
+- State: Arizona
++ https://magicbricks.com
+- Country: CA
++ https://magicbricks.com
+- State: ON
++ https://redfin.com
+- Country: US
++ https://redfin.com
+- State: Arizona
++ https://trulia.com
+- Country: US
++ https://trulia.com
+- State: ID
++ https://seloger.com
+- Country: FR
++ https://seloger.com
+- State: N/C
++ https://realestate.com.au
+- State: realestate.com.au
++ https://realtor.ca
+- Country: CA
++ https://realtor.ca
+- State: The Canadian Real Estate Association
++ https://hepsiemlak.com
+- Country: US
++ https://hepsiemlak.com
+- State: Arizona
++ https://99acres.com
+- Country: US
++ https://99acres.com
+- State: FL
++ https://housing.com
+- Country: US
++ https://housing.com
+- State: CO
++ https://nobroker.in
+- Country: IN
++ https://nobroker.in
+- State: Karnataka
++ https://99.co
+- Country: IS
++ https://99.co
+- State: Capital Region
++ https://mpbhulekh.gov.in
+- Country: IN
++ https://mpbhulekh.gov.in
+- Country: IN
++ https://emlakjet.com
+- Country: US
++ https://emlakjet.com
+- State: Arizona
++ https://infonavit.org.mx
+- Country: Mexico
++ https://infonavit.org.mx
+- State: Distrito Federal
++ https://loopnet.com
+- Country: US
++ https://loopnet.com
+- State: DC
++ https://homes.com
+- Country: US
++ https://homes.com
+- State: DC
++ https://idxchannel.com
+- Country: CA
++ https://idxchannel.com
+- State: ON
++ https://onthemarket.com
+- Country: GB
++ https://onthemarket.com
+- State: London
++ https://rentcafe.com
+- Country: US
++ https://rentcafe.com
+- State: ID
++ https://rocketmortgage.com
+- Country: US
++ https://rocketmortgage.com
+- State: MI
++ https://mahabhumi.gov.in
+- Country: IN
++ https://mahabhumi.gov.in
+- State: State  Government -Land Record
++ https://property24.com
+- Country: ZA
++ https://property24.com
+- State: Western Cape
++ https://quintoandar.com.br
+- Country: BR
++ https://rumah123.com
+- Country: IS
++ https://rumah123.com
+- State: Capital Region
++ https://centris.ca
+- Country: CA
++ https://centris.ca
+- State: QC
++ https://remax.com
+- Country: US
++ https://remax.com
+- State: CO
++ https://rent.com
+- Country: US
++ https://rent.com
+- State: GA
++ https://inmuebles24.com
+- Country: US
++ https://inmuebles24.com
+- State: Arizona
++ https://ddproperty.com
+- Country: SG
++ https://ddproperty.com
+- State: Singapore
++ https://centanet.com
+- Country: CN
++ https://centanet.com
+- State: shang hai
++ https://bayut.com
+- Country: AE
++ https://bayut.com
+- State: DU
++ https://bienici.com
+- Country: FR
++ https://boligsiden.dk
+- Country: DK
++ https://extraspace.com
+- Country: US
++ https://extraspace.com
+- State: UT
++ https://r-agent.com
+- Country: JP
++ https://r-agent.com
+- State: Tokyo
++ https://ingatlan.com
+- Country: HU
++ https://ingatlan.com
+- State: Budapest
++ https://logic-immo.com
+- Country: FR
++ https://logic-immo.com
+- State: N/C
++ https://banglarbhumi.gov.in
+- Country: IN
++ https://banglarbhumi.gov.in
+- State: West Bengal
++ https://flatfy.ua
+- Country: UA
++ https://aplaceformom.com
+- Country: US
++ https://aplaceformom.com
+- State: Arizona
++ https://zameen.com
+- Country: PK
++ https://zameen.com
+- State: Dubai
++ https://apartmentguide.com
+- Country: US
++ https://apartmentguide.com
+- State: GA
++ https://weddingz.in
+- Country: IN
++ https://weddingz.in
+- State: HA
++ https://actionlogement.fr
+- Country: FR
++ https://valuecom.com
+- Country: US
++ https://valuecom.com
+- State: Arizona
++ https://duproprio.com
+- Country: US
++ https://duproprio.com
+- State: Arizona
++ https://squareyards.com
+- Country: US
++ https://squareyards.com
+- State: Arizona
++ https://rew.ca
+- Country: CA
++ https://rew.ca
+- State: BC
++ https://pap.fr
+- Country: FR
++ https://privateproperty.co.za
+- Country: ZA
++ https://privateproperty.co.za
+- Country: ZA
++ https://remax.ca
+- Country: CA
++ https://remax.ca
+- State: ON
+* REFERENCE
++ https://en.wikipedia.org
+- Country: US
++ https://en.wikipedia.org
+- State: CA
++ https://es.wikipedia.org
+- Country: US
++ https://es.wikipedia.org
+- State: CA
++ https://de.wikipedia.org
+- Country: US
++ https://de.wikipedia.org
+- State: CA
++ https://fr.wikipedia.org
+- Country: US
++ https://fr.wikipedia.org
+- State: CA
++ https://ja.wikipedia.org
+- Country: US
++ https://ja.wikipedia.org
+- State: CA
++ https://quora.com
+- Country: US
++ https://quora.com
+- State: CA
++ https://it.wikipedia.org
+- Country: US
++ https://it.wikipedia.org
+- State: CA
++ https://ru.wikipedia.org
+- Country: US
++ https://ru.wikipedia.org
+- State: CA
++ https://pt.wikipedia.org
+- Country: US
++ https://pt.wikipedia.org
+- State: CA
++ https://zh.wikipedia.org
+- Country: US
++ https://zh.wikipedia.org
+- State: CA
++ https://pl.wikipedia.org
+- Country: US
++ https://pl.wikipedia.org
+- State: CA
++ https://britannica.com
+- Country: US
++ https://britannica.com
+- State: IL
++ https://merriam-webster.com
+- Country: US
++ https://merriam-webster.com
+- State: IL
++ https://id.wikipedia.org
+- Country: US
++ https://id.wikipedia.org
+- State: CA
++ https://ar.wikipedia.org
+- Country: US
++ https://ar.wikipedia.org
+- State: CA
++ https://tr.wikipedia.org
+- Country: US
++ https://tr.wikipedia.org
+- State: CA
++ https://wiktionary.org
+- Country: US
++ https://wiktionary.org
+- State: CA
++ https://nl.wikipedia.org
+- Country: US
++ https://nl.wikipedia.org
+- State: CA
++ https://namu.wiki
+- Country: US
++ https://namu.wiki
+- State: California
++ https://justdial.com
+- Country: US
++ https://justdial.com
+- State: Arizona
++ https://hi.wikipedia.org
+- Country: US
++ https://hi.wikipedia.org
+- State: CA
++ https://uk.wikipedia.org
+- Country: US
++ https://uk.wikipedia.org
+- State: CA
++ https://ca.wikipedia.org
+- Country: US
++ https://ca.wikipedia.org
+- State: CA
++ https://timeanddate.com
+- Country: NO
++ https://vi.wikipedia.org
+- Country: US
++ https://vi.wikipedia.org
+- State: CA
++ https://reverso.net
+- Country: CA
++ https://reverso.net
+- State: Quebec
++ https://sv.wikipedia.org
+- Country: US
++ https://sv.wikipedia.org
+- State: CA
++ https://dictionary.com
+- Country: US
++ https://dictionary.com
+- State: Arizona
++ https://wikihow.com
+- Country: US
++ https://wikihow.com
+- State: CA
++ https://th.wikipedia.org
+- Country: US
++ https://th.wikipedia.org
+- State: CA
++ https://he.wikipedia.org
+- Country: US
++ https://he.wikipedia.org
+- State: CA
++ https://cs.wikipedia.org
+- Country: US
++ https://cs.wikipedia.org
+- State: CA
++ https://mawdoo3.com
+- Country: US
++ https://mawdoo3.com
+- State: Arizona
++ https://el.wikipedia.org
+- Country: US
++ https://el.wikipedia.org
+- State: CA
++ https://hu.wikipedia.org
+- Country: US
++ https://hu.wikipedia.org
+- State: CA
++ https://fi.wikipedia.org
+- Country: US
++ https://fi.wikipedia.org
+- State: CA
++ https://ro.wikipedia.org
+- Country: US
++ https://ro.wikipedia.org
+- State: CA
++ https://bn.wikipedia.org
+- Country: US
++ https://bn.wikipedia.org
+- State: CA
++ https://word.tips
+- Country: IS
++ https://word.tips
+- State: Capital Region
++ https://da.wikipedia.org
+- Country: US
++ https://da.wikipedia.org
+- State: CA
++ https://no.wikipedia.org
+- Country: US
++ https://no.wikipedia.org
+- State: CA
++ https://thesaurus.com
+- Country: US
++ https://thesaurus.com
+- State: CA
++ https://shabdkosh.com
+- Country: US
++ https://shabdkosh.com
+- State: PA
++ https://bg.wikipedia.org
+- Country: US
++ https://bg.wikipedia.org
+- State: CA
++ https://wordreference.com
+- Country: IS
++ https://wordreference.com
+- State: Capital Region
++ https://larousse.fr
+- Country: FR
++ https://archive.org
+- Country: US
++ https://archive.org
+- State: CA
++ https://sr.wikipedia.org
+- Country: US
++ https://sr.wikipedia.org
+- State: CA
++ https://pons.com
+- Country: DE
++ https://pons.com
+- State: BW
++ https://omnicalculator.com
+- Country: PL
++ https://calculatorsoup.com
+- Country: US
++ https://calculatorsoup.com
+- State: PA
++ https://urbandictionary.com
+- Country: IS
++ https://urbandictionary.com
+- State: Capital Region
++ https://baike.baidu.com
+- Country: CN
++ https://baike.baidu.com
+- State: Beijing
++ https://simple.wikipedia.org
+- Country: US
++ https://simple.wikipedia.org
+- State: CA
++ https://ms.wikipedia.org
+- Country: US
++ https://ms.wikipedia.org
+- State: CA
++ https://ko.wikipedia.org
+- Country: US
++ https://ko.wikipedia.org
+- State: CA
++ https://hr.wikipedia.org
+- Country: US
++ https://hr.wikipedia.org
+- State: CA
++ https://citationmachine.net
+- Country: US
++ https://citationmachine.net
+- State: CA
++ https://cnrtl.fr
+- Country: FR
++ https://glosbe.com
+- Country: PL
++ https://glosbe.com
+- State: mazowieckie
++ https://calendarr.com
+- Country: IS
++ https://calendarr.com
+- State: Capital Region
++ https://yourdictionary.com
+- Country: US
++ https://yourdictionary.com
+- State: CA
++ https://history.com
+- Country: US
++ https://history.com
+- State: NY
++ https://sk.wikipedia.org
+- Country: US
++ https://sk.wikipedia.org
+- State: CA
++ https://worldometers.info
+- Country: US
++ https://worldometers.info
+- State: Arizona
++ https://wordcounter.net
+- Country: IS
++ https://wordcounter.net
+- State: Capital Region
++ https://m.wikipedia.org
+- Country: US
++ https://m.wikipedia.org
+- State: CA
++ https://fa.wikipedia.org
+- Country: US
++ https://fa.wikipedia.org
+- State: CA
++ https://significados.com
+- Country: IS
++ https://significados.com
+- State: Capital Region
++ https://googlemaps.com
+- Country: US
++ https://googlemaps.com
+- State: CA
++ https://mybib.com
+- Country: US
++ https://mybib.com
+- State: California
++ https://longdo.com
+- Country: TH
++ https://longdo.com
+- State: Bangkok
++ https://duplichecker.com
+- Country: US
++ https://duplichecker.com
+- State: Arizona
++ https://wordhippo.com
+- Country: US
++ https://wordhippo.com
+- State: Arizona
++ https://tureng.com
+- Country: US
++ https://tureng.com
+- State: DE
++ https://hinkhoj.com
+- Country: US
++ https://hinkhoj.com
+- State: Arizona
++ https://lt.wikipedia.org
+- Country: US
++ https://lt.wikipedia.org
+- State: CA
++ https://lerobert.com
+- Country: FR
++ https://translate.com
+- Country: US
++ https://translate.com
+- State: Arizona
++ https://almaany.com
+- Country: US
++ https://almaany.com
+- State: Arizona
+* SCIENCE
++ https://openai.com
+- Country: US
++ https://openai.com
+- State: California
++ https://weather.com
+- Country: US
++ https://weather.com
+- State: GA
++ https://accuweather.com
+- Country: US
++ https://accuweather.com
+- State: PA
++ https://sinoptik.ua
+- Country: UA
++ https://calculator.net
+- Country: US
++ https://calculator.net
+- State: Arizona
++ https://sciencedirect.com
+- State: Data protected, not disclosed
++ https://meteofor.com.ua
+- Country: UA
++ https://meteofrance.com
+- Country: FR
++ https://imd.gov.in
+- Country: IN
++ https://imd.gov.in
+- Country: IN
++ https://tmd.go.th
+- Country: TH
++ https://desmos.com
+- Country: US
++ https://desmos.com
+- State: CA
++ https://mathway.com
+- Country: US
++ https://mathway.com
+- State: CA
++ https://oceans-nadia.com
+- Country: JP
++ https://oceans-nadia.com
+- State: Tokyo
++ https://gismeteo.by
+- Country: RU
++ https://researchgate.net
+- Country: DE
++ https://wunderground.com
+- Country: US
++ https://wunderground.com
+- State: GA
++ https://symbolab.com
+- Country: US
++ https://symbolab.com
+- State: Arizona
++ https://calculatorsoup.com
+- Country: US
++ https://calculatorsoup.com
+- State: PA
++ https://wetter.com
+- Country: DE
++ https://wetter.com
+- State: Baden-Wuerttemberg
++ https://wired.com
+- Country: US
++ https://wired.com
+- State: NY
++ https://rapidtables.com
+- Country: US
++ https://rapidtables.com
+- State: Arizona
++ https://windy.com
+- Country: CZ
++ https://windy.com
+- State: PRAHA
++ https://bmkg.go.id
+- Country: ID
++ https://howstuffworks.com
+- Country: US
++ https://howstuffworks.com
+- State: WA
++ https://havadurumu15gunluk.xyz
+- Country: TR
++ https://havadurumu15gunluk.xyz
+- State: Istanbul
++ https://nationalgeographic.com
+- Country: US
++ https://nationalgeographic.com
+- State: WA
++ https://nature.com
+- Country: GB
++ https://nature.com
+- State: EN
++ https://geology.com
+- Country: US
++ https://geology.com
+- State: WA
++ https://ptable.com
+- Country: US
++ https://ptable.com
+- State: Tennessee
++ https://space.com
+- Country: GB
++ https://tiempo.com
+- Country: ES
++ https://tiempo.com
+- State: Murcia
++ https://hesaplama.net
+- Country: TR
++ https://hesaplama.net
+- State: NA
++ https://tameteo.com
+- Country: ES
++ https://tameteo.com
+- State: murcia
++ https://nationalgeographic.org
+- Country: US
++ https://nationalgeographic.org
+- State: DC
++ https://apa.org
+- Country: US
++ https://apa.org
+- State: DC
++ https://technologyreview.com
+- Country: US
++ https://technologyreview.com
+- State: FL
++ https://wiley.com
+- Country: US
++ https://wiley.com
+- State: NJ
++ https://tiempo3.com
+- Country: US
++ https://tiempo3.com
+- State: AZ
++ https://mathsisfun.com
+- Country: US
++ https://mathsisfun.com
+- State: Arizona
++ https://engie.fr
+- Country: FR
++ https://unitconverters.net
+- Country: US
++ https://unitconverters.net
+- State: Arizona
++ https://meteoblue.com
+- Country: CH
++ https://meteoblue.com
+- State: SG
++ https://lameteoagricole.net
+- Country: FR
++ https://lameteoagricole.net
+- State: Paris
++ https://sigmaaldrich.com
+- Country: DE
++ https://springer.com
+- Country: NL
+* SHOPPING
++ https://play.google.com
+- Country: US
++ https://play.google.com
+- State: CA
++ https://amazon.com
+- Country: US
++ https://amazon.com
+- State: NV
++ https://amazon.in
+- Country: US
++ https://amazon.in
+- State: NV
++ https://flipkart.com
+- Country: US
++ https://flipkart.com
+- State: Arizona
++ https://etsy.com
+- Country: US
++ https://etsy.com
+- State: NY
++ https://trendyol.com
+- Country: US
++ https://trendyol.com
+- State: Arizona
++ https://tokopedia.com
+- Country: ID
++ https://tokopedia.com
+- State: DKI Jakarta
++ https://ebay.com
+- Country: US
++ https://ebay.com
+- State: CA
++ https://sahibinden.com
+- Country: TR
++ https://sahibinden.com
++ https://nike.com
+- Country: US
++ https://nike.com
+- State: OR
++ https://walmart.com
+- Country: US
++ https://walmart.com
+- State: AR
++ https://shopee.co.id
+- Country: ID
++ https://amazon.fr
+- Country: FR
++ https://mercadolibre.com.mx
+- Country: Argentina
++ https://mercadolibre.com.mx
+- State: AR
++ https://justdial.com
+- Country: US
++ https://justdial.com
+- State: Arizona
++ https://target.com
+- Country: US
++ https://target.com
+- State: ID
++ https://aliexpress.com
+- Country: CN
++ https://aliexpress.com
+- State: zhe jiang
++ https://zara.com
+- Country: ES
++ https://zara.com
+- State: A Coruna
++ https://hepsiburada.com
+- Country: US
++ https://hepsiburada.com
+- State: FL
++ https://hm.com
+- Country: SE
++ https://shein.com
+- Country: SG
++ https://shein.com
+- State: xin jia po
++ https://my-best.com
+- Country: JP
++ https://my-best.com
+- State: Tokyo
++ https://akakce.com
+- Country: US
++ https://akakce.com
+- State: FL
++ https://amazon.ca
+- Country: US
++ https://amazon.ca
+- State: NV
++ https://thegioididong.com
+- Country: VN
++ https://thegioididong.com
+- State: HCMC
++ https://leboncoin.fr
+- Country: FR
++ https://lazada.co.id
+- Country: ID
++ https://amazon.com.mx
+- Country: United States
++ https://amazon.com.mx
+- State: Nevada
++ https://craigslist.org
+- Country: US
++ https://craigslist.org
+- State: CA
++ https://kakaku.com
+- Country: JP
++ https://kakaku.com
+- State: Tokyo
++ https://olx.ua
+- Country: UA
++ https://shopee.co.th
+- Country: TH
++ https://myntra.com
+- Country: US
++ https://myntra.com
+- State: Arizona
++ https://bestbuy.com
+- Country: US
++ https://bestbuy.com
+- State: MN
++ https://rozetka.com.ua
+- Country: UA
++ https://mercadolibre.com.co
+- Country: AR
++ https://mercadolibre.com.co
+- State: AR
++ https://nordstrom.com
+- Country: US
++ https://nordstrom.com
+- State: OR
++ https://costco.com
+- Country: US
++ https://costco.com
+- State: WA
++ https://mercari.com
+- Country: JP
++ https://mercari.com
+- State: Tokyo
++ https://marksandspencer.com
+- Country: GB
++ https://marksandspencer.com
+- State: ENG
++ https://shopify.com
+- Country: CA
++ https://shopify.com
+- State: ON
++ https://dienmayxanh.com
+- Country: US
++ https://dienmayxanh.com
+- State: Arizona
++ https://falabella.com
+- Country: CL
++ https://falabella.com
+- State: RM
++ https://bachhoaxanh.com
+- Country: US
++ https://bachhoaxanh.com
+- State: Arizona
++ https://macys.com
+- Country: US
++ https://macys.com
+- State: 5985 State Bridge Road
++ https://bol.com
+- Country: NL
++ https://pandora.net
+- Country: DK
++ https://cimri.com
+- Country: US
++ https://cimri.com
+- State: Arizona
++ https://meesho.com
+- Country: US
++ https://meesho.com
+- State: Arizona
++ https://cdiscount.com
+- Country: FR
++ https://cdiscount.com
+- State: FR
++ https://lazada.co.th
+- Country: TH
++ https://adidas.com
+- Country: DE
++ https://adidas.com
+- State: BY
++ https://dior.com
+- Country: FR
++ https://spirithalloween.com
+- Country: US
++ https://spirithalloween.com
+- State: NJ
++ https://alibaba.com
+- Country: CN
++ https://alibaba.com
+- State: Zhejiang
++ https://max.com
+- Country: US
++ https://max.com
+- State: New York
++ https://temu.com
+- Country: US
++ https://temu.com
+- State: MA
++ https://asos.com
+- Country: GB
++ https://asos.com
+- State: ENG
++ https://stockx.com
+- Country: GB
++ https://stockx.com
+- State: Middlesex
++ https://liverpool.com.mx
+- Country: Mexico
++ https://liverpool.com.mx
+- State: Distrito Federal
++ https://couponfollow.com
+- Country: US
++ https://couponfollow.com
+- State: Arizona
+* SOCIAL NETWORKS
++ https://instagram.com
+- Country: US
++ https://instagram.com
+- State: CA
++ https://facebook.com
+- Country: US
++ https://facebook.com
+- State: CA
++ https://twitter.com
+- Country: US
++ https://twitter.com
+- State: CA
++ https://pinterest.com
+- Country: US
++ https://pinterest.com
+- State: CA
++ https://reddit.com
+- Country: US
++ https://reddit.com
+- State: CA
++ https://tiktok.com
+- Country: KY
++ https://chatgpt.com
+- Country: US
++ https://chatgpt.com
+- State: California
++ https://discord.com
+- Country: US
++ https://discord.com
+- State: CA
++ https://vk.com
+- Country: RU
++ https://vk.com
+- State: Moscow
++ https://snapinsta.app
+- Country: US
++ https://snapinsta.app
+- State: CO
++ https://x.com
+- Country: US
++ https://x.com
+- State: Arizona
++ https://pantip.com
+- Country: TH
++ https://pantip.com
+- State: BANGKOK
++ https://igram.world
+- Country: KN
++ https://igram.world
+- State: Charlestown
++ https://eksisozluk.com
+- Country: US
++ https://eksisozluk.com
+- State: Arizona
++ https://line.me
+- Country: JP
++ https://line.me
+- State: Tokyo
++ https://hamariweb.com
+- Country: US
++ https://hamariweb.com
+- State: Arizona
++ https://snapchat.com
+- Country: US
++ https://snapchat.com
+- State: CA
++ https://tenor.com
+- Country: US
++ https://tenor.com
+- State: CA
++ https://sssinstagram.com
+- Country: UA
++ https://messenger.com
+- Country: US
++ https://messenger.com
+- State: CA
++ https://stackexchange.com
+- Country: US
++ https://stackexchange.com
+- State: NY
++ https://pw.live
+- Country: IN
++ https://pw.live
+- State: Uttar Pradesh
++ https://badoo.com
+- Country: CY
++ https://gutefrage.net
+- Country: DE
++ https://pixnet.net
+- Country: TW
++ https://tumblr.com
+- Country: US
++ https://tumblr.com
+- State: CA
++ https://dcinside.com
+- Country: KR
++ https://inflact.com
+- State: Data Protect
++ https://pinterest.fr
+- Country: US
++ https://anonyig.com
+- Country: KN
++ https://anonyig.com
+- State: Charlestown
++ https://ptt.cc
+- Country: US
++ https://ptt.cc
+- State: FL
++ https://tinder.com
+- Country: US
++ https://tinder.com
+- State: TX
++ https://twibbonize.com
+- Country: GB
++ https://twibbonize.com
+- State: Middlesex
++ https://ome.tv
+- Country: US
++ https://ome.tv
+- State: AZ
++ https://an1.com
+- Country: US
++ https://an1.com
+- State: Arizona
++ https://kwai.com
+- Country: KY
++ https://ssstwitter.com
+- Country: UA
++ https://linternaute.fr
+- Country: FR
++ https://monkey.app
+- Country: US
++ https://monkey.app
+- State: Arizona
++ https://nextdoor.com
+- Country: GB
++ https://nextdoor.com
+- State: Middlesex
++ https://publer.io
+- Country: IS
++ https://publer.io
+- State: Capital Region
++ https://linternaute.com
+- Country: FR
++ https://doublelist.com
+- Country: IS
++ https://doublelist.com
+- State: Capital Region
++ https://knowyourmeme.com
+- Country: US
++ https://knowyourmeme.com
+- State: Arizona
++ https://pof.com
+- Country: CA
++ https://pof.com
+- State: BC
++ https://baji.live
+- Country: US
++ https://baji.live
+- State: Arizona
++ https://5ch.net
+- Country: US
++ https://5ch.net
+- State: WY
++ https://flick.social
+- Country: GB
++ https://flick.social
+- Country: GB
++ https://sharechat.com
+- Country: IN
++ https://sharechat.com
+- State: NA
++ https://hootsuite.com
+- Country: US
++ https://hootsuite.com
+- State: Arizona
++ https://sproutsocial.com
+- Country: US
++ https://sproutsocial.com
+- State: IL
++ https://bazoocam.org
+- Country: FR
++ https://bazoocam.org
+- Country: FR
++ https://best-hashtags.com
+- Country: US
++ https://best-hashtags.com
+- State: Arizona
++ https://later.com
+- Country: IS
++ https://later.com
+- State: Capital Region
++ https://flashback.org
+- Country: SE
++ https://flashback.org
+- Country: SE
++ https://qq.com
+- Country: CN
++ https://qq.com
+- State: Guang Dong
++ https://disboard.org
+- Country: IS
++ https://disboard.org
+- State: Capital Region
++ https://nairaland.com
+- Country: US
++ https://nairaland.com
+- State: CO
++ https://meetic.fr
+- Country: FR
++ https://meetsmore.com
+- Country: JP
++ https://aminoapps.com
+- Country: GB
++ https://aminoapps.com
+- State: Middlesex
++ https://dirarab.net
+- Country: SA
++ https://dirarab.net
+- State: hfof
++ https://picuki.com
+- Country: DE
++ https://picuki.com
+- State: Germany
++ https://fansly.com
+- Country: IS
++ https://fansly.com
+- State: Capital Region
++ https://socialblade.com
+- Country: US
++ https://socialblade.com
+- State: NC
++ https://douyin.com
+- Country: CN
++ https://douyin.com
+- State: BeiJing
++ https://togetter.com
+- Country: JP
++ https://togetter.com
+- State: OSAKA-FU
++ https://steemit.com
+- Country: US
++ https://steemit.com
+- State: Arizona
++ https://groups.google.com
+- Country: US
++ https://groups.google.com
+- State: CA
++ https://groupme.com
+- Country: US
++ https://groupme.com
+- State: WA
++ https://hihi2.com
+- Country: SA
++ https://hihi2.com
+- State: SA
++ https://chatib.us
+- Country: US
++ https://chatib.us
+- State: IDAHO
++ https://eyny.com
+- Country: US
++ https://eyny.com
+- State: WA
++ https://omegle.cc
+- Country: IS
++ https://omegle.cc
+- State: Capital Region
++ https://emeraldchat.com
+- Country: CA
++ https://emeraldchat.com
+- State: ON
++ https://smodin.io
+- Country: US
++ https://smodin.io
+- State: Arizona
++ https://jecontacte.com
+- Country: US
++ https://jecontacte.com
+- State: WA
++ https://lihkg.com
+- Country: IS
++ https://lihkg.com
+- State: Capital Region
++ https://blog.fc2.com
+- Country: US
++ https://blog.fc2.com
+- State: NV
++ https://weverse.io
+- Country: KR
++ https://megafamous.com
+- Country: KN
++ https://megafamous.com
+- State: Charlestown
++ https://topchatsites.com
+- Country: US
++ https://topchatsites.com
+- State: Arizona
++ https://somosfanaticos.fans
+- Country: US
++ https://somosfanaticos.fans
+- State: Arizona
++ https://metricool.com
+- Country: US
++ https://metricool.com
+- State: Arizona
+* SPORTS
++ https://espncricinfo.com
+- Country: US
++ https://espncricinfo.com
+- State: CA
++ https://espn.com
+- Country: US
++ https://espn.com
+- State: CT
++ https://cricbuzz.com
+- Country: US
++ https://cricbuzz.com
+- State: WA
++ https://nike.com
+- Country: US
++ https://nike.com
+- State: OR
++ https://nfl.com
+- Country: US
++ https://nfl.com
+- State: ny
++ https://mlb.com
+- Country: US
++ https://mlb.com
+- State: NY
++ https://goal.com
+- State: Data protected, not disclosed
++ https://365scores.com
+- Country: US
++ https://365scores.com
+- State: Arizona
++ https://marca.com
+- Country: ES
++ https://as.com
+- Country: ES
++ https://as.com
+- State: Madrid
++ https://nba.com
+- Country: US
++ https://nba.com
+- State: NY
++ https://lequipe.fr
+- Country: FR
++ https://skysports.com
+- State: Middlesex
++ https://premierleague.com
+- Country: GB
++ https://premierleague.com
+- State: NS
++ https://uefa.com
+- Country: SE
++ https://nhl.com
+- Country: US
++ https://nhl.com
+- State: NY
++ https://aiscore.com
+- Country: US
++ https://aiscore.com
+- State: Arizona
++ https://si.com
+- Country: US
++ https://si.com
+- State: New York
++ https://cbssports.com
+- Country: US
++ https://cbssports.com
+- State: NY
++ https://foxsports.com
+- Country: US
++ https://foxsports.com
+- State: CA
++ https://goal3.co
+- Country: TH
++ https://goal3.co
+- State: Thailand
++ https://kooora.com
+- State: Data protected, not disclosed
++ https://formula1.com
+- Country: GB
++ https://formula1.com
+- State: London
++ https://lance.com.br
+- Country: BR
++ https://mackolik.com
+- Country: TR
++ https://mackolik.com
+- State: KADIKOY
++ https://bola.com
+- Country: FR
++ https://bola.com
+- State: Paris
++ https://olympics.com
+- Country: GB
++ https://sports.yahoo.com
+- Country: US
++ https://sports.yahoo.com
+- State: VA
++ https://icc-cricket.com
+- Country: FR
++ https://icc-cricket.com
+- State: Paris
++ https://sportskeeda.com
+- Country: US
++ https://sportskeeda.com
+- State: Arizona
++ https://decathlon.fr
+- Country: US
++ https://yalla-shoot-tv.live
+- Country: IS
++ https://yalla-shoot-tv.live
+- State: Capital Region
++ https://livescore.com
+- Country: GI
++ https://bundesliga.com
+- Country: DE
++ https://bola.net
+- Country: ID
++ https://bola.net
+- State: DKI Jakarta
++ https://baseball-reference.com
+- Country: GB
++ https://baseball-reference.com
+- State: Middlesex
++ https://dazn.com
+- State: Data protected, not disclosed
++ https://sportingnews.com
+- Country: GB
++ https://sportingnews.com
+- State: Bucks
++ https://transfermarkt.com
+- Country: DE
++ https://transfermarkt.com
+- State: Hamburg
++ https://atptour.com
+- Country: US
++ https://atptour.com
+- State: FL
++ https://tf1.fr
+- Country: FR
++ https://adidas.com
+- Country: DE
++ https://adidas.com
+- State: BY
++ https://footmercato.net
+- Country: FR
++ https://basketball-reference.com
+- Country: GB
++ https://basketball-reference.com
+- State: Middlesex
++ https://tycsports.com
+- Country: US
++ https://tycsports.com
+- State: IL
++ https://flashscore.com
+- Country: CZ
++ https://flashscore.com
+- State: Not Disclosed
++ https://tff.org
+- Country: TR
++ https://tff.org
+- State: Marmara
++ https://sattasport.in
+- Country: IN
++ https://sattasport.in
+- State: Andaman and Nicobar Islands
++ https://championat.com
+- Country: RU
++ https://realmadrid.com
+- Country: ES
++ https://realmadrid.com
+- State: Madrid
++ https://soccerway.com
+- Country: GB
++ https://puma.com
+- Country: DE
++ https://puma.com
+- State: BY
++ https://futbolred.com
+- Country: CO
++ https://futbolred.com
+- State: BOGOTA DC
++ https://footystats.org
+- Country: GB
++ https://footystats.org
+- State: Middlesex
++ https://besoccer.com
+- Country: ES
++ https://besoccer.com
+- State: MA
++ https://ufc.com
+- Country: US
++ https://ufc.com
+- State: NY
++ https://newbalance.com
+- Country: US
++ https://newbalance.com
+- State: MA
++ https://fotmob.com
+- Country: GB
++ https://fotmob.com
+- State: Middlesex
++ https://kooora-live.io
+- Country: IS
++ https://kooora-live.io
+- State: Capital Region
++ https://yallakora.com
+- Country: EG
++ https://nikkansports.com
+- Country: JP
++ https://nikkansports.com
+- State: Tokyo
++ https://fenerbahce.org
+- Country: US
++ https://fenerbahce.org
+- State: GDPR Masked
++ https://888scoreonline.net
+- Country: IS
++ https://888scoreonline.net
+- State: Capital Region
++ https://pro-football-reference.com
+- Country: GB
++ https://pro-football-reference.com
+- State: Middlesex
++ https://asics.com
+- Country: JP
++ https://asics.com
+- State: Hyogo
++ https://iplt20.com
+- Country: US
++ https://iplt20.com
+- State: FL
++ https://zone-turf.fr
+- Country: FR
++ https://dickssportinggoods.com
+- Country: US
++ https://dickssportinggoods.com
+- State: PA
++ https://laliga.com
+- Country: ES
++ https://cronista.com
+- Country: AR
++ https://cronista.com
+- State: NO STATE
+* TRAVEL
++ https://tripadvisor.com
+- Country: US
++ https://tripadvisor.com
+- State: MA
++ https://booking.com
+- Country: NL
++ https://makemytrip.com
+- Country: US
++ https://makemytrip.com
+- State: FL
++ https://mapquest.com
+- Country: US
++ https://mapquest.com
+- State: WA
++ https://tripadvisor.in
+- Country: US
++ https://tripadvisor.in
+- State: MA
++ https://jalan.net
+- Country: JP
++ https://jalan.net
+- State: Tokyo
++ https://flightradar24.com
+- Country: US
++ https://flightradar24.com
+- State: Arizona
++ https://expedia.com
+- Country: US
++ https://expedia.com
+- State: WA
++ https://ryanair.com
+- Country: IE
++ https://ryanair.com
+- State: Co. Dublin
++ https://hotels.com
+- Country: US
++ https://hotels.com
+- State: WA
++ https://thetrainline.com
+- Country: GB
++ https://thetrainline.com
+- State: Greater London
++ https://flightaware.com
+- Country: US
++ https://flightaware.com
+- State: TX
++ https://traveloka.com
+- Country: GB
++ https://traveloka.com
+- State: Middlesex
++ https://railyatri.in
+- Country: IN
++ https://railyatri.in
+- State: Uttar Pradesh
++ https://trip.com
+- Country: SG
++ https://trip.com
+- State: Singapore
++ https://waze.com
+- Country: US
++ https://waze.com
+- State: CA
++ https://tripadvisor.fr
+- Country: US
++ https://indianrail.gov.in
+- Country: IN
++ https://indianrail.gov.in
+- Country: IN
++ https://agoda.com
+- Country: TH
++ https://airbnb.com
+- Country: US
++ https://airbnb.com
+- State: CA
++ https://moovitapp.com
+- Country: US
++ https://moovitapp.com
+- State: Arizona
++ https://easyjet.com
+- State: London
++ https://irctc.co.in
+- Country: IN
++ https://irctc.co.in
+- State: Dillee
++ https://rome2rio.com
+- Country: AU
++ https://rome2rio.com
+- State: Victoria
++ https://skyscanner.net
+- Country: GB
++ https://redbus.in
+- Country: IN
++ https://redbus.in
+- Country: IN
++ https://confirmtkt.com
+- Country: US
++ https://confirmtkt.com
+- State: Arizona
++ https://southwest.com
+- Country: US
++ https://southwest.com
+- State: TX
++ https://marriott.com
+- Country: US
++ https://marriott.com
+- State: MD
++ https://klook.com
+- Country: US
++ https://klook.com
+- State: Arizona
++ https://latamairlines.com
+- Country: CL
++ https://obilet.com
+- Country: TR
++ https://obilet.com
+- State: Kagithane
++ https://renfe.com
+- Country: ES
++ https://renfe.com
+- State: Madrid
++ https://sncf-connect.com
+- Country: FR
++ https://kayak.com
+- Country: US
++ https://kayak.com
+- State: MA
++ https://trenitalia.com
+- Country: IT
++ https://trenitalia.com
+- State: RM
++ https://ixigo.com
+- Country: US
++ https://ixigo.com
+- State: Arizona
++ https://goibibo.com
+- Country: IN
++ https://goibibo.com
+- State: Haryana
++ https://trainman.in
+- Country: IN
++ https://trainman.in
+- State: Haryana
++ https://tripadvisor.com.br
+- Country: BR
++ https://delta.com
+- Country: US
++ https://delta.com
+- State: GA
++ https://uber.com
+- Country: US
++ https://uber.com
+- State: CA
++ https://united.com
+- Country: US
++ https://united.com
+- State: IL
++ https://tripadvisor.ca
+- Country: CA
++ https://tripadvisor.ca
+- State: ON
++ https://timeout.com
+- Country: GB
++ https://timeout.com
+- State: London
++ https://mappy.com
+- Country: FR
++ https://panvel.com
+- Country: US
++ https://panvel.com
+- State: Arizona
++ https://wizzair.com
+- Country: US
++ https://wizzair.com
+- State: FL
++ https://hilton.com
+- Country: US
++ https://hilton.com
+- State: VA
++ https://goindigo.in
+- Country: IN
++ https://goindigo.in
+- State: Haryana
++ https://hyatt.com
+- Country: US
++ https://hyatt.com
+- State: IL
++ https://accor.com
+- Country: FR
++ https://accor.com
+- State: Issy les Moulineaux
++ https://etrain.info
+- Country: US
++ https://etrain.info
+- State: MA
++ https://flightstats.com
+- Country: GB
++ https://flightstats.com
+- State: Surrey
++ https://royalcaribbean.com
+- Country: US
++ https://royalcaribbean.com
+- State: FL
++ https://emirates.com
+- Country: AE
++ https://etstur.com
+- Country: TR
++ https://etstur.com
+- State: Istanbul
++ https://ihg.com
+- Country: US
++ https://ihg.com
+- State: GA
++ https://googlemaps.com
+- Country: US
++ https://googlemaps.com
+- State: CA
++ https://holidify.com
+- Country: US
++ https://holidify.com
+- State: Arizona
++ https://qantas.com
+- Country: AU
++ https://qantas.com
+- State: NSW
++ https://decolar.com
+- Country: UY
++ https://decolar.com
+- State: MO
++ https://jetsmart.com
+- Country: CL
++ https://aircanada.com
+- Country: CA
++ https://aircanada.com
+- State: BC
++ https://avianca.com
+- Country: CO
++ https://sg.fr
+- Country: FR
++ https://banvenez.com
+- Country: VE
++ https://banvenez.com
+- State: D.F.
++ https://jet2holidays.com
+- Country: GB
++ https://jet2holidays.com
+- State: Leeds
++ https://lufthansa.com
+- Country: DE
++ https://lufthansa.com
+- State: HE
++ https://tiket.com
+- Country: US
++ https://tiket.com
+- State: Arizona
+* VEHICLES
++ https://cardekho.com
+- Country: US
++ https://cardekho.com
+- State: Arizona
++ https://bikewale.com
+- Country: GB
++ https://bikewale.com
+- State: Middlesex
++ https://carwale.com
+- Country: GB
++ https://carwale.com
+- State: Middlesex
++ https://caranddriver.com
+- Country: US
++ https://caranddriver.com
+- State: NY
++ https://edmunds.com
+- Country: US
++ https://edmunds.com
+- State: CA
++ https://tesla.com
+- Country: US
++ https://tesla.com
+- State: CA
++ https://carsensor.net
+- Country: JP
++ https://carsensor.net
+- State: Tokyo
++ https://kbb.com
+- Country: US
++ https://kbb.com
+- State: GA
++ https://carfax.com
+- Country: US
++ https://carfax.com
+- State: VA
++ https://waze.com
+- Country: US
++ https://waze.com
+- State: CA
++ https://toyota.com
+- Country: US
++ https://toyota.com
+- State: TX
++ https://bikedekho.com
+- Country: US
++ https://bikedekho.com
+- State: Arizona
++ https://kia.com
+- Country: KR
++ https://lacentrale.fr
+- Country: FR
++ https://porsche.com
+- Country: DE
++ https://porsche.com
+- State: DE
++ https://ford.com
+- Country: US
++ https://ford.com
+- State: MI
++ https://cars.com
+- Country: US
++ https://cars.com
+- State: IL
++ https://hyundai.com
+- Country: KR
++ https://carmax.com
+- Country: US
++ https://carmax.com
+- State: VA
++ https://uber.com
+- Country: US
++ https://uber.com
+- State: CA
++ https://honda.com
+- Country: US
++ https://honda.com
+- State: FL
++ https://autotrader.com
+- Country: US
++ https://autotrader.com
+- State: GA
++ https://cargurus.com
+- Country: US
++ https://cargurus.com
+- State: Arizona
++ https://oto.com
+- Country: ID
++ https://oto.com
+- State: DKI Jakarta
++ https://autozone.com
+- Country: US
++ https://autozone.com
+- State: TN
++ https://coches.net
+- Country: GB
++ https://coches.net
+- State: Middlesex
++ https://arabam.com
+- Country: US
++ https://arabam.com
+- State: LA
++ https://chevrolet.com
+- Country: US
++ https://chevrolet.com
+- State: MI
++ https://goobike.com
+- Country: JP
++ https://goobike.com
+- State: Aichi
++ https://volvocars.com
+- Country: SE
++ https://volvocars.com
+- State: SE
++ https://theaa.com
+- Country: GB
++ https://theaa.com
+- State: Lothian
++ https://cartrade.com
+- Country: US
++ https://cartrade.com
+- State: Arizona
++ https://pakwheels.com
+- Country: US
++ https://pakwheels.com
+- State: Arizona
++ https://nissanusa.com
+- Country: US
++ https://nissanusa.com
+- State: TN
++ https://michelin.com
+- Country: FR
++ https://michelin.com
+- State: FR
++ https://tvsmotor.com
+- Country: US
++ https://tvsmotor.com
+- State: Arizona
++ https://motortrend.com
+- Country: US
++ https://motortrend.com
+- State: CA
++ https://zigwheels.com
+- Country: US
++ https://zigwheels.com
+- State: Arizona
++ https://royalenfield.com
+- Country: GB
++ https://royalenfield.com
+- State: Middlesex
++ https://tatamotors.com
+- Country: US
++ https://tatamotors.com
+- State: Arizona
++ https://lexus.com
+- Country: US
++ https://lexus.com
+- State: TX
++ https://largus.fr
+- Country: FR
++ https://bmwusa.com
+- Country: US
++ https://bmwusa.com
+- State: NJ
++ https://carandbike.com
+- Country: US
++ https://carandbike.com
+- State: CO
++ https://hyundaiusa.com
+- Country: US
++ https://hyundaiusa.com
+- State: CA
++ https://motor1.com
+- Country: US
++ https://motor1.com
+- State: Arizona
++ https://mbusa.com
+- Country: DE
++ https://mbusa.com
+- State: BW
++ https://discounttire.com
+- Country: US
++ https://discounttire.com
+- State: AZ
++ https://jeep.com
+- Country: US
++ https://jeep.com
+- State: MI
++ https://subaru.com
+- Country: US
++ https://subaru.com
+- State: FL
++ https://gmc.com
+- Country: US
++ https://gmc.com
+- State: MI
++ https://autotrader.co.za
+- Country: ZA
++ https://autotrader.co.za
+- Country: ZA
++ https://polovniautomobili.com
+- Country: RS
++ https://polovniautomobili.com
+- State: Vojvodina
++ https://carisinyal.com
+- Country: ID
++ https://carisinyal.com
+- State: Jawa Barat
++ https://carvana.com
+- Country: US
++ https://carvana.com
+- State: AZ
++ https://ferrari.com
+- Country: IT
++ https://ferrari.com
+- State: MO
++ https://caradisiac.com
+- Country: FR
++ https://caradisiac.com
+- State: Ile-de-France
++ https://dodge.com
+- Country: US
++ https://dodge.com
+- State: MI
++ https://harley-davidson.com
+- Country: US
++ https://harley-davidson.com
+- State: WI
++ https://renault.fr
+- Country: US
++ https://astra-honda.com
+- Country: US
++ https://astra-honda.com
+- State: FL
++ https://lamborghini.com
+- Country: IT
++ https://lamborghini.com
+- State: BO
++ https://kavak.com
+- Country: GB
++ https://kavak.com
+- State: Middlesex
++ https://nettiauto.com
+- Country: FI
++ https://nettiauto.com
+- State: Uusimaa
++ https://tucarro.com.co
+- Country: AR
++ https://tucarro.com.co
+- State: AR
++ https://peugeot.fr
+- Country: FR
++ https://audiusa.com
+- Country: US
++ https://audiusa.com
+- State: Arizona
++ https://copart.com
+- Country: US
++ https://copart.com
+- State: ID
++ https://yamaha.com
+- Country: JP
++ https://yamaha.com
+- State: Shizuoka
++ https://oreillyauto.com
+- Country: US
++ https://oreillyauto.com
+- State: Arizona
++ https://autotrader.ca
+- Country: CA
++ https://autotrader.ca
+- State: ON
++ https://trekbikes.com
+- Country: US
++ https://trekbikes.com
+- State: WI
++ https://auto2000.co.id
+- Country: ID
++ https://mazdausa.com
+- Country: US
++ https://mazdausa.com
+- State: CA
+* FOOD AND DRINK
++ https://cookpad.com
+- Country: JP
++ https://cookpad.com
+- State: Tokyo
++ https://allrecipes.com
+- Country: US
++ https://allrecipes.com
+- State: IA
++ https://tabelog.com
+- Country: JP
++ https://tabelog.com
+- State: Tokyo
++ https://marmiton.org
+- Country: FR
++ https://marmiton.org
+- State: 11
++ https://nefisyemektarifleri.com
+- Country: US
++ https://nefisyemektarifleri.com
+- State: Arizona
++ https://bbcgoodfood.com
+- Country: GB
++ https://delishkitchen.tv
+- Country: US
++ https://delishkitchen.tv
+- State: AZ
++ https://tudogostoso.com.br
+- Country: BR
++ https://zomato.com
+- Country: IN
++ https://wongnai.com
+- Country: GB
++ https://wongnai.com
+- State: Middlesex
++ https://kurashiru.com
+- Country: JP
++ https://kurashiru.com
+- State: Tokyo
++ https://recipetineats.com
+- Country: US
++ https://recipetineats.com
+- State: FL
++ https://loveandlemons.com
+- Country: US
++ https://loveandlemons.com
+- State: Arizona
++ https://ubereats.com
+- Country: US
++ https://ubereats.com
+- State: CA
++ https://doordash.com
+- Country: GB
++ https://doordash.com
+- State: Middlesex
++ https://mcdonalds.com
+- Country: US
++ https://mcdonalds.com
+- State: IL
++ https://cuisineaz.com
+- Country: FR
++ https://foodnetwork.com
+- Country: US
++ https://foodnetwork.com
+- State: TN
++ https://russianfood.com
+- Country: US
++ https://russianfood.com
+- State: FL
++ https://food.com
+- Country: US
++ https://food.com
+- State: TN
++ https://sallysbakingaddiction.com
+- Country: US
++ https://sallysbakingaddiction.com
+- State: Arizona
++ https://kwestiasmaku.com
+- Country: US
++ https://kwestiasmaku.com
+- State: CA
++ https://thekitchn.com
+- Country: US
++ https://thekitchn.com
+- State: Arizona
++ https://thepioneerwoman.com
+- Country: US
++ https://thepioneerwoman.com
+- State: Arizona
++ https://sirogohan.com
+- Country: JP
++ https://sirogohan.com
+- State: Fukuoka
++ https://retty.me
+- Country: JP
++ https://retty.me
+- State: Tokyo
++ https://yemek.com
+- Country: TR
++ https://yemek.com
+- State: 10117
++ https://simplyrecipes.com
+- Country: US
++ https://simplyrecipes.com
+- State: NY
++ https://seriouseats.com
+- Country: US
++ https://seriouseats.com
+- State: NY
++ https://tasteofhome.com
+- Country: US
++ https://tasteofhome.com
+- State: WI
++ https://directoalpaladar.com
+- Country: ES
++ https://directoalpaladar.com
+- State: Spain
++ https://ricardocuisine.com
+- Country: CA
++ https://ricardocuisine.com
+- State: QC
++ https://tastesbetterfromscratch.com
+- Country: US
++ https://tastesbetterfromscratch.com
+- State: Arizona
++ https://inspiredtaste.net
+- Country: CA
++ https://inspiredtaste.net
+- State: BC
++ https://delish.com
+- Country: SE
++ https://delish.com
+- State: NY
++ https://thespruceeats.com
+- Country: US
++ https://thespruceeats.com
+- State: NY
++ https://spendwithpennies.com
+- Country: US
++ https://spendwithpennies.com
+- State: Arizona
++ https://swiggy.com
+- Country: US
++ https://swiggy.com
+- State: Arizona
++ https://nespresso.com
+- Country: CH
++ https://nespresso.com
+- State: Vaud
++ https://starbucks.com
+- Country: US
++ https://starbucks.com
+- State: WA
++ https://cookieandkate.com
+- Country: US
++ https://cookieandkate.com
+- State: MO
++ https://eater.com
+- Country: GB
++ https://eater.com
+- State: Middlesex
++ https://foodandwine.com
+- Country: US
++ https://foodandwine.com
+- State: IA
++ https://bollyflix.beer
+- Country: KN
++ https://bollyflix.beer
+- State: Charlestown
++ https://grubhub.com
+- Country: US
++ https://grubhub.com
+- State: IL
++ https://gutekueche.at
+- Country: Austria
++ https://yemeksepeti.com
+- Country: TR
++ https://yemeksepeti.com
+- State: 10117
++ https://eatingwell.com
+- Country: US
++ https://eatingwell.com
+- State: IA
++ https://tacobell.com
+- Country: US
++ https://tacobell.com
+- State: KY
++ https://dominos.com
+- Country: US
++ https://dominos.com
+- State: MI
++ https://gimmesomeoven.com
+- Country: US
++ https://gimmesomeoven.com
+- State: MO
++ https://wolt.com
+- Country: GB
++ https://wolt.com
+- State: Middlesex
++ https://opentable.com
+- Country: US
++ https://opentable.com
+- State: CA
++ https://natashaskitchen.com
+- Country: US
++ https://natashaskitchen.com
+- State: Arizona
++ https://downshiftology.com
+- Country: US
++ https://downshiftology.com
+- State: Arizona
++ https://bonappetit.com
+- Country: US
++ https://bonappetit.com
+- State: NY
++ https://talabat.com
+- Country: US
++ https://talabat.com
+- State: WA
++ https://onceuponachef.com
+- Country: US
++ https://onceuponachef.com
+- State: Arizona
++ https://themediterraneandish.com
+- Country: IS
++ https://themediterraneandish.com
+- State: Capital Region
++ https://indianhealthyrecipes.com
+- Country: US
++ https://indianhealthyrecipes.com
+- State: Arizona
++ https://chipotle.com
+- Country: US
++ https://chipotle.com
+- State: CO
++ https://pergikuliner.com
+- Country: US
++ https://pergikuliner.com
+- State: Arizona
++ https://wellplated.com
+- Country: IS
++ https://wellplated.com
+- State: Capital Region
++ https://750g.com
+- Country: FR
++ https://750g.com
+- State: Ile-de-France
++ https://crumblcookies.com
+- Country: US
++ https://crumblcookies.com
+- State: Arizona
++ https://sugarspunrun.com
+- Country: IS
++ https://sugarspunrun.com
+- State: Capital Region
++ https://chick-fil-a.com
+- Country: US
++ https://chick-fil-a.com
+- State: GA
